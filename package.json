@@ -1,0 +1,32 @@
+{
+  "name": "internetcoolguy",
+  "description": "the thing doer has logged on.",
+  "author": "lostfictions <https://github.com/lostfictions>",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node dist/main.js",
+    "start-local": "node dist/main.js local",
+    "dev": "ts-node-dev --respawn --transpile-only --notify=false src/main.ts -- local",
+    "test": "tsc --noEmit && eslint ./src --ext .ts,.tsx && prettier 'src/**' -l",
+    "build": "tsc",
+    "clean": "rm -rf dist/"
+  },
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "envalid": "^5.0.0",
+    "masto": "^2.1.1",
+    "source-map-support": "^0.5.8"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "@typescript-eslint/eslint-plugin": "^1.10.2",
+    "@typescript-eslint/parser": "^1.10.2",
+    "eslint": "^5.0.0",
+    "eslint-config-prettier": "^5.0.0",
+    "prettier": "^1.18.2",
+    "ts-node-dev": "^1.0.0-pre.40",
+    "typescript": "^3.5.2"
+  }
+}
