@@ -1,6 +1,6 @@
 ## internet coolguy
 
-the thing doer has logged on.
+![the interesting thoughts poster has logged on](https://i.imgur.com/2OCc9Un.png)
 
 this is a ~~twitter and~~ mastodon bot written in javascript
 ([typescript](https://www.typescriptlang.org/), actually) running on
