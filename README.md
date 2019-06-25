@@ -20,7 +20,7 @@ in a server environment, this bot can be run with
 [dokku](http://dokku.viewdocs.io/dokku/) if you're looking for a nice way to
 develop and host bots.)
 
-the bot needs environment variables if you want the it to do stuff:
+the bot needs environment variables if you want it to do stuff:
 
 - `DATA_DIR`: directory where source data lives and persistent data is written to (required in production)
 - `MASTODON_TOKEN`: a Mastodon user API token (required)
