@@ -1,0 +1,29 @@
+name: twoot on a schedule
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "14 1,4,7,10,13,16,19,22 * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          # disjoint branch with concept data
+          ref: "persist"
+          path: "persist"
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: ".node-version"
+          cache: "yarn"
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+      - run: yarn start
+        env:
+          NODE_ENV: "production"
+          DATA_DIR: "persist"
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}

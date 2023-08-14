@@ -1,7 +1,6 @@
-require("source-map-support").install();
 import fs from "fs";
 import path from "path";
-import Masto from "masto";
+import { twoot } from "twoot";
 import { DATA_DIR, MASTODON_SERVER, MASTODON_TOKEN } from "./env";
 
 // we use two files to keep track of what we've used:
@@ -33,8 +32,8 @@ function* getToot() {
   const thing = choose(Object.keys(actions));
   const action = choose(
     Object.entries(actions[thing])
-      .filter(e => e[1] === Math.min(...Object.values(actions[thing])))
-      .map(e => e[0])
+      .filter((e) => e[1] === Math.min(...Object.values(actions[thing])))
+      .map((e) => e[0]),
   );
 
   yield `the ${thing} ${action} has logged on`;
@@ -50,19 +49,27 @@ function* getToot() {
 async function doToot(): Promise<void> {
   const gen = getToot();
 
-  const status = gen.next().value;
+  const status = gen.next().value as string;
 
-  const masto = await Masto.login({
-    uri: MASTODON_SERVER,
-    accessToken: MASTODON_TOKEN
-  });
+  const results = await twoot({ status }, [
+    {
+      type: "mastodon",
+      server: MASTODON_SERVER,
+      token: MASTODON_TOKEN,
+    },
+  ]);
 
-  const { created_at: time, uri: tootUri } = await masto.createStatus({
-    status,
-    visibility: "public"
-  });
-
-  console.log(`${time} -> ${tootUri}`);
+  for (const res of results) {
+    if (res.type === "error") {
+      console.error(`error while twooting:\n${res.message}\n`);
+    } else if (res.type === "twitter") {
+      console.log(
+        `tweeted at 'https://twitter.com/${res.status.user.name}/${res.status.id}'!`,
+      );
+    } else {
+      console.log(`tooted at '${res.status.url}'!`);
+    }
+  }
 
   gen.next();
 }
@@ -73,10 +80,10 @@ if (argv.includes("local")) {
   console.log("Running locally!");
   setInterval(() => {
     const gen = getToot();
-    const toot = gen.next().value;
+    const toot = gen.next().value as string;
     console.log(`${toot}`);
     gen.next();
   }, 1000);
 } else {
-  doToot().then(() => process.exit(0));
+  void doToot().then(() => process.exit(0));
 }
