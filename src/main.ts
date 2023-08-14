@@ -3,6 +3,8 @@ import path from "path";
 import { twoot } from "twoot";
 import { DATA_DIR, MASTODON_SERVER, MASTODON_TOKEN } from "./env";
 
+type Data = { [word: string]: { [action: string]: number } };
+
 // we use two files to keep track of what we've used:
 
 // when a [thing, action] pair is used, this just removes the action
@@ -12,23 +14,34 @@ const remainingAll = path.join(DATA_DIR, "remaining-all.json");
 // ensures less repetition, but we'll run out of material quicker.
 const remainingActions = path.join(DATA_DIR, "remaining-actions.json");
 
-if (!fs.existsSync(remainingAll) || !fs.existsSync(remainingActions)) {
+let shouldReinitialize =
+  !fs.existsSync(remainingAll) || !fs.existsSync(remainingActions);
+
+let all: Data;
+let actions: Data;
+
+if (!shouldReinitialize) {
+  all = JSON.parse(fs.readFileSync(remainingAll, "utf8"));
+  actions = JSON.parse(fs.readFileSync(remainingActions, "utf8"));
+  if (Object.keys(actions!).length === 0 || Object.keys(all!).length === 0) {
+    shouldReinitialize = true;
+  }
+}
+
+if (shouldReinitialize) {
   const data = fs.readFileSync(path.join(DATA_DIR, "data.json"), "utf8");
+  all = JSON.parse(data);
+  actions = JSON.parse(data);
   fs.writeFileSync(remainingAll, data);
   fs.writeFileSync(remainingActions, data);
   console.log("initialized new files to pull from.");
 }
-
-type Data = { [word: string]: { [action: string]: number } };
 
 function choose<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
 function* getToot() {
-  const all: Data = JSON.parse(fs.readFileSync(remainingAll, "utf8"));
-  const actions: Data = JSON.parse(fs.readFileSync(remainingActions, "utf8"));
-
   const thing = choose(Object.keys(actions));
   const action = choose(
     Object.entries(actions[thing])
