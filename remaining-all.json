@@ -441,7 +441,6 @@
     "filler": 0.3333333333333333
   },
   "balloon": {
-    "blower up": 0.5,
     "popper": 1
   },
   "balloons": {
