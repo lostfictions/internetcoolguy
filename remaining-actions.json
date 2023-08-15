@@ -7142,12 +7142,6 @@
   "winchester supreme ammuntion": {
     "maker": 0.3333333333333333
   },
-  "wind": {
-    "blower": 0.3333333333333333,
-    "causer": 0.2,
-    "converter": 0.3333333333333333,
-    "feeler": 0.25
-  },
   "wind instrument": {
     "player": 0.2
   },
