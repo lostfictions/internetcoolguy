@@ -2803,9 +2803,6 @@
   "groceries": {
     "purchaser": 0.25
   },
-  "grow": {
-    "structurer": 1
-  },
   "grow groups": {
     "runner": 0.3333333333333333
   },
