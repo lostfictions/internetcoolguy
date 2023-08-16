@@ -660,9 +660,6 @@
   "biopsy material": {
     "gatherer": 0.25
   },
-  "bird's bodies": {
-    "coverer": 0.3333333333333333
-  },
   "bird": {
     "eater": 1
   },
