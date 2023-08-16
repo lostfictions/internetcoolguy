@@ -5228,9 +5228,6 @@
   "prison": {
     "meaner": 0.2
   },
-  "prisoner's penalty": {
-    "reinstater": 1
-  },
   "prisoners": {
     "depriver": 0.3333333333333333,
     "plunger": 0.3333333333333333
