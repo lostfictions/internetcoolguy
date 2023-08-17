@@ -3340,9 +3340,6 @@
     "needer": 0.25,
     "requirer": 0.25
   },
-  "kids": {
-    "teacher": 0.3333333333333333
-  },
   "killer": {
     "convicter": 0.3333333333333333
   },
