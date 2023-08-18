@@ -1500,8 +1500,7 @@
     "connecter": 1,
     "destroyedder": 0.3333333333333333,
     "knower": 0.25,
-    "teacher": 0.3333333333333333,
-    "user": 0.2
+    "teacher": 0.3333333333333333
   },
   "concerts": {
     "player": 0.25
