@@ -1784,8 +1784,7 @@
     "surrounder": 0.25
   },
   "desert": {
-    "describer": 0.3333333333333333,
-    "offerer": 0.2
+    "describer": 0.3333333333333333
   },
   "diamonds value": {
     "controller": 1
