@@ -350,11 +350,6 @@
   "automobiles": {
     "constructer": 0.25
   },
-  "babies": {
-    "borner prematurely": 0.5,
-    "borner": 0.25,
-    "dresser": 0.3333333333333333
-  },
   "baby bottle nipples": {
     "maker": 0.3333333333333333
   },
