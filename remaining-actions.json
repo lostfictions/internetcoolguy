@@ -1905,9 +1905,6 @@
     "finder": 0.3333333333333333,
     "locker": 1
   },
-  "doormat": {
-    "finder": 0.3333333333333333
-  },
   "doormats": {
     "writer": 0.5
   },
