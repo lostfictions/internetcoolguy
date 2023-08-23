@@ -777,9 +777,6 @@
     "hanger": 0.25,
     "walker": 0.5
   },
-  "briefcase": {
-    "carrier": 0.25
-  },
   "broken telephone": {
     "repairer": 1
   },
