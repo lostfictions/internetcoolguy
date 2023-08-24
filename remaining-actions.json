@@ -2456,9 +2456,6 @@
   "frivolous complaint": {
     "dismisser": 1
   },
-  "frog": {
-    "eater": 1
-  },
   "frogs": {
     "eater": 0.3333333333333333,
     "mover": 0.25,
