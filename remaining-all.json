@@ -6347,9 +6347,6 @@
     "finder": 0.25,
     "taper": 1
   },
-  "television studio": {
-    "hanger": 0.2
-  },
   "temperature": {
     "expresser": 0.3333333333333333,
     "measurer": 0.2
