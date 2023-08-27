@@ -4476,9 +4476,6 @@
     "eater": 1,
     "holder": 0.25
   },
-  "orange juice": {
-    "maker": 0.3333333333333333
-  },
   "orange oil": {
     "extracter": 0.25
   },
