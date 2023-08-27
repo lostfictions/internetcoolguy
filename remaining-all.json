@@ -3508,9 +3508,6 @@
     "pourer": 1,
     "spiller": 1
   },
-  "liquor": {
-    "storer": 0.25
-  },
   "list": {
     "maker up": 0.25
   },
