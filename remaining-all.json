@@ -556,9 +556,6 @@
   "bed": {
     "maker": 0.3333333333333333
   },
-  "bed sheet": {
-    "maker out": 0.25
-  },
   "bedrooms": {
     "finder": 0.3333333333333333
   },
