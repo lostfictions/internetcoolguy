@@ -2337,9 +2337,6 @@
   "flight attendants": {
     "concerner": 0.25
   },
-  "flight bag": {
-    "packer": 0.3333333333333333
-  },
   "floor": {
     "coverer": 0.3333333333333333,
     "lier down": 0.5
