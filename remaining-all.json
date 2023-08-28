@@ -4763,9 +4763,6 @@
   "person's emotions": {
     "trainer": 1
   },
-  "person's legs": {
-    "coverer": 0.3333333333333333
-  },
   "person": {
     "burier": 0.3333333333333333,
     "caller": 0.2,
