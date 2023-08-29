@@ -2863,11 +2863,6 @@
   "hourglass": {
     "user": 0.3333333333333333
   },
-  "house": {
-    "builder": 0.3333333333333333,
-    "divider": 0.25,
-    "locater": 0.3333333333333333
-  },
   "house cats": {
     "trainer": 0.25
   },
