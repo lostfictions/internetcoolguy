@@ -2493,17 +2493,6 @@
   "giraffe horns": {
     "coverer": 0.3333333333333333
   },
-  "glass": {
-    "blower": 0.3333333333333333,
-    "coater": 1,
-    "maker": 0.2,
-    "melter": 1,
-    "recycler": 1,
-    "roller": 0.3333333333333333,
-    "sender": 0.3333333333333333,
-    "shatterer": 1,
-    "temperer": 1
-  },
   "glass case": {
     "meaner": 0.25
   },
