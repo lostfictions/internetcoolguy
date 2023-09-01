@@ -1708,9 +1708,6 @@
   "delorme": {
     "baser": 0.25
   },
-  "dental chair": {
-    "mover up": 0.2
-  },
   "dentist": {
     "payer": 0.25
   },
