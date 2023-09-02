@@ -2641,9 +2641,6 @@
   "handguns": {
     "issuer": 0.3333333333333333
   },
-  "happiness": {
-    "causer": 0.25
-  },
   "harness": {
     "finder": 0.3333333333333333
   },
