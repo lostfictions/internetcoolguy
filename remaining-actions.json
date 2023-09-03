@@ -4607,23 +4607,6 @@
   "person's emotions": {
     "trainer": 1
   },
-  "person": {
-    "burier": 0.3333333333333333,
-    "caller": 0.2,
-    "encourager": 0.3333333333333333,
-    "executer": 0.3333333333333333,
-    "gorer": 0.3333333333333333,
-    "injurer": 0.2,
-    "judger": 0.2,
-    "killer": 0.25,
-    "murderer": 0.25,
-    "promoter": 1,
-    "releaser": 0.3333333333333333,
-    "sandwicher": 0.2,
-    "seater": 0.25,
-    "strander": 0.25,
-    "subjecter": 0.3333333333333333
-  },
   "pesticide": {
     "buyer": 0.25
   },
