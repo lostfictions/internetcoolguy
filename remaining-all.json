@@ -3342,9 +3342,6 @@
   "license": {
     "requirer": 0.25
   },
-  "lichen": {
-    "seperater": 0.2
-  },
   "life": {
     "creater": 1,
     "ender": 0.5
