@@ -4453,13 +4453,6 @@
   "paper trays": {
     "stacker": 1
   },
-  "papers": {
-    "user": 0.25,
-    "reader": 1,
-    "recycler": 1,
-    "recycler easily": 0.5,
-    "storer": 0.25
-  },
   "paperwork": {
     "considerer": 0.2
   },
