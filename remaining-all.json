@@ -6726,9 +6726,6 @@
     "converter": 0.3333333333333333,
     "feeler": 0.25
   },
-  "wind instrument": {
-    "player": 0.2
-  },
   "wind speed": {
     "measurer": 0.3333333333333333
   },
