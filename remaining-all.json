@@ -1436,9 +1436,6 @@
     "knower": 0.25,
     "teacher": 0.3333333333333333
   },
-  "concerts": {
-    "player": 0.25
-  },
   "conclusion": {
     "former": 0.3333333333333333
   },
