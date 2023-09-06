@@ -1704,11 +1704,6 @@
   "dingoes": {
     "descender": 0.2
   },
-  "dinner": {
-    "cooker": 0.3333333333333333,
-    "eater": 0.3333333333333333,
-    "griller": 1
-  },
   "dinosaurs": {
     "studyer": 0.25
   },
