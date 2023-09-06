@@ -4643,9 +4643,6 @@
   "peristalsis": {
     "affecter": 0.3333333333333333
   },
-  "permits": {
-    "requirer": 0.2
-  },
   "person's attention": {
     "distracter": 1
   },
