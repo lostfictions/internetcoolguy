@@ -6085,8 +6085,7 @@
     "taper": 1
   },
   "temperature": {
-    "expresser": 0.3333333333333333,
-    "measurer": 0.2
+    "expresser": 0.3333333333333333
   },
   "tennis": {
     "player": 0.2
