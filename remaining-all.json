@@ -3081,8 +3081,7 @@
     "locater": 0.25
   },
   "joint": {
-    "roller": 1,
-    "smoker": 1
+    "roller": 1
   },
   "jokes": {
     "intender": 0.3333333333333333,
