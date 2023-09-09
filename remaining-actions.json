@@ -1286,9 +1286,6 @@
   "cn tower": {
     "locater": 0.2
   },
-  "coach seat": {
-    "finder": 0.3333333333333333
-  },
   "cocain": {
     "deriver": 0.3333333333333333,
     "knower": 0.25
