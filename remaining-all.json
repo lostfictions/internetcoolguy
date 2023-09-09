@@ -5415,9 +5415,6 @@
   "sickness": {
     "causer": 0.2
   },
-  "siding": {
-    "finder": 0.3333333333333333
-  },
   "sight": {
     "considerer": 0.25,
     "seener": 1
