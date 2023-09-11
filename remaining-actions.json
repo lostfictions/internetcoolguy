@@ -1755,10 +1755,6 @@
     "backer": 0.3333333333333333,
     "representer": 0.25
   },
-  "dollar bill": {
-    "exchanger": 0.2,
-    "maker": 0.3333333333333333
-  },
   "dollars": {
     "expresser": 0.3333333333333333
   },
