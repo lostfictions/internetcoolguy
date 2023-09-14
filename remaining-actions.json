@@ -1085,9 +1085,6 @@
   "charge": {
     "maker": 0.3333333333333333
   },
-  "charities": {
-    "donater": 1
-  },
   "charity": {
     "intender": 0.25
   },
