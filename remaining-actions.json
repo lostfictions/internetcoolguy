@@ -5178,9 +5178,6 @@
   "sick people": {
     "curer": 0.5
   },
-  "sickness": {
-    "causer": 0.2
-  },
   "sight": {
     "considerer": 0.25,
     "seener": 1
