@@ -6298,9 +6298,6 @@
   "wearing seatbelt": {
     "requirer": 0.3333333333333333
   },
-  "wedding reception": {
-    "capturer": 0.3333333333333333
-  },
   "welfare": {
     "funder": 0.3333333333333333
   },
