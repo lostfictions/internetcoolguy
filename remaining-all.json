@@ -867,8 +867,7 @@
   "candles": {
     "burner": 0.2,
     "former": 0.2,
-    "matcher": 0.3333333333333333,
-    "seller": 0.2
+    "matcher": 0.3333333333333333
   },
   "candy": {
     "maker mostly": 0.25
