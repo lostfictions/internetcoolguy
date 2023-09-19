@@ -49,12 +49,6 @@
   "actors": {
     "payer": 0.3333333333333333
   },
-  "address label": {
-    "fixer": 0.3333333333333333,
-    "putter on": 0.3333333333333333,
-    "requirer": 0.25,
-    "user": 0.3333333333333333
-  },
   "adhesive bandage": {
     "user": 0.5
   },
