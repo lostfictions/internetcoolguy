@@ -1846,9 +1846,6 @@
   "electricity": {
     "turner on": 0.25
   },
-  "electrocardiograph": {
-    "user": 0.3333333333333333
-  },
   "electromagetic radiation": {
     "propagater": 0.2
   },
