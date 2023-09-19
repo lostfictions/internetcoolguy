@@ -1563,10 +1563,6 @@
   "dead bodies": {
     "burier": 0.3333333333333333
   },
-  "dead people": {
-    "burier": 0.3333333333333333,
-    "putter": 0.3333333333333333
-  },
   "death valley": {
     "surrounder": 0.3333333333333333
   },
