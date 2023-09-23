@@ -4732,10 +4732,6 @@
   "rubbing alcohol": {
     "rubber": 0.25
   },
-  "rule": {
-    "enforcer": 0.3333333333333333,
-    "setter": 0.2
-  },
   "rules": {
     "creater": 0.3333333333333333,
     "meaner": 0.3333333333333333
