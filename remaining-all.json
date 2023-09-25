@@ -5564,8 +5564,7 @@
     "winder up": 0.25
   },
   "string bass": {
-    "player": 0.3333333333333333,
-    "user": 0.25
+    "player": 0.3333333333333333
   },
   "stringed instrument": {
     "tuner": 1
