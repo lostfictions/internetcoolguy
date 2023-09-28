@@ -14,9 +14,6 @@
   "acciaccatos": {
     "player": 0.2
   },
-  "accident": {
-    "considerer": 0.3333333333333333
-  },
   "accidents": {
     "causer": 0.2
   },
