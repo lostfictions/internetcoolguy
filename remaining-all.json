@@ -2401,9 +2401,6 @@
   "graphics": {
     "generator": 0.3333333333333333
   },
-  "grass": {
-    "collector": 0.3333333333333333
-  },
   "grass clippings": {
     "putter": 0.25
   },
