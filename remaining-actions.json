@@ -2524,13 +2524,6 @@
   "hyperactive children": {
     "givener": 0.3333333333333333
   },
-  "ice": {
-    "former": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "melter": 1,
-    "putter": 0.2,
-    "sculpturer": 1
-  },
   "ice cream": {
     "treater": 0.5
   },
