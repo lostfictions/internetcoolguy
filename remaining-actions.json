@@ -5405,11 +5405,6 @@
     "coverer": 0.25,
     "user sexually": 0.5
   },
-  "tools": {
-    "holder": 0.25,
-    "storer": 0.3333333333333333,
-    "user": 0.25
-  },
   "tooth": {
     "finder": 0.3333333333333333
   },
