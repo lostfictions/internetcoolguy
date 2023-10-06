@@ -1604,9 +1604,6 @@
   "drum": {
     "player": 0.2
   },
-  "dry food": {
-    "storer": 0.3333333333333333
-  },
   "duck": {
     "cooker": 1,
     "eater": 1
