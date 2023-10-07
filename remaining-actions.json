@@ -2518,9 +2518,6 @@
   "implication": {
     "user frequently": 0.25
   },
-  "important events": {
-    "shower on": 0.3333333333333333
-  },
   "impossible figures": {
     "animater": 1
   },
