@@ -1560,9 +1560,6 @@
     "trainer": 1,
     "fisher": 0.25
   },
-  "domestic cattle": {
-    "descender": 0.3333333333333333
-  },
   "domestic horses": {
     "raiser": 0.3333333333333333
   },
