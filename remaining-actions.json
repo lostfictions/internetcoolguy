@@ -5138,11 +5138,6 @@
   "table centerpieces": {
     "taker": 0.25
   },
-  "tables": {
-    "constructer": 0.25,
-    "extender": 0.25,
-    "scatterer": 0.2
-  },
   "tablespoon": {
     "user": 0.2
   },
