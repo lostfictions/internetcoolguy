@@ -2096,11 +2096,6 @@
     "converter": 0.2,
     "user": 0.3333333333333333
   },
-  "gasoline": {
-    "deriver": 0.25,
-    "maker": 0.25,
-    "purchaser": 0.25
-  },
   "gate": {
     "locker": 1
   },
