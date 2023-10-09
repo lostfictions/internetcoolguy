@@ -5516,7 +5516,6 @@
     "player": 0.2
   },
   "tennis ball": {
-    "coverer": 0.2,
     "hitter": 0.25
   },
   "tennis game": {
