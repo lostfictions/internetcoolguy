@@ -5132,18 +5132,6 @@
     "rememberer": 1,
     "user": 0.2
   },
-  "things": {
-    "buyer": 0.3333333333333333,
-    "collector": 0.3333333333333333,
-    "hearer": 0.3333333333333333,
-    "launcher": 0.2,
-    "maker": 0.3333333333333333,
-    "putter": 0.25,
-    "seller": 0.25,
-    "iser": 0.25,
-    "storer": 0.3333333333333333,
-    "washer": 0.3333333333333333
-  },
   "things funny": {
     "laugher": 0.5
   },
