@@ -1189,7 +1189,6 @@
   },
   "coffee": {
     "buyer": 0.3333333333333333,
-    "enjoyedder": 0.2,
     "brewer": 0.25,
     "maker": 0.25,
     "server": 0.25,
