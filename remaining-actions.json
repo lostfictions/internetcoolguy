@@ -615,10 +615,6 @@
   "bridge": {
     "supporter": 0.25
   },
-  "bridges": {
-    "hanger": 0.25,
-    "walker": 0.5
-  },
   "broken telephone": {
     "repairer": 1
   },
