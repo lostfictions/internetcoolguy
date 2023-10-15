@@ -819,17 +819,6 @@
   "carrots": {
     "cooker": 1
   },
-  "cars": {
-    "buyer": 0.3333333333333333,
-    "builder": 0.25,
-    "designer": 0.3333333333333333,
-    "driver": 0.3333333333333333,
-    "maker": 0.2,
-    "painter": 0.25,
-    "driver way": 0.25,
-    "propeller": 0.3333333333333333,
-    "user mainly": 0.25
-  },
   "cartoons": {
     "animater": 1
   },
