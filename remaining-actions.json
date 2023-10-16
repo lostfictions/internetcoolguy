@@ -2110,9 +2110,6 @@
   "governments": {
     "charger": 0.2
   },
-  "grain": {
-    "finder": 0.3333333333333333
-  },
   "granite": {
     "etcher": 1,
     "flamer": 1,
