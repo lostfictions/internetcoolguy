@@ -4470,9 +4470,6 @@
   "religious memes": {
     "spreader": 0.25
   },
-  "repairs": {
-    "funder": 0.25
-  },
   "research": {
     "requirer": 0.25
   },
