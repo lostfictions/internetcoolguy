@@ -899,8 +899,7 @@
   },
   "cash": {
     "denominater": 0.3333333333333333,
-    "earner": 1,
-    "measurer": 0.2
+    "earner": 1
   },
   "castanets": {
     "binder": 0.2,
