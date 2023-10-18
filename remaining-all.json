@@ -4019,9 +4019,6 @@
   "pelvic inflammatory disease": {
     "finder exclusively": 0.25
   },
-  "penalties": {
-    "ignorer": 0.25
-  },
   "penalty": {
     "administerer": 0.2
   },
