@@ -199,9 +199,6 @@
   "appetite": {
     "appeaser": 0.3333333333333333
   },
-  "apple sauce": {
-    "maker": 0.3333333333333333
-  },
   "apples": {
     "cooker": 1,
     "eater": 1,
