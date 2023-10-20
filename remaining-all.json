@@ -2351,7 +2351,6 @@
     "attacher": 0.3333333333333333
   },
   "health": {
-    "acquirer": 0.2,
     "eater": 0.2
   },
   "heart disease": {
