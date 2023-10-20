@@ -197,9 +197,6 @@
   "antenna": {
     "needer": 0.2
   },
-  "antibiotic": {
-    "deriver": 0.2
-  },
   "antibiotics": {
     "user": 0.25
   },
