@@ -5046,9 +5046,6 @@
   "state funds": {
     "raiser": 0.3333333333333333
   },
-  "state highway": {
-    "maintainer": 0.25
-  },
   "statue": {
     "maker": 0.2
   },
