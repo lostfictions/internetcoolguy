@@ -1488,10 +1488,6 @@
   "drum": {
     "player": 0.2
   },
-  "duck": {
-    "cooker": 1,
-    "eater": 1
-  },
   "duffel bags": {
     "locker": 1
   },
