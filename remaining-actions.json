@@ -210,9 +210,6 @@
   "aquariums": {
     "filler": 0.3333333333333333
   },
-  "aquarius": {
-    "representer": 0.25
-  },
   "arabic": {
     "speaker": 0.25,
     "writer": 0.2
