@@ -4021,11 +4021,6 @@
   "recepies": {
     "teacher": 1
   },
-  "recipes": {
-    "passer": 0.2,
-    "teacher": 1,
-    "writer": 0.25
-  },
   "recliners": {
     "seller": 0.25
   },
