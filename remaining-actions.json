@@ -1892,11 +1892,6 @@
     "mover": 0.25,
     "user": 0.25
   },
-  "fruit": {
-    "considerer": 0.3333333333333333,
-    "eater": 1,
-    "maker": 0.3333333333333333
-  },
   "fruit tea": {
     "maker": 0.2
   },
