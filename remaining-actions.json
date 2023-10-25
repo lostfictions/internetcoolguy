@@ -2331,16 +2331,6 @@
   "infection": {
     "causer": 0.2
   },
-  "information": {
-    "valuer": 0.5,
-    "enterer": 0.3333333333333333,
-    "gainer": 0.3333333333333333,
-    "gatherer": 0.25,
-    "maker up": 0.25,
-    "obtainer": 0.25,
-    "storer": 0.25,
-    "writer": 0.3333333333333333
-  },
   "injuries": {
     "treater": 0.3333333333333333
   },
