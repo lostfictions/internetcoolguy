@@ -3133,9 +3133,6 @@
   "many root vegetables": {
     "processer": 0.25
   },
-  "many shows": {
-    "showner": 0.3333333333333333
-  },
   "many small pets": {
     "keeper": 0.3333333333333333
   },
