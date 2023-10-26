@@ -124,9 +124,6 @@
   "all mass": {
     "attracter": 0.25
   },
-  "all numbers": {
-    "representer": 0.3333333333333333
-  },
   "all physical objects": {
     "matterer": 0.3333333333333333
   },
