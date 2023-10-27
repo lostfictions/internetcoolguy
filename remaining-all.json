@@ -5263,8 +5263,7 @@
     "maker out": 0.25
   },
   "toast": {
-    "eater": 1,
-    "maker": 0.3333333333333333
+    "eater": 1
   },
   "tobacco": {
     "smoker": 1
