@@ -4280,9 +4280,6 @@
   "responsible people": {
     "depender": 0.2
   },
-  "restaurant bill": {
-    "writer": 0.3333333333333333
-  },
   "restaurants": {
     "closer": 1,
     "locater": 0.3333333333333333
