@@ -5550,8 +5550,7 @@
     "locater": 0.2
   },
   "weapons": {
-    "maker": 0.25,
-    "needer": 0.25
+    "maker": 0.25
   },
   "wearing seatbelt": {
     "requirer": 0.3333333333333333
