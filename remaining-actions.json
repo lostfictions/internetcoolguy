@@ -205,10 +205,6 @@
   "army": {
     "maker up": 0.2
   },
-  "art": {
-    "baser": 0.25,
-    "displayer": 0.25
-  },
   "artillary": {
     "user": 0.3333333333333333
   },
