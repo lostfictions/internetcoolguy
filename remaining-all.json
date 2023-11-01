@@ -1844,8 +1844,7 @@
     "painter": 1
   },
   "fingers": {
-    "attacher": 0.3333333333333333,
-    "coverer": 0.3333333333333333
+    "attacher": 0.3333333333333333
   },
   "fiocchi ammunition": {
     "maker": 0.3333333333333333
