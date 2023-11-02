@@ -384,9 +384,6 @@
   "bathroom": {
     "user": 0.2
   },
-  "bathrooms": {
-    "locater": 0.3333333333333333
-  },
   "bathtub": {
     "filler": 0.3333333333333333,
     "locater": 0.3333333333333333,
