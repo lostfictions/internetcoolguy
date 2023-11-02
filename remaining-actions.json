@@ -2314,12 +2314,6 @@
   "italian language": {
     "deriver directly": 0.2
   },
-  "items": {
-    "buyer": 0.3333333333333333,
-    "payer": 0.2,
-    "purchaser": 0.3333333333333333,
-    "storer": 0.3333333333333333
-  },
   "items bought": {
     "seller": 1
   },
