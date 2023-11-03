@@ -1593,9 +1593,6 @@
   "falling": {
     "causer": 0.25
   },
-  "family": {
-    "maker up": 0.2
-  },
   "family portraits": {
     "taker": 0.3333333333333333
   },
