@@ -1653,9 +1653,6 @@
   "endangered species": {
     "protecter": 0.2
   },
-  "enemy": {
-    "seener": 1
-  },
   "energy": {
     "gainer quickly": 0.2,
     "needer": 0.25
