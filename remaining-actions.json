@@ -3436,9 +3436,6 @@
   "paying taxes": {
     "requirer": 0.25
   },
-  "peanuts": {
-    "buyer": 0.25
-  },
   "pear": {
     "eater": 1
   },
