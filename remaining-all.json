@@ -2003,9 +2003,6 @@
   "gate": {
     "locker": 1
   },
-  "gaze": {
-    "user": 0.2
-  },
   "generic drug": {
     "approver": 0.3333333333333333
   },
