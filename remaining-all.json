@@ -1469,7 +1469,6 @@
   "dogs": {
     "adopter": 0.3333333333333333,
     "breeder": 0.25,
-    "considerer": 0.2,
     "namer": 0.3333333333333333,
     "trainer": 0.25
   },
