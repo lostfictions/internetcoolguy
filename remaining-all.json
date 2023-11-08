@@ -1970,9 +1970,6 @@
     "player alone": 0.5,
     "watcher": 0.3333333333333333
   },
-  "gaoline": {
-    "maker": 0.25
-  },
   "garbage": {
     "collector": 0.3333333333333333,
     "deliverer": 0.3333333333333333,
