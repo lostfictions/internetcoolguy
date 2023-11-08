@@ -1108,11 +1108,6 @@
   "cord": {
     "tier": 1
   },
-  "corn": {
-    "eater": 1,
-    "maker": 0.3333333333333333,
-    "marketer": 0.3333333333333333
-  },
   "corn earworm": {
     "finder": 0.25
   },
