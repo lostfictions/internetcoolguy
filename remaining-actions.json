@@ -1622,14 +1622,6 @@
   "firehose": {
     "user": 0.2
   },
-  "fish": {
-    "catcher": 0.3333333333333333,
-    "catcher on": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "eater": 1,
-    "finder": 0.5,
-    "marinater": 1
-  },
   "fish sauce": {
     "user": 0.25
   },
