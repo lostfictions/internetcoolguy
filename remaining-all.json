@@ -2385,9 +2385,6 @@
   "indy 500": {
     "locater": 0.25
   },
-  "infection": {
-    "causer": 0.2
-  },
   "information": {
     "valuer": 0.5,
     "enterer": 0.3333333333333333,
