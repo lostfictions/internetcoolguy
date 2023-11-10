@@ -1647,7 +1647,6 @@
     "hider": 1
   },
   "everything": {
-    "breaker up": 0.2,
     "learner": 1,
     "maker out": 0.25,
     "maker up": 0.2
