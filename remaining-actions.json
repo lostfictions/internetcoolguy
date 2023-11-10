@@ -1294,9 +1294,6 @@
   "dock": {
     "finder": 0.3333333333333333
   },
-  "doctor's lab coat": {
-    "maker": 0.3333333333333333
-  },
   "dog": {
     "buyer": 0.25,
     "feeder": 1,
