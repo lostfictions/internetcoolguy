@@ -1099,9 +1099,6 @@
   "corn earworm": {
     "finder": 0.25
   },
-  "costs": {
-    "reducer": 0.3333333333333333
-  },
   "cotton": {
     "grower": 0.3333333333333333,
     "spinner": 0.3333333333333333
