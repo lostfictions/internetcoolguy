@@ -650,9 +650,6 @@
     "seller": 0.25,
     "storer": 0.3333333333333333
   },
-  "cardboard box": {
-    "maker": 0.25
-  },
   "cardboard boxes": {
     "recycler": 1
   },
