@@ -5399,9 +5399,6 @@
   "worms": {
     "finder": 0.2
   },
-  "wounds": {
-    "dresser": 1
-  },
   "wrenches": {
     "user": 0.3333333333333333
   },
