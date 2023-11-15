@@ -4408,10 +4408,6 @@
   "traffic jams": {
     "causer": 0.2
   },
-  "train seat": {
-    "finder": 0.3333333333333333,
-    "locater": 0.3333333333333333
-  },
   "train tracks": {
     "user": 0.3333333333333333
   },
