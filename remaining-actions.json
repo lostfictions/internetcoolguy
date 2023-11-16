@@ -2867,10 +2867,6 @@
   "museum wing": {
     "dedicater": 0.25
   },
-  "mushrooms": {
-    "cooker": 0.2,
-    "server": 0.3333333333333333
-  },
   "music": {
     "noter": 0.3333333333333333,
     "hearer": 0.3333333333333333,
