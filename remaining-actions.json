@@ -255,13 +255,6 @@
   "balcony": {
     "raiser": 1
   },
-  "ball": {
-    "hitter": 0.3333333333333333,
-    "kicker": 1,
-    "player": 0.5,
-    "pusher": 0.3333333333333333,
-    "user": 0.25
-  },
   "ballon": {
     "filler": 0.3333333333333333
   },
