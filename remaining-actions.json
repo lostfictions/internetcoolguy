@@ -4261,10 +4261,6 @@
   "thermic lance tip": {
     "igniter": 0.25
   },
-  "thing": {
-    "rememberer": 1,
-    "user": 0.2
-  },
   "things funny": {
     "laugher": 0.5
   },
