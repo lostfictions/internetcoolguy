@@ -3103,9 +3103,6 @@
   "most items": {
     "buyer": 0.5
   },
-  "most jobs": {
-    "payer": 1
-  },
   "most journeys": {
     "maker": 0.3333333333333333
   },
