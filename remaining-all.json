@@ -2372,9 +2372,6 @@
     "purchaser": 0.3333333333333333,
     "storer": 0.3333333333333333
   },
-  "items bought": {
-    "seller": 1
-  },
   "items sold": {
     "buyer": 1
   },
