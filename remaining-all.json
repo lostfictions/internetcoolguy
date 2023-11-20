@@ -1879,9 +1879,6 @@
     "deriver": 0.25,
     "maker": 0.25
   },
-  "gate": {
-    "locker": 1
-  },
   "generic drug": {
     "approver": 0.3333333333333333
   },

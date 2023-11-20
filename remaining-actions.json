@@ -1634,9 +1634,6 @@
     "converter": 0.2,
     "user": 0.3333333333333333
   },
-  "gate": {
-    "locker": 1
-  },
   "generic drug": {
     "approver": 0.3333333333333333
   },
