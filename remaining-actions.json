@@ -2777,21 +2777,6 @@
   "museum wing": {
     "dedicater": 0.25
   },
-  "music": {
-    "noter": 0.3333333333333333,
-    "hearer": 0.3333333333333333,
-    "helper": 0.3333333333333333,
-    "keeper on": 0.3333333333333333,
-    "liker": 1,
-    "maker": 0.3333333333333333,
-    "performer": 0.3333333333333333,
-    "player": 0.25,
-    "recorder": 0.25,
-    "recorder magnetically": 0.25,
-    "storer": 0.3333333333333333,
-    "user": 0.3333333333333333,
-    "writer": 0.2
-  },
   "myrrh oil": {
     "extracter": 0.25
   },
