@@ -2795,9 +2795,6 @@
   "many root vegetables": {
     "processer": 0.25
   },
-  "many small pets": {
-    "keeper": 0.3333333333333333
-  },
   "many sounds": {
     "maker": 0.2
   },
