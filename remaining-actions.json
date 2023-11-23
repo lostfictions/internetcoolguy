@@ -3771,10 +3771,6 @@
   "spectacles": {
     "improver": 0.2
   },
-  "speed": {
-    "measurer": 0.2,
-    "restricter": 0.25
-  },
   "sperm": {
     "creater": 0.3333333333333333
   },
