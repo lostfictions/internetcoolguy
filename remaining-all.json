@@ -1336,9 +1336,6 @@
   "distrusts": {
     "baser": 0.2
   },
-  "dock": {
-    "finder": 0.3333333333333333
-  },
   "dog": {
     "buyer": 0.25,
     "feeder": 1,
