@@ -2609,19 +2609,6 @@
   "mona lisa": {
     "exhibiter": 0.3333333333333333
   },
-  "money": {
-    "collector": 0.3333333333333333,
-    "earner": 0.2,
-    "exchanger": 0.2,
-    "launderer": 1,
-    "loaner": 1,
-    "needer": 0.25,
-    "putter": 0.3333333333333333,
-    "requirer": 0.25,
-    "spender": 0.3333333333333333,
-    "storer": 0.3333333333333333,
-    "user instead": 0.25
-  },
   "more girls": {
     "borner": 0.3333333333333333
   },
