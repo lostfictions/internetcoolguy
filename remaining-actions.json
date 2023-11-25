@@ -1357,10 +1357,6 @@
   "eyeball": {
     "coverer": 0.3333333333333333
   },
-  "face": {
-    "definer": 0.25,
-    "toucher": 1
-  },
   "fact": {
     "considerer": 0.3333333333333333
   },
