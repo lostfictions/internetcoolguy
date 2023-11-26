@@ -1890,9 +1890,6 @@
   "human skeleton": {
     "maker up": 0.25
   },
-  "human tooth": {
-    "maker": 0.25
-  },
   "human voice": {
     "producer": 0.2
   },
