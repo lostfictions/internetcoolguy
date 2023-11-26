@@ -3792,9 +3792,6 @@
   "startups": {
     "funder": 0.25
   },
-  "starvations": {
-    "preventer": 1
-  },
   "state funds": {
     "raiser": 0.3333333333333333
   },
