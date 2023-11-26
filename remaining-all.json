@@ -3873,9 +3873,6 @@
   "rivers": {
     "feeder": 0.3333333333333333
   },
-  "road": {
-    "paver": 1
-  },
   "roads": {
     "builder": 0.3333333333333333,
     "coverer": 0.25
