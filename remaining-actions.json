@@ -1374,9 +1374,6 @@
   "film": {
     "storer": 0.3333333333333333
   },
-  "film developing chemicals": {
-    "overuser": 1
-  },
   "films": {
     "projecter": 0.3333333333333333,
     "shooter": 0.2
