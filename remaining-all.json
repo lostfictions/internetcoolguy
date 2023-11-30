@@ -149,9 +149,6 @@
   "animal": {
     "locker up": 0.25
   },
-  "animal including grasshoppers": {
-    "finder": 0.5
-  },
   "animals": {
     "converter": 0.3333333333333333,
     "cooker": 0.3333333333333333,
