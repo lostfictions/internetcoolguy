@@ -1732,9 +1732,6 @@
   "herbs": {
     "user": 0.3333333333333333
   },
-  "high rise buildings": {
-    "builder": 0.25
-  },
   "hiking": {
     "considerer": 0.5
   },
