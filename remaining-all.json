@@ -4756,9 +4756,6 @@
   "truck": {
     "driver": 1
   },
-  "truck owners": {
-    "concerner": 0.25
-  },
   "trunk": {
     "finder": 0.25
   },
