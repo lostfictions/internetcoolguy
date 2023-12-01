@@ -3626,9 +3626,6 @@
   "spring": {
     "considerer": 0.25
   },
-  "sprinklers": {
-    "banner": 0.2
-  },
   "sql": {
     "structurer": 1
   },
