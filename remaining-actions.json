@@ -3856,10 +3856,6 @@
   "term papers": {
     "requirer": 0.2
   },
-  "tests": {
-    "baser": 0.25,
-    "givener": 0.2
-  },
   "text": {
     "reader": 1
   },
