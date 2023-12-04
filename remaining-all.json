@@ -218,9 +218,6 @@
   "automobile tires": {
     "maker": 0.3333333333333333
   },
-  "automobiles": {
-    "constructer": 0.25
-  },
   "babies": {
     "borner prematurely": 0.5,
     "dresser": 0.3333333333333333
