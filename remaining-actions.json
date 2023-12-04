@@ -2002,10 +2002,6 @@
   "lacebug": {
     "finder": 0.2
   },
-  "ladder": {
-    "reacher": 0.2,
-    "storer": 0.3333333333333333
-  },
   "lakes": {
     "maker up": 0.25
   },
