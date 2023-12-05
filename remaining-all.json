@@ -3560,9 +3560,6 @@
   "presidential election": {
     "holder": 0.25
   },
-  "presidents": {
-    "binder": 0.2
-  },
   "prices": {
     "affecter": 0.2,
     "denominater": 0.3333333333333333,
