@@ -2417,8 +2417,7 @@
     "requirer": 0.25
   },
   "life": {
-    "creater": 1,
-    "ender": 0.5
+    "creater": 1
   },
   "life support": {
     "intender": 0.2

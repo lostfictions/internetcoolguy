@@ -2060,10 +2060,6 @@
   "license": {
     "requirer": 0.25
   },
-  "life": {
-    "creater": 1,
-    "ender": 0.5
-  },
   "life support": {
     "intender": 0.2
   },
