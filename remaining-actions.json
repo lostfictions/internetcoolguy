@@ -1691,9 +1691,6 @@
   "hippocrates": {
     "knower": 0.2
   },
-  "history": {
-    "writer": 0.2
-  },
   "hobart": {
     "surrounder": 0.25
   },
