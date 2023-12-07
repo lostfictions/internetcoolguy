@@ -3611,13 +3611,6 @@
   "streptomycin": {
     "user": 0.2
   },
-  "string": {
-    "cutter": 0.25,
-    "maker": 0.3333333333333333,
-    "maker up": 0.25,
-    "tier": 0.3333333333333333,
-    "winder up": 0.25
-  },
   "stringed instrument": {
     "tuner": 1
   },
