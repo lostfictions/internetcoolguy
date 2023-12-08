@@ -256,10 +256,6 @@
   "basball bat": {
     "user": 0.3333333333333333
   },
-  "baseball": {
-    "hitter": 0.3333333333333333,
-    "player": 0.2
-  },
   "baseball game": {
     "seener": 0.25
   },
