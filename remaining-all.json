@@ -3261,9 +3261,6 @@
   "parties": {
     "holder on": 0.3333333333333333
   },
-  "passageway": {
-    "hider": 1
-  },
   "past": {
     "fixer": 1
   },
