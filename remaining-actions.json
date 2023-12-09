@@ -1722,9 +1722,6 @@
   "hose": {
     "deflater": 1
   },
-  "hot dog buns": {
-    "maker": 0.3333333333333333
-  },
   "hot dogs": {
     "maker": 0.25,
     "seller": 0.25
