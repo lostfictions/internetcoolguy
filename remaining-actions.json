@@ -871,9 +871,6 @@
   "condom": {
     "putter": 0.25
   },
-  "confidence": {
-    "sharer": 1
-  },
   "connection": {
     "loser": 1
   },
