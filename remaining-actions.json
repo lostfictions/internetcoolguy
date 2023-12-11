@@ -3098,9 +3098,6 @@
   "salt": {
     "user": 0.2
   },
-  "sample": {
-    "taker": 0.25
-  },
   "san diego": {
     "namer": 0.25
   },
