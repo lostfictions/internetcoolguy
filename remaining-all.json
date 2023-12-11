@@ -3621,9 +3621,6 @@
     "builder": 0.3333333333333333,
     "coverer": 0.25
   },
-  "robots": {
-    "user": 0.25
-  },
   "rock": {
     "maker up": 0.25
   },
