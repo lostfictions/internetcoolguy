@@ -1036,9 +1036,6 @@
   "contracts": {
     "evaluater": 1
   },
-  "control fire": {
-    "setter": 0.3333333333333333
-  },
   "convict": {
     "judger": 0.3333333333333333
   },
