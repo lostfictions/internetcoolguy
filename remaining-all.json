@@ -3389,8 +3389,7 @@
   "politicians": {
     "chooser": 0.3333333333333333,
     "electer": 0.25,
-    "payer": 0.5,
-    "supposer": 0.2
+    "payer": 0.5
   },
   "pool": {
     "filler": 0.3333333333333333,
