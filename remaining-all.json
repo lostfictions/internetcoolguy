@@ -4654,9 +4654,6 @@
   "weapons": {
     "maker": 0.25
   },
-  "wearing seatbelt": {
-    "requirer": 0.3333333333333333
-  },
   "welfare": {
     "funder": 0.3333333333333333
   },

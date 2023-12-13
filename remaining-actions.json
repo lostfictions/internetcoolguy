@@ -3898,9 +3898,6 @@
     "concerner": 0.3333333333333333,
     "locater": 0.2
   },
-  "wearing seatbelt": {
-    "requirer": 0.3333333333333333
-  },
   "welfare": {
     "funder": 0.3333333333333333
   },
