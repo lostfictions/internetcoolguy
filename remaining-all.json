@@ -1232,9 +1232,6 @@
   "disease": {
     "spreader": 0.25
   },
-  "dish": {
-    "server": 1
-  },
   "dishes": {
     "setter": 0.3333333333333333
   },
