@@ -1965,9 +1965,6 @@
   "lifeboats": {
     "finder": 0.25
   },
-  "light bulbs": {
-    "maker mostly": 0.25
-  },
   "light cars": {
     "targeter": 0.2
   },
