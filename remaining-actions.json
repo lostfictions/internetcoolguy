@@ -1544,12 +1544,6 @@
   "guitars": {
     "player": 0.25
   },
-  "guns": {
-    "firer": 0.3333333333333333,
-    "firer safely": 0.25,
-    "holder": 0.3333333333333333,
-    "user": 0.2
-  },
   "hair": {
     "braider": 1,
     "burner": 1,
