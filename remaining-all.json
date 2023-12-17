@@ -3161,9 +3161,6 @@
   "pattern": {
     "embroiderer": 0.2
   },
-  "patterns": {
-    "user": 0.3333333333333333
-  },
   "pay": {
     "earner": 0.3333333333333333,
     "measurer": 0.3333333333333333
