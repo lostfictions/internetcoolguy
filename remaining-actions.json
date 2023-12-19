@@ -2676,9 +2676,6 @@
   "person's attention": {
     "distracter": 1
   },
-  "person's emotions": {
-    "trainer": 1
-  },
   "pesticide": {
     "buyer": 0.25
   },
