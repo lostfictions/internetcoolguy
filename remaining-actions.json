@@ -3002,10 +3002,6 @@
     "heater": 0.25,
     "wader": 0.5
   },
-  "shampoo": {
-    "purchaser": 0.25,
-    "user": 0.25
-  },
   "shark": {
     "eater": 1
   },
