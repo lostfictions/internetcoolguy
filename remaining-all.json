@@ -990,8 +990,7 @@
     "measurer": 0.2
   },
   "contract": {
-    "rejecter": 1,
-    "writer": 0.3333333333333333
+    "rejecter": 1
   },
   "contracts": {
     "evaluater": 1
