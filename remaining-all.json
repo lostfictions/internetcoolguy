@@ -973,9 +973,6 @@
     "knower": 0.25,
     "teacher": 0.3333333333333333
   },
-  "condom": {
-    "putter": 0.25
-  },
   "connection": {
     "loser": 1
   },
