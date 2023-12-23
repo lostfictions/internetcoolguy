@@ -2795,10 +2795,6 @@
   "responsible people": {
     "depender": 0.2
   },
-  "restaurants": {
-    "closer": 1,
-    "locater": 0.3333333333333333
-  },
   "return address": {
     "writer": 0.3333333333333333
   },

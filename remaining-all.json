@@ -3424,8 +3424,7 @@
     "depender": 0.2
   },
   "restaurants": {
-    "closer": 1,
-    "locater": 0.3333333333333333
+    "closer": 1
   },
   "return address": {
     "writer": 0.3333333333333333
