@@ -3645,9 +3645,6 @@
   "windows": {
     "setter": 0.2
   },
-  "windows 2000": {
-    "baser": 0.25
-  },
   "wines": {
     "blender": 1,
     "maker": 0.3333333333333333

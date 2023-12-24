@@ -4476,9 +4476,6 @@
   "windows": {
     "setter": 0.2
   },
-  "windows 2000": {
-    "baser": 0.25
-  },
   "wine": {
     "ager": 0.3333333333333333,
     "creater": 0.25,
