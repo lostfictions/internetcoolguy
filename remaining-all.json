@@ -1059,9 +1059,6 @@
   "crime": {
     "reducer": 0.2
   },
-  "criminal": {
-    "givener": 0.5
-  },
   "criminals": {
     "bringer": 0.2,
     "holder": 0.3333333333333333,
