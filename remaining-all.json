@@ -1167,9 +1167,6 @@
   "disease": {
     "spreader": 0.25
   },
-  "dishes": {
-    "setter": 0.3333333333333333
-  },
   "distance": {
     "measurer": 0.2
   },
