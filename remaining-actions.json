@@ -2922,10 +2922,6 @@
   "sick people": {
     "curer": 0.5
   },
-  "sight": {
-    "considerer": 0.25,
-    "seener": 1
-  },
   "sign language": {
     "user": 0.2
   },
