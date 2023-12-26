@@ -477,9 +477,6 @@
   "brooms": {
     "user": 0.2
   },
-  "brush": {
-    "loader": 0.25
-  },
   "bubbles": {
     "causer": 0.3333333333333333
   },
