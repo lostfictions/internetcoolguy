@@ -3823,7 +3823,6 @@
     "griller": 1
   },
   "steel": {
-    "maker": 0.25,
     "melter": 1,
     "painter": 1,
     "recycler": 1
