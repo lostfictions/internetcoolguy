@@ -2972,10 +2972,6 @@
   "spiral": {
     "explainer": 0.2
   },
-  "sports": {
-    "divider": 0.3333333333333333,
-    "player": 0.3333333333333333
-  },
   "sports equipement": {
     "user": 0.2
   },
