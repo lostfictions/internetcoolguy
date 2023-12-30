@@ -757,9 +757,6 @@
   "connection": {
     "loser": 1
   },
-  "contour lines": {
-    "measurer": 0.2
-  },
   "contracts": {
     "evaluater": 1
   },
