@@ -834,9 +834,6 @@
   "crying": {
     "tearer": 0.3333333333333333
   },
-  "curfews": {
-    "establisher": 0.3333333333333333
-  },
   "curry": {
     "eater": 0.25,
     "server": 0.25
