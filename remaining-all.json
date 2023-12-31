@@ -183,9 +183,6 @@
   "authors": {
     "payer": 0.25
   },
-  "automobile engines": {
-    "constructer": 0.25
-  },
   "babies": {
     "borner prematurely": 0.5,
     "dresser": 0.3333333333333333
