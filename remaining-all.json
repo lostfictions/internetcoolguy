@@ -2277,7 +2277,6 @@
   "mail": {
     "deliverer": 0.25,
     "finder": 0.5,
-    "passer": 0.25,
     "receiver": 0.3333333333333333
   },
   "mailbox": {
