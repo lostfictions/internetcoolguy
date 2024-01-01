@@ -1156,14 +1156,6 @@
     "describer": 0.25,
     "picker": 1
   },
-  "flowers": {
-    "buyer": 0.3333333333333333,
-    "grower": 0.5,
-    "judger": 1,
-    "gardener": 0.3333333333333333,
-    "receiver": 0.3333333333333333,
-    "seller": 0.25
-  },
   "folding shower door": {
     "maker up": 0.25
   },
