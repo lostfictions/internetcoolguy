@@ -620,9 +620,6 @@
   "chokers": {
     "maker": 0.25
   },
-  "chutney": {
-    "relater": 0.3333333333333333
-  },
   "cigarette": {
     "maker": 0.3333333333333333,
     "smoker": 0.25
