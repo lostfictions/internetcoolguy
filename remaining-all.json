@@ -3649,9 +3649,6 @@
   "staple gun": {
     "holder": 0.3333333333333333
   },
-  "staple removers": {
-    "maker": 0.2
-  },
   "staples": {
     "picker up": 0.25,
     "storer": 0.3333333333333333
