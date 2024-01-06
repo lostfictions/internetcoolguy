@@ -2138,9 +2138,6 @@
     "requirer": 0.2,
     "storer": 0.3333333333333333
   },
-  "nylon": {
-    "user": 0.3333333333333333
-  },
   "objects": {
     "attracter": 0.2,
     "avoider": 0.25,
