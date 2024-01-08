@@ -733,7 +733,6 @@
     "smoker": 0.25
   },
   "cigarettes": {
-    "producer": 0.25,
     "seller": 0.3333333333333333
   },
   "cigaretts": {

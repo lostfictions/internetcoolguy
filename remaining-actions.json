@@ -590,10 +590,6 @@
     "maker": 0.3333333333333333,
     "smoker": 0.25
   },
-  "cigarettes": {
-    "producer": 0.25,
-    "seller": 0.3333333333333333
-  },
   "circus": {
     "holder somewhere": 0.5
   },
