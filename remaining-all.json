@@ -862,7 +862,6 @@
   },
   "computer": {
     "maker out": 0.25,
-    "purchaser": 0.25,
     "teacher": 1,
     "user": 0.25
   },
