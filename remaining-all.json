@@ -3097,9 +3097,6 @@
     "decorator": 0.3333333333333333,
     "eater": 1
   },
-  "punching bag": {
-    "puncher": 1
-  },
   "puncture": {
     "repairer": 1
   },
