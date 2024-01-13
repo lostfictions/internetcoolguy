@@ -3031,9 +3031,6 @@
   "visible light": {
     "spliter": 0.2
   },
-  "vodka": {
-    "maker": 0.25
-  },
   "votes": {
     "counter": 0.3333333333333333
   },
