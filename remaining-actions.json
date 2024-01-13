@@ -2750,9 +2750,6 @@
   "subway pass": {
     "buyer": 0.2
   },
-  "success": {
-    "measurer": 0.2
-  },
   "sucess": {
     "measurer individually": 0.5
   },
