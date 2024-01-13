@@ -3408,7 +3408,6 @@
   },
   "sound": {
     "carrier": 0.3333333333333333,
-    "causer": 0.2,
     "generator": 0.25,
     "hearer": 1,
     "measurer": 0.3333333333333333,
