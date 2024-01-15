@@ -202,9 +202,6 @@
   "basements": {
     "finder": 0.3333333333333333
   },
-  "bath": {
-    "filler": 0.3333333333333333
-  },
   "bathroom": {
     "user": 0.2
   },
