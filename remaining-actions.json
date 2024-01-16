@@ -794,9 +794,6 @@
   "drawer": {
     "container": 0.2
   },
-  "drawers": {
-    "puller outwards": 0.25
-  },
   "drum": {
     "player": 0.2
   },
