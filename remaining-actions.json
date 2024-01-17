@@ -2520,11 +2520,6 @@
     "meaner": 0.25,
     "player": 0.2
   },
-  "soup": {
-    "eater out": 0.25,
-    "preparer": 0.3333333333333333,
-    "server": 0.3333333333333333
-  },
   "soybean meal": {
     "trader": 0.3333333333333333
   },
