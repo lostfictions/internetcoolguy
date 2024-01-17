@@ -1791,9 +1791,6 @@
   "injuries": {
     "treater": 0.3333333333333333
   },
-  "instrument": {
-    "player": 1
-  },
   "instrument triangle": {
     "maker out": 0.25,
     "player": 0.2
