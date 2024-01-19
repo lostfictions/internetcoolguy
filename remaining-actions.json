@@ -133,9 +133,6 @@
   "backfire": {
     "setter": 0.3333333333333333
   },
-  "backgammon boards": {
-    "maker": 0.25
-  },
   "background checks": {
     "requirer": 0.25
   },
