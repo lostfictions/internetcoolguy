@@ -1969,9 +1969,6 @@
   "life": {
     "creater": 1
   },
-  "life support": {
-    "intender": 0.2
-  },
   "lifeboats": {
     "finder": 0.25
   },
