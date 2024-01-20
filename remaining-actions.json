@@ -1920,14 +1920,6 @@
   "number seven": {
     "considerer": 0.2
   },
-  "numbers": {
-    "adder": 1,
-    "adder up": 0.5,
-    "divider": 1,
-    "knower": 0.3333333333333333,
-    "multiplier": 1,
-    "writer": 0.3333333333333333
-  },
   "nutrients": {
     "requirer": 0.2,
     "storer": 0.3333333333333333
