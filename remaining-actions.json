@@ -681,12 +681,6 @@
   "crime": {
     "reducer": 0.2
   },
-  "criminals": {
-    "bringer": 0.2,
-    "holder": 0.3333333333333333,
-    "judger": 0.3333333333333333,
-    "sender": 0.2
-  },
   "cruise ship food": {
     "reputer": 0.3333333333333333
   },
