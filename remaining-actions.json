@@ -2475,10 +2475,6 @@
   "sports equipement": {
     "user": 0.2
   },
-  "sports equipment": {
-    "purchaser": 0.2,
-    "user": 0.25
-  },
   "spring": {
     "considerer": 0.25
   },
