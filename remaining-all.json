@@ -1947,9 +1947,6 @@
   "libraries": {
     "filler": 0.3333333333333333
   },
-  "license": {
-    "requirer": 0.25
-  },
   "life": {
     "creater": 1
   },

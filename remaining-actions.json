@@ -1459,9 +1459,6 @@
   "libraries": {
     "filler": 0.3333333333333333
   },
-  "license": {
-    "requirer": 0.25
-  },
   "lifeboats": {
     "finder": 0.25
   },
