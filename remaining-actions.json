@@ -2454,9 +2454,6 @@
   "squash": {
     "player": 0.3333333333333333
   },
-  "squash courts": {
-    "locater": 0.5
-  },
   "stadium stand": {
     "constructer": 0.3333333333333333
   },
