@@ -1574,9 +1574,6 @@
     "decorator": 0.2,
     "tickler": 1
   },
-  "many plants": {
-    "cultivater": 0.2
-  },
   "many precious stones": {
     "user": 0.3333333333333333
   },
