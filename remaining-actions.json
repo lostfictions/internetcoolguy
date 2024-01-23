@@ -2116,9 +2116,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "psychotic disorders": {
-    "relater": 0.25
-  },
   "public transports": {
     "puller": 0.3333333333333333
   },
