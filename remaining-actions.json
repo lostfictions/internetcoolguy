@@ -136,9 +136,6 @@
   "bait": {
     "attacher": 0.25
   },
-  "balcony": {
-    "raiser": 1
-  },
   "ballon": {
     "filler": 0.3333333333333333
   },
