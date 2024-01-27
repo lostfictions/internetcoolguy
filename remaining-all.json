@@ -3437,9 +3437,6 @@
   "tents": {
     "user": 0.25
   },
-  "term papers": {
-    "requirer": 0.2
-  },
   "tests": {
     "baser": 0.25
   },
