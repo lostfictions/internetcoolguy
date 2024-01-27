@@ -2771,8 +2771,7 @@
     "meaner": 0.2
   },
   "prisoners": {
-    "depriver": 0.3333333333333333,
-    "plunger": 0.3333333333333333
+    "depriver": 0.3333333333333333
   },
   "prize": {
     "winner": 0.2
