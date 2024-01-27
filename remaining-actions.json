@@ -1390,9 +1390,6 @@
   "light cars": {
     "targeter": 0.2
   },
-  "light energy": {
-    "converter": 0.25
-  },
   "lightning": {
     "causer": 0.2
   },
