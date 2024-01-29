@@ -1924,10 +1924,6 @@
   "plains": {
     "coverer": 0.3333333333333333
   },
-  "planet earth": {
-    "matterer": 0.3333333333333333,
-    "maker mostly": 0.25
-  },
   "players": {
     "sender": 0.2
   },
