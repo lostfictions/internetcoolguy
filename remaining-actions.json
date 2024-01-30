@@ -261,13 +261,6 @@
     "filler": 0.3333333333333333,
     "recycler": 1
   },
-  "bread": {
-    "cooker": 1,
-    "cutter": 0.3333333333333333,
-    "eater": 0.3333333333333333,
-    "maker": 0.3333333333333333,
-    "purchaser": 0.25
-  },
   "bride's dress": {
     "picker out": 0.25
   },
