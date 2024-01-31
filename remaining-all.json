@@ -2742,9 +2742,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "public transports": {
-    "puller": 0.3333333333333333
-  },
   "publications": {
     "seller": 0.3333333333333333
   },
