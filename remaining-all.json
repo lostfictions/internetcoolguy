@@ -3500,9 +3500,6 @@
   "train seat": {
     "locater": 0.3333333333333333
   },
-  "train tracks": {
-    "user": 0.3333333333333333
-  },
   "trash": {
     "collector": 0.5,
     "collector once": 0.3333333333333333,
