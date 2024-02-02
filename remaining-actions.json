@@ -356,10 +356,6 @@
   "care": {
     "requirer": 0.2
   },
-  "carpet": {
-    "finder": 0.3333333333333333,
-    "user": 0.25
-  },
   "carpets": {
     "buyer": 0.25,
     "roller": 0.5,
