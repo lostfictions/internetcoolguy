@@ -870,9 +870,6 @@
   "cursor": {
     "mover": 0.2
   },
-  "customers": {
-    "finder": 0.3333333333333333
-  },
   "dandruff shampoo": {
     "purchaser": 0.3333333333333333
   },
