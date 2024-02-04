@@ -1201,7 +1201,6 @@
     "hanger": 0.25
   },
   "floor": {
-    "coverer": 0.3333333333333333,
     "lier down": 0.5
   },
   "floors": {
