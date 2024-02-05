@@ -147,9 +147,6 @@
   "banana": {
     "eater": 1
   },
-  "bananas": {
-    "eater": 1
-  },
   "banks": {
     "closer": 0.25,
     "regulater": 1,
