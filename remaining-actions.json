@@ -1577,9 +1577,6 @@
   "net": {
     "maker": 0.2
   },
-  "neurons": {
-    "surrounder": 0.3333333333333333
-  },
   "new software": {
     "applier": 0.25
   },
