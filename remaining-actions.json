@@ -532,9 +532,6 @@
   "compass bearing": {
     "measurer": 0.3333333333333333
   },
-  "completed paintings": {
-    "putter": 0.25
-  },
   "compound molecule": {
     "maker up": 0.2
   },
