@@ -1343,8 +1343,7 @@
     "baser": 0.3333333333333333
   },
   "gold": {
-    "melter": 1,
-    "pounder": 0.25
+    "melter": 1
   },
   "golf": {
     "player": 0.5
