@@ -1221,9 +1221,6 @@
   "lifeboats": {
     "finder": 0.25
   },
-  "light cars": {
-    "targeter": 0.2
-  },
   "lightning": {
     "causer": 0.2
   },
