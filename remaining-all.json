@@ -2578,9 +2578,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "publications": {
-    "seller": 0.3333333333333333
-  },
   "puck": {
     "maker": 0.25
   },

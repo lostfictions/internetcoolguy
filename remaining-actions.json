@@ -1754,9 +1754,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "publications": {
-    "seller": 0.3333333333333333
-  },
   "pulp": {
     "deriver": 0.3333333333333333,
     "maker": 0.3333333333333333
