@@ -29,9 +29,6 @@
   "airline seat": {
     "installer": 0.3333333333333333
   },
-  "airplane seat": {
-    "user": 0.25
-  },
   "aisles": {
     "user": 0.25
   },
