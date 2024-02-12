@@ -2151,10 +2151,6 @@
     "filler": 0.25,
     "finder": 0.3333333333333333
   },
-  "tires": {
-    "filler": 0.3333333333333333,
-    "maker out": 0.25
-  },
   "tomatoes": {
     "putter on": 0.2,
     "putter somewhere": 0.5
