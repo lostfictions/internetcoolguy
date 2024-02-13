@@ -3331,9 +3331,6 @@
   "waiters": {
     "ender": 0.2
   },
-  "walking": {
-    "requirer": 0.25
-  },
   "wallpaper": {
     "applier perpendicularly": 0.25,
     "maker": 0.3333333333333333
