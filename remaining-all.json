@@ -739,9 +739,6 @@
     "teacher": 1,
     "user": 0.25
   },
-  "computer viruses": {
-    "writer": 0.25
-  },
   "computers": {
     "builder": 0.3333333333333333,
     "connecter": 1,
