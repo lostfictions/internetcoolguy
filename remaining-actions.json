@@ -1875,9 +1875,6 @@
   "sick animal": {
     "taker": 0.3333333333333333
   },
-  "sick people": {
-    "curer": 0.5
-  },
   "silk worms": {
     "cultivater": 1
   },
