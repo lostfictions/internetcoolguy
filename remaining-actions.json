@@ -2071,9 +2071,6 @@
   "teachers": {
     "payer": 0.3333333333333333
   },
-  "telephones": {
-    "operator": 0.2
-  },
   "television": {
     "divider": 0.3333333333333333,
     "finder": 0.3333333333333333,
