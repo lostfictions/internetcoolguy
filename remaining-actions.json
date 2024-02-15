@@ -440,10 +440,6 @@
   "chokers": {
     "maker": 0.25
   },
-  "cigarette": {
-    "maker": 0.3333333333333333,
-    "smoker": 0.25
-  },
   "circus": {
     "holder somewhere": 0.5
   },
