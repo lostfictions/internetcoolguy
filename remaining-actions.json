@@ -324,9 +324,6 @@
     "seller": 0.25,
     "storer": 0.3333333333333333
   },
-  "cardboard boxes": {
-    "recycler": 1
-  },
   "care": {
     "requirer": 0.2
   },
