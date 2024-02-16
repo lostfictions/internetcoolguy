@@ -1234,9 +1234,6 @@
   "many contagious diseases": {
     "spreader": 0.3333333333333333
   },
-  "many criminal cases": {
-    "lister": 0.25
-  },
   "many dishes": {
     "server": 0.3333333333333333
   },
