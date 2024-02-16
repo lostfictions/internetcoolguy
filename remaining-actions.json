@@ -2067,9 +2067,6 @@
     "putter on": 0.2,
     "putter somewhere": 0.5
   },
-  "tones": {
-    "tuner": 1
-  },
   "tooth": {
     "finder": 0.3333333333333333
   },
