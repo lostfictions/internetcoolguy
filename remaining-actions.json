@@ -1258,9 +1258,6 @@
   "many wild animals": {
     "endangerer": 0.25
   },
-  "map": {
-    "reader": 1
-  },
   "maps": {
     "drawer": 0.3333333333333333,
     "user": 0.25
