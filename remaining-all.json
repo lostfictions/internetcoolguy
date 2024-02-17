@@ -993,7 +993,6 @@
     "learner": 1
   },
   "energy": {
-    "gainer quickly": 0.2,
     "needer": 0.25
   },
   "engine": {
