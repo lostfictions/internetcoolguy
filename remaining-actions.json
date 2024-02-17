@@ -1937,12 +1937,6 @@
   "status conscious person": {
     "concerner": 0.2
   },
-  "steak": {
-    "cooker": 0.3333333333333333,
-    "cutter": 1,
-    "eater": 0.25,
-    "server": 0.3333333333333333
-  },
   "steaks": {
     "cooker": 0.3333333333333333,
     "griller": 1
