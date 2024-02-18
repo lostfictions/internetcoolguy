@@ -1440,8 +1440,7 @@
     "deflater": 1
   },
   "hot dogs": {
-    "maker": 0.25,
-    "seller": 0.25
+    "maker": 0.25
   },
   "house": {
     "builder": 0.3333333333333333,
