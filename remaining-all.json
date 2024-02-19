@@ -1178,9 +1178,6 @@
   "fruit juice": {
     "maker": 0.3333333333333333
   },
-  "fruit tea": {
-    "maker": 0.2
-  },
   "fuel": {
     "needer": 0.3333333333333333
   },
