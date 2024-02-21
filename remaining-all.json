@@ -695,9 +695,6 @@
   "compound molecule": {
     "maker up": 0.2
   },
-  "computer's internal memory": {
-    "maker up": 0.2
-  },
   "computer": {
     "maker out": 0.25,
     "teacher": 1,
