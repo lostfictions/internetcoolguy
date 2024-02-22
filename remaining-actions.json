@@ -1481,9 +1481,6 @@
   "people's lifespan": {
     "extender": 0.25
   },
-  "pesticide": {
-    "buyer": 0.25
-  },
   "petrol": {
     "putter": 0.3333333333333333
   },
