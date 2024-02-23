@@ -1410,9 +1410,6 @@
   "outside": {
     "painter": 1
   },
-  "oxford street": {
-    "locater": 0.25
-  },
   "oxygen": {
     "burner": 0.3333333333333333,
     "measurer": 0.25,
