@@ -868,10 +868,6 @@
     "connecter": 0.3333333333333333,
     "threatener": 0.3333333333333333
   },
-  "honey": {
-    "maker": 0.2,
-    "producer": 0.25
-  },
   "hope diamond": {
     "considerer": 0.3333333333333333
   },
