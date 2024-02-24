@@ -1565,9 +1565,6 @@
   "red wine": {
     "server": 0.25
   },
-  "refuse": {
-    "taker": 0.3333333333333333
-  },
   "research": {
     "requirer": 0.25
   },
