@@ -562,9 +562,6 @@
     "carrier": 0.2,
     "obtainer": 0.2
   },
-  "egg": {
-    "layer": 0.3333333333333333
-  },
   "electric batteries": {
     "recharger": 1
   },
