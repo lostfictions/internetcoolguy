@@ -2268,9 +2268,6 @@
     "hanger": 0.3333333333333333,
     "storer": 0.25
   },
-  "pills": {
-    "taker orally": 0.5
-  },
   "pipes": {
     "purchaser": 0.3333333333333333
   },
