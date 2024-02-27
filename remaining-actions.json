@@ -1423,9 +1423,6 @@
   "plains": {
     "coverer": 0.3333333333333333
   },
-  "players": {
-    "sender": 0.2
-  },
   "political leaders": {
     "chooser": 0.3333333333333333
   },
