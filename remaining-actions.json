@@ -892,9 +892,6 @@
   "incomes": {
     "taxer": 1
   },
-  "injuries": {
-    "treater": 0.3333333333333333
-  },
   "insulin": {
     "givener": 0.3333333333333333,
     "producer": 0.3333333333333333
