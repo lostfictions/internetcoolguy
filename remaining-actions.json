@@ -1642,9 +1642,6 @@
     "exchanger": 0.3333333333333333,
     "recycler": 1
   },
-  "sodas": {
-    "obtainer": 0.25
-  },
   "soft drink orangina": {
     "producer": 0.2
   },
