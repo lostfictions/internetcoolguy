@@ -1625,9 +1625,6 @@
   "soccer ball": {
     "purchaser": 0.2
   },
-  "socket wrench": {
-    "purchaser": 0.25
-  },
   "soda cans": {
     "exchanger": 0.3333333333333333,
     "recycler": 1
