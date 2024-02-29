@@ -2416,9 +2416,6 @@
   "roof": {
     "coverer": 0.3333333333333333
   },
-  "room": {
-    "enterer": 0.3333333333333333
-  },
   "rubber stamp": {
     "maker": 1,
     "user": 0.25
