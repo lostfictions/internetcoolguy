@@ -949,11 +949,6 @@
   "letter opener": {
     "user": 0.3333333333333333
   },
-  "letters": {
-    "carrier": 0.2,
-    "sender": 0.3333333333333333,
-    "writer": 0.3333333333333333
-  },
   "liberty bell": {
     "locater": 0.3333333333333333
   },
