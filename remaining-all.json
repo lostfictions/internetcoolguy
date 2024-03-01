@@ -2115,9 +2115,6 @@
     "earner": 0.3333333333333333,
     "measurer": 0.3333333333333333
   },
-  "paying taxes": {
-    "requirer": 0.25
-  },
   "pear": {
     "eater": 1
   },
