@@ -1742,10 +1742,6 @@
   "waiters": {
     "ender": 0.2
   },
-  "wallpaper": {
-    "applier perpendicularly": 0.25,
-    "maker": 0.3333333333333333
-  },
   "wasps": {
     "relater": 0.2
   },
