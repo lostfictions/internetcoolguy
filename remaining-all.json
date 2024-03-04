@@ -2651,9 +2651,6 @@
   "submarines": {
     "builder": 0.2
   },
-  "subway map": {
-    "user": 0.3333333333333333
-  },
   "subway pass": {
     "buyer": 0.2
   },
