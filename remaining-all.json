@@ -2064,9 +2064,6 @@
   "parties": {
     "holder on": 0.3333333333333333
   },
-  "past": {
-    "fixer": 1
-  },
   "pasta": {
     "maker": 0.3333333333333333,
     "producer": 0.2
