@@ -1225,11 +1225,6 @@
   "outside": {
     "painter": 1
   },
-  "oxygen": {
-    "burner": 0.3333333333333333,
-    "measurer": 0.25,
-    "needer": 0.3333333333333333
-  },
   "pain": {
     "experiencer": 0.2,
     "senser": 0.3333333333333333
