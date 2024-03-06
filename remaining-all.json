@@ -145,9 +145,6 @@
   "balls": {
     "designer": 0.3333333333333333
   },
-  "banana": {
-    "eater": 1
-  },
   "banks": {
     "closer": 0.25,
     "regulater": 1,
