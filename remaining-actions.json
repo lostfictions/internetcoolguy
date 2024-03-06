@@ -20,12 +20,6 @@
   "aisles": {
     "user": 0.25
   },
-  "alcohol": {
-    "buyer": 0.3333333333333333,
-    "igniter easily": 0.5,
-    "server": 0.3333333333333333,
-    "storer": 0.25
-  },
   "alcoholic drinks": {
     "server": 0.3333333333333333
   },
