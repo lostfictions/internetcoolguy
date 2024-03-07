@@ -1240,9 +1240,6 @@
   "plains": {
     "coverer": 0.3333333333333333
   },
-  "political leaders": {
-    "chooser": 0.3333333333333333
-  },
   "popcorn": {
     "buyer": 0.3333333333333333,
     "eater": 1,
