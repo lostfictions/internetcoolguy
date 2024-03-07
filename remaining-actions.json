@@ -283,9 +283,6 @@
   "charge": {
     "maker": 0.3333333333333333
   },
-  "charts": {
-    "dominater": 0.25
-  },
   "checks": {
     "turner": 0.2,
     "writer": 1
