@@ -441,9 +441,6 @@
   "drawer": {
     "container": 0.2
   },
-  "drum": {
-    "player": 0.2
-  },
   "earth's surface": {
     "coverer": 0.25
   },
