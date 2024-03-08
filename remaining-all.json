@@ -899,9 +899,6 @@
   "facts": {
     "baser": 0.3333333333333333
   },
-  "falling": {
-    "causer": 0.25
-  },
   "family portraits": {
     "taker": 0.3333333333333333
   },
