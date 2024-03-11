@@ -711,9 +711,6 @@
   "different herbs": {
     "user": 0.25
   },
-  "dilmah": {
-    "exporter": 0.2
-  },
   "dinner": {
     "eater": 0.3333333333333333,
     "griller": 1
