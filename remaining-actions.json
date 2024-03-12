@@ -1192,10 +1192,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "pulp": {
-    "deriver": 0.3333333333333333,
-    "maker": 0.3333333333333333
-  },
   "punishments": {
     "repeater": 1
   },
