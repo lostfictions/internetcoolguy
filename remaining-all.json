@@ -581,9 +581,6 @@
   "comics": {
     "intender": 0.2
   },
-  "compass bearing": {
-    "measurer": 0.3333333333333333
-  },
   "computer": {
     "maker out": 0.25,
     "teacher": 1,
