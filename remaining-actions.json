@@ -431,9 +431,6 @@
   "electromagetic radiation": {
     "propagater": 0.2
   },
-  "ellis island": {
-    "locater": 0.2
-  },
   "empathy": {
     "learner": 1
   },
