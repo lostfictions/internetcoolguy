@@ -1097,11 +1097,6 @@
   "presidential election": {
     "holder": 0.25
   },
-  "prices": {
-    "affecter": 0.2,
-    "denominater": 0.3333333333333333,
-    "measurer": 0.3333333333333333
-  },
   "prison": {
     "meaner": 0.2
   },
