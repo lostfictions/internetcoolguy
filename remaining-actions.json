@@ -641,14 +641,6 @@
   "hope picture": {
     "ender": 0.5
   },
-  "horses": {
-    "breeder": 0.3333333333333333,
-    "putter": 0.2,
-    "raiser": 0.3333333333333333,
-    "relater": 0.3333333333333333,
-    "teacher": 0.2,
-    "trainer": 0.2
-  },
   "hose": {
     "deflater": 1
   },
