@@ -1556,9 +1556,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "memories": {
-    "storer": 0.3333333333333333
-  },
   "mercury": {
     "user": 0.3333333333333333
   },
