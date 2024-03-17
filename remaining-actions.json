@@ -311,9 +311,6 @@
   "connection": {
     "loser": 1
   },
-  "contracts": {
-    "evaluater": 1
-  },
   "copper": {
     "melter": 1,
     "user": 0.3333333333333333
