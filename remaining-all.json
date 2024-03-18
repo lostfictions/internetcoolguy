@@ -2045,9 +2045,6 @@
   "rake": {
     "user": 0.3333333333333333
   },
-  "recepies": {
-    "teacher": 1
-  },
   "recipes": {
     "teacher": 1,
     "writer": 0.25
