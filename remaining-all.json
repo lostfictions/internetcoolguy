@@ -1683,9 +1683,6 @@
   "nails": {
     "driver": 0.3333333333333333
   },
-  "nameservers": {
-    "orderer": 0.3333333333333333
-  },
   "natto": {
     "maker": 0.25
   },
