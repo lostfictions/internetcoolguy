@@ -2360,7 +2360,6 @@
     "buyer": 0.2
   },
   "sugar": {
-    "deriver": 0.25,
     "extracter": 0.25,
     "melter": 1
   },

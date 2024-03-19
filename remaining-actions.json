@@ -1247,11 +1247,6 @@
   "subway pass": {
     "buyer": 0.2
   },
-  "sugar": {
-    "deriver": 0.25,
-    "extracter": 0.25,
-    "melter": 1
-  },
   "suitcase": {
     "loser": 0.3333333333333333
   },
