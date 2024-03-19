@@ -1226,9 +1226,6 @@
     "grader": 0.3333333333333333,
     "teacher": 0.25
   },
-  "stuffed animal": {
-    "winner": 0.25
-  },
   "subject person": {
     "learner": 0.25
   },
