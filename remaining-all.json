@@ -696,9 +696,6 @@
     "trainer": 1,
     "fisher": 0.25
   },
-  "domestic horses": {
-    "raiser": 0.3333333333333333
-  },
   "door": {
     "closer": 1,
     "finder": 0.3333333333333333,
