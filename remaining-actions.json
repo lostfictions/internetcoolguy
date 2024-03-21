@@ -172,9 +172,6 @@
   "camping": {
     "campsiter": 0.3333333333333333
   },
-  "canals": {
-    "sailer": 0.2
-  },
   "candle": {
     "burner": 0.3333333333333333,
     "matcher": 0.25
