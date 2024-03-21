@@ -328,12 +328,6 @@
   "distrusts": {
     "baser": 0.2
   },
-  "dog": {
-    "buyer": 0.25,
-    "feeder": 1,
-    "kicker": 1,
-    "lover": 1
-  },
   "dolphins": {
     "trainer": 1,
     "fisher": 0.25
