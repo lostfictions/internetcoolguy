@@ -1780,9 +1780,6 @@
     "storer": 0.3333333333333333,
     "writer": 0.5
   },
-  "paper page": {
-    "writer": 0.5
-  },
   "papers": {
     "user": 0.25,
     "reader": 1,
