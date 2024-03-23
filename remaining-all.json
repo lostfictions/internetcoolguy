@@ -1133,9 +1133,6 @@
   "hummingbirds": {
     "attracter": 0.2
   },
-  "hydrocarbons": {
-    "user": 0.2
-  },
   "ice": {
     "former": 0.3333333333333333,
     "finder": 0.3333333333333333,
