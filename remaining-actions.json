@@ -337,14 +337,6 @@
   "earth's surface": {
     "coverer": 0.25
   },
-  "earth": {
-    "coverer mostly": 0.25,
-    "coverer": 0.25,
-    "divider": 0.2,
-    "holder": 0.2,
-    "maker up": 0.2,
-    "surrounder": 0.2
-  },
   "eating": {
     "performer": 0.3333333333333333
   },
