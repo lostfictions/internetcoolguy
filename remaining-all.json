@@ -721,9 +721,6 @@
   "echinacea": {
     "extracter": 0.25
   },
-  "editorials": {
-    "writer": 0.25
-  },
   "education": {
     "carrier": 0.2,
     "obtainer": 0.2
