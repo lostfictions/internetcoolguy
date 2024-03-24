@@ -751,9 +751,6 @@
   "electrons": {
     "affecter": 0.25
   },
-  "empathy": {
-    "learner": 1
-  },
   "energy": {
     "needer": 0.25
   },
