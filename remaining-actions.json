@@ -199,10 +199,6 @@
   "carrot": {
     "eater": 1
   },
-  "castanets": {
-    "binder": 0.2,
-    "user": 0.2
-  },
   "cat": {
     "attracter": 0.3333333333333333
   },
