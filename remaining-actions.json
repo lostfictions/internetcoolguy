@@ -916,9 +916,6 @@
     "eater": 1,
     "popper": 0.3333333333333333
   },
-  "potato chips": {
-    "maker": 0.3333333333333333
-  },
   "pothole": {
     "repairer": 1
   },
