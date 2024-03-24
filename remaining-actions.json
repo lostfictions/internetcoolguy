@@ -472,9 +472,6 @@
     "setter out": 0.2,
     "storer": 0.3333333333333333
   },
-  "germany": {
-    "knower": 0.2
-  },
   "gift": {
     "givener": 0.25
   },
