@@ -1310,9 +1310,6 @@
   "lime oil": {
     "extracter": 0.25
   },
-  "lips": {
-    "finder": 0.3333333333333333
-  },
   "liquids": {
     "spiller": 1
   },
