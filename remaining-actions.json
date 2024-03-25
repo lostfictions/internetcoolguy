@@ -330,9 +330,6 @@
   "earth's surface": {
     "coverer": 0.25
   },
-  "eating": {
-    "performer": 0.3333333333333333
-  },
   "eating babies": {
     "considerer": 0.25
   },
