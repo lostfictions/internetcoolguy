@@ -1056,9 +1056,6 @@
   "hiking": {
     "considerer": 0.5
   },
-  "hockey": {
-    "player": 0.2
-  },
   "hockey puck": {
     "maker out": 0.25
   },
