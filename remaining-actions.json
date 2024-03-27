@@ -415,12 +415,6 @@
   "game": {
     "player": 0.3333333333333333
   },
-  "games": {
-    "divider": 0.3333333333333333,
-    "player": 0.2,
-    "player alone": 0.5,
-    "watcher": 0.3333333333333333
-  },
   "garbage": {
     "collector": 0.3333333333333333,
     "deliverer": 0.3333333333333333,
