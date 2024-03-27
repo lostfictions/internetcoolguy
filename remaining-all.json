@@ -2389,9 +2389,6 @@
   "truck": {
     "driver": 1
   },
-  "trunk": {
-    "finder": 0.25
-  },
   "truth": {
     "baser": 0.25
   },
