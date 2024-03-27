@@ -221,11 +221,6 @@
   "chess board": {
     "maker up": 0.2
   },
-  "chicken": {
-    "buyer": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "eater": 1
-  },
   "circus": {
     "holder somewhere": 0.5
   },
