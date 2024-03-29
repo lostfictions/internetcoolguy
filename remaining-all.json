@@ -1558,9 +1558,6 @@
   "nautilus shell": {
     "baser": 0.25
   },
-  "new things": {
-    "buyer": 1
-  },
   "news": {
     "broadcaster": 0.3333333333333333,
     "hearer often": 0.25,
