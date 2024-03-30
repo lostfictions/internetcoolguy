@@ -252,9 +252,6 @@
     "melter": 1,
     "user": 0.3333333333333333
   },
-  "corn earworm": {
-    "finder": 0.25
-  },
   "credit": {
     "applier": 0.5,
     "obtainer": 0.3333333333333333
