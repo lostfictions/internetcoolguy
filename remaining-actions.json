@@ -973,9 +973,6 @@
   "submarines": {
     "builder": 0.2
   },
-  "subway pass": {
-    "buyer": 0.2
-  },
   "suitcase": {
     "loser": 0.3333333333333333
   },
