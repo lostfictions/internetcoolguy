@@ -959,9 +959,6 @@
   "squash": {
     "player": 0.3333333333333333
   },
-  "stage curtain": {
-    "user": 0.3333333333333333
-  },
   "staples": {
     "picker up": 0.25,
     "storer": 0.3333333333333333
