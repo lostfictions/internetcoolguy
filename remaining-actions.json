@@ -112,10 +112,6 @@
   "bonfire": {
     "finder": 0.3333333333333333
   },
-  "bottle": {
-    "filler": 0.3333333333333333,
-    "recycler": 1
-  },
   "broken telephone": {
     "repairer": 1
   },
