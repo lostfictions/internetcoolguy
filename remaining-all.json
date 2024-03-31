@@ -1377,9 +1377,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "mercury": {
-    "user": 0.3333333333333333
-  },
   "meridians": {
     "user": 0.2
   },
