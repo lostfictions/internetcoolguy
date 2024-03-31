@@ -852,9 +852,6 @@
     "finder": 0.3333333333333333,
     "needer": 0.2
   },
-  "san diego": {
-    "namer": 0.25
-  },
   "san francisco": {
     "knower": 0.25
   },
