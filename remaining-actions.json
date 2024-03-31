@@ -295,10 +295,6 @@
   "echinacea": {
     "extracter": 0.25
   },
-  "education": {
-    "carrier": 0.2,
-    "obtainer": 0.2
-  },
   "electric batteries": {
     "recharger": 1
   },
