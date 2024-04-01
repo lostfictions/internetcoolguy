@@ -157,11 +157,6 @@
   "care": {
     "requirer": 0.2
   },
-  "carpets": {
-    "buyer": 0.25,
-    "roller": 0.5,
-    "seller": 0.25
-  },
   "carrot": {
     "eater": 1
   },
