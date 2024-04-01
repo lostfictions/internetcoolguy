@@ -2085,9 +2085,6 @@
   "steel cables": {
     "user": 0.25
   },
-  "stick": {
-    "user": 0.3333333333333333
-  },
   "stone": {
     "crusher": 1,
     "painter": 1,
