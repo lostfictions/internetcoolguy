@@ -1295,9 +1295,6 @@
   "many books": {
     "writer": 0.25
   },
-  "many contagious diseases": {
-    "spreader": 0.3333333333333333
-  },
   "many dishes": {
     "server": 0.3333333333333333
   },
