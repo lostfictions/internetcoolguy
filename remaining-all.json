@@ -997,9 +997,6 @@
   "hide bed": {
     "storer": 0.3333333333333333
   },
-  "hiking": {
-    "considerer": 0.5
-  },
   "hockey puck": {
     "maker out": 0.25
   },

@@ -422,9 +422,6 @@
   "herbs": {
     "user": 0.3333333333333333
   },
-  "hiking": {
-    "considerer": 0.5
-  },
   "homes": {
     "connecter": 0.3333333333333333,
     "threatener": 0.3333333333333333
