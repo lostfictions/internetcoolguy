@@ -2195,9 +2195,6 @@
   "things funny": {
     "laugher": 0.5
   },
-  "ticket office": {
-    "runner": 0.25
-  },
   "tickets": {
     "buyer": 1,
     "givener": 0.25
