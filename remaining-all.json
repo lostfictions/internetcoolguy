@@ -758,9 +758,6 @@
   "fingers": {
     "attacher": 0.3333333333333333
   },
-  "firearms": {
-    "user": 0.25
-  },
   "fires": {
     "driver": 0.3333333333333333,
     "starter accidently": 0.5
