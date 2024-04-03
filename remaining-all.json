@@ -1997,9 +1997,6 @@
     "preparer": 0.3333333333333333,
     "server": 0.3333333333333333
   },
-  "space shuttle": {
-    "launcher": 0.25
-  },
   "spaghetti": {
     "cooker": 1
   },
