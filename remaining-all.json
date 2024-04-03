@@ -448,8 +448,7 @@
     "recycler": 1
   },
   "cloth": {
-    "cutter": 1,
-    "maker": 0.3333333333333333
+    "cutter": 1
   },
   "clothes": {
     "buyer": 0.3333333333333333,

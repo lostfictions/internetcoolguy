@@ -196,10 +196,6 @@
   "clear plastic soda bottles": {
     "recycler": 1
   },
-  "cloth": {
-    "cutter": 1,
-    "maker": 0.3333333333333333
-  },
   "clothing": {
     "hanger": 0.25,
     "maker": 0.3333333333333333,
