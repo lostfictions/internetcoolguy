@@ -746,10 +746,6 @@
   "responsible people": {
     "depender": 0.2
   },
-  "ribbons": {
-    "cutter": 0.3333333333333333,
-    "tier": 0.3333333333333333
-  },
   "rock": {
     "maker up": 0.25
   },
