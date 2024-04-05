@@ -616,9 +616,6 @@
   "most items": {
     "buyer": 0.5
   },
-  "most meals": {
-    "cooker": 1
-  },
   "most things": {
     "divider": 0.25
   },
