@@ -2366,9 +2366,6 @@
   "word": {
     "misspeller": 0.5
   },
-  "word bowing": {
-    "user differently": 0.2
-  },
   "words": {
     "former": 0.3333333333333333,
     "finder": 0.3333333333333333,
