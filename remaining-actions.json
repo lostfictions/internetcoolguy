@@ -584,9 +584,6 @@
   "most governments": {
     "runner": 0.25
   },
-  "most items": {
-    "buyer": 0.5
-  },
   "most things": {
     "divider": 0.25
   },
