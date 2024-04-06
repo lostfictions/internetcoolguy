@@ -364,10 +364,6 @@
   "guitars": {
     "player": 0.25
   },
-  "hamburger": {
-    "buyer": 0.25,
-    "maker": 0.25
-  },
   "handguns": {
     "issuer": 0.3333333333333333
   },

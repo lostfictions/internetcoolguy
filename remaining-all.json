@@ -935,8 +935,7 @@
     "weaver": 1
   },
   "hamburger": {
-    "buyer": 0.25,
-    "maker": 0.25
+    "buyer": 0.25
   },
   "hamburgers": {
     "cooker": 0.3333333333333333,
