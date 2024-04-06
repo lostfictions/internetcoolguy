@@ -908,9 +908,6 @@
     "seller": 0.25,
     "storer": 0.25
   },
-  "gouldian finch": {
-    "endangerer": 1
-  },
   "granite": {
     "etcher": 1,
     "flamer": 1
