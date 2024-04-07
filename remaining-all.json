@@ -1296,9 +1296,6 @@
   "mechanical pencil": {
     "user": 0.3333333333333333
   },
-  "medical checkup": {
-    "intender": 0.2
-  },
   "medicine": {
     "taker orally": 0.5
   },
