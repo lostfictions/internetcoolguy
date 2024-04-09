@@ -181,9 +181,6 @@
   "clowns": {
     "supposer": 0.3333333333333333
   },
-  "coins collectible": {
-    "buyer": 0.3333333333333333
-  },
   "cold": {
     "avoider": 0.2,
     "measurer": 0.3333333333333333
