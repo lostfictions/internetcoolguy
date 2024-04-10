@@ -217,10 +217,6 @@
   "different herbs": {
     "user": 0.25
   },
-  "dolphins": {
-    "trainer": 1,
-    "fisher": 0.25
-  },
   "door": {
     "closer": 1,
     "finder": 0.3333333333333333,

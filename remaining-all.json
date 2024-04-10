@@ -608,8 +608,7 @@
     "maker": 0.3333333333333333
   },
   "dolphins": {
-    "trainer": 1,
-    "fisher": 0.25
+    "trainer": 1
   },
   "door": {
     "closer": 1,
