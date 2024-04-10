@@ -1079,9 +1079,6 @@
     "asker": 0.2,
     "selecter": 0.2
   },
-  "justice": {
-    "server": 0.2
-  },
   "key": {
     "locker": 0.3333333333333333,
     "requirer": 0.25
