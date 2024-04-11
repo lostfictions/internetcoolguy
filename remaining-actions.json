@@ -20,9 +20,6 @@
   "antibiotics": {
     "user": 0.25
   },
-  "antibody": {
-    "producer": 0.25
-  },
   "apples": {
     "cooker": 1,
     "eater": 1,
