@@ -887,9 +887,6 @@
   "graven images": {
     "sculpturer": 1
   },
-  "guitars": {
-    "player": 0.25
-  },
   "guns": {
     "firer": 0.3333333333333333,
     "firer safely": 0.25,
