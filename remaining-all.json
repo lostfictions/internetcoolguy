@@ -614,9 +614,6 @@
   "duck": {
     "eater": 1
   },
-  "earth's surface": {
-    "coverer": 0.25
-  },
   "earth": {
     "coverer mostly": 0.25,
     "coverer": 0.25,
