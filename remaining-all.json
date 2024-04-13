@@ -2038,9 +2038,6 @@
   "towels": {
     "storer": 0.25
   },
-  "toy balloon": {
-    "filler": 0.3333333333333333
-  },
   "train seat": {
     "locater": 0.3333333333333333
   },
