@@ -49,9 +49,6 @@
     "keeper": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "antibiotics": {
-    "user": 0.25
-  },
   "apartments": {
     "renter": 1
   },
