@@ -1563,9 +1563,6 @@
   "prisoners": {
     "depriver": 0.3333333333333333
   },
-  "products": {
-    "recycler": 1
-  },
   "promptness": {
     "appreciater": 1
   },
