@@ -194,9 +194,6 @@
   "engine": {
     "replacer": 1
   },
-  "envelopes": {
-    "mailler": 0.3333333333333333
-  },
   "esoteric things": {
     "hider": 1
   },
