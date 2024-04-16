@@ -142,10 +142,6 @@
   "clowns": {
     "supposer": 0.3333333333333333
   },
-  "cold": {
-    "avoider": 0.2,
-    "measurer": 0.3333333333333333
-  },
   "comics": {
     "intender": 0.2
   },
