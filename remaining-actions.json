@@ -283,9 +283,6 @@
   "illness": {
     "curer": 1
   },
-  "income": {
-    "expresser": 0.3333333333333333
-  },
   "interesting thoughts": {
     "poster": 0.5
   },
