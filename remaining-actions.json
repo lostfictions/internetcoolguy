@@ -341,9 +341,6 @@
   "manhattan": {
     "builder": 0.3333333333333333
   },
-  "many books": {
-    "writer": 0.25
-  },
   "many dishes": {
     "server": 0.3333333333333333
   },
