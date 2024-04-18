@@ -624,9 +624,6 @@
   "engine": {
     "replacer": 1
   },
-  "esoteric things": {
-    "hider": 1
-  },
   "everything": {
     "learner": 1,
     "maker out": 0.25,
