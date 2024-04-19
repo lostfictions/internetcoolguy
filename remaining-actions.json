@@ -492,9 +492,6 @@
   "slave": {
     "forcer": 0.2
   },
-  "sleep patterns": {
-    "learner": 1
-  },
   "soccer ball": {
     "purchaser": 0.2
   },

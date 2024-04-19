@@ -1686,9 +1686,6 @@
   "slave": {
     "forcer": 0.2
   },
-  "sleep patterns": {
-    "learner": 1
-  },
   "soap": {
     "user": 0.3333333333333333
   },
