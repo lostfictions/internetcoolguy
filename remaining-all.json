@@ -291,9 +291,6 @@
     "roller": 0.5,
     "seller": 0.25
   },
-  "carrot": {
-    "eater": 1
-  },
   "cars": {
     "buyer": 0.3333333333333333,
     "builder": 0.25,
