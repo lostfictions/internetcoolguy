@@ -265,9 +265,6 @@
   "cardboard": {
     "recycler": 1
   },
-  "care": {
-    "requirer": 0.2
-  },
   "cargo": {
     "carrier on": 0.3333333333333333,
     "dropper": 0.3333333333333333
