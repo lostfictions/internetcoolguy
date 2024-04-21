@@ -425,10 +425,6 @@
   "russian": {
     "writer": 0.2
   },
-  "saddle": {
-    "finder": 0.3333333333333333,
-    "needer": 0.2
-  },
   "san francisco": {
     "knower": 0.25
   },
