@@ -1656,9 +1656,6 @@
     "preparer": 0.3333333333333333,
     "server": 0.3333333333333333
   },
-  "spanish": {
-    "speaker": 0.25
-  },
   "speed": {
     "restricter": 0.25
   },
