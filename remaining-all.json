@@ -585,9 +585,6 @@
   "electrical machinery": {
     "turner off": 0.5
   },
-  "electrical power": {
-    "lightener": 0.3333333333333333
-  },
   "electrons": {
     "affecter": 0.25
   },
