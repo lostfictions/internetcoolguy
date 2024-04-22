@@ -228,9 +228,6 @@
   "illness": {
     "curer": 1
   },
-  "interesting thoughts": {
-    "poster": 0.5
-  },
   "islands": {
     "locater": 0.25,
     "maker up": 0.2,
