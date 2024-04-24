@@ -11,14 +11,6 @@
   "aluminium tins": {
     "seller": 0.3333333333333333
   },
-  "apples": {
-    "cooker": 1,
-    "eater": 1,
-    "finder": 0.25,
-    "measurer": 0.3333333333333333,
-    "presser": 1,
-    "seller": 0.3333333333333333
-  },
   "army": {
     "maker up": 0.2
   },
