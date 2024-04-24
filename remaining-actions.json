@@ -380,9 +380,6 @@
   "slave": {
     "forcer": 0.2
   },
-  "soccer ball": {
-    "purchaser": 0.2
-  },
   "spiral": {
     "explainer": 0.2
   },
