@@ -140,9 +140,6 @@
   "electrical machinery": {
     "turner off": 0.5
   },
-  "engine": {
-    "replacer": 1
-  },
   "examples": {
     "givener": 0.25
   },

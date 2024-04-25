@@ -581,9 +581,6 @@
   "energy": {
     "needer": 0.25
   },
-  "engine": {
-    "replacer": 1
-  },
   "everything": {
     "learner": 1,
     "maker out": 0.25,
