@@ -399,9 +399,6 @@
   "tooth": {
     "finder": 0.3333333333333333
   },
-  "tortoises": {
-    "relater": 0.3333333333333333
-  },
   "trees": {
     "affecter": 0.3333333333333333,
     "blower away": 0.2,
