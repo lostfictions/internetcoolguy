@@ -190,8 +190,7 @@
   },
   "buildings": {
     "designer": 1,
-    "finder": 0.2,
-    "maker": 0.2
+    "finder": 0.2
   },
   "bullet": {
     "shooter": 0.3333333333333333
