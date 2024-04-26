@@ -132,9 +132,6 @@
   "electric batteries": {
     "recharger": 1
   },
-  "electrical machinery": {
-    "turner off": 0.5
-  },
   "examples": {
     "givener": 0.25
   },

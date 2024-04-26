@@ -571,9 +571,6 @@
   "electric batteries": {
     "recharger": 1
   },
-  "electrical machinery": {
-    "turner off": 0.5
-  },
   "electrons": {
     "affecter": 0.25
   },
