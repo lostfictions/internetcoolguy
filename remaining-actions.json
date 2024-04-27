@@ -20,9 +20,6 @@
   "bait": {
     "attacher": 0.25
   },
-  "ballons": {
-    "filler": 0.3333333333333333
-  },
   "banks": {
     "closer": 0.25,
     "regulater": 1,
