@@ -1363,9 +1363,6 @@
   "president": {
     "electer": 1
   },
-  "presidential election": {
-    "holder": 0.25
-  },
   "prices": {
     "denominater": 0.3333333333333333,
     "measurer": 0.3333333333333333
