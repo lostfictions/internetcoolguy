@@ -1057,9 +1057,6 @@
   "most governments": {
     "runner": 0.25
   },
-  "most tires": {
-    "filler": 0.3333333333333333
-  },
   "movie": {
     "scener": 0.3333333333333333,
     "worker": 0.25,
