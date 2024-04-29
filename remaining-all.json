@@ -553,9 +553,6 @@
     "seller": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "electric batteries": {
-    "recharger": 1
-  },
   "electrons": {
     "affecter": 0.25
   },
