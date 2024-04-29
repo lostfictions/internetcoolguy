@@ -132,10 +132,6 @@
   "explosive": {
     "user": 0.3333333333333333
   },
-  "films": {
-    "projecter": 0.3333333333333333,
-    "shooter": 0.2
-  },
   "floors": {
     "carpeter": 1,
     "coverer": 0.3333333333333333
