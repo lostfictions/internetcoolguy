@@ -1529,9 +1529,6 @@
   "sql": {
     "structurer": 1
   },
-  "squash": {
-    "player": 0.3333333333333333
-  },
   "staples": {
     "storer": 0.3333333333333333
   },
