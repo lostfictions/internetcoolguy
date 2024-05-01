@@ -104,9 +104,6 @@
   "examples": {
     "givener": 0.25
   },
-  "explosive": {
-    "user": 0.3333333333333333
-  },
   "floors": {
     "carpeter": 1,
     "coverer": 0.3333333333333333
