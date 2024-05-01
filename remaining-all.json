@@ -174,9 +174,6 @@
   "bridges": {
     "walker": 0.5
   },
-  "broken telephone": {
-    "repairer": 1
-  },
   "building": {
     "divider": 0.3333333333333333
   },

@@ -26,9 +26,6 @@
   "bodies": {
     "meaner": 0.3333333333333333
   },
-  "broken telephone": {
-    "repairer": 1
-  },
   "bullets": {
     "firer": 0.3333333333333333,
     "user": 0.3333333333333333
