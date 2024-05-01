@@ -1022,9 +1022,6 @@
   "most cosmic ray particles": {
     "producer": 0.25
   },
-  "most governments": {
-    "runner": 0.25
-  },
   "movie": {
     "scener": 0.3333333333333333,
     "worker": 0.25,
