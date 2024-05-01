@@ -20,11 +20,6 @@
   "bait": {
     "attacher": 0.25
   },
-  "banks": {
-    "closer": 0.25,
-    "regulater": 1,
-    "runner": 0.3333333333333333
-  },
   "bear": {
     "coverer": 0.25
   },
