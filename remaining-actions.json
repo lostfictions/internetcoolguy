@@ -87,9 +87,6 @@
   "crime": {
     "reducer": 0.2
   },
-  "dead bodies": {
-    "burier": 0.3333333333333333
-  },
   "different herbs": {
     "user": 0.25
   },
