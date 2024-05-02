@@ -973,9 +973,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "meridians": {
-    "user": 0.2
-  },
   "metal": {
     "cutter": 1,
     "former": 1,
