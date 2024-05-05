@@ -1074,9 +1074,6 @@
   "ocean": {
     "filler": 0.25
   },
-  "ocean tides": {
-    "influencer": 0.3333333333333333
-  },
   "oceans": {
     "former": 0.3333333333333333
   },
