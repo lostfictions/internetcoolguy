@@ -1374,9 +1374,6 @@
   "sentences": {
     "maker": 0.3333333333333333
   },
-  "shakespeare": {
-    "considerer": 0.25
-  },
   "shallow water": {
     "heater": 0.25,
     "wader": 0.5
