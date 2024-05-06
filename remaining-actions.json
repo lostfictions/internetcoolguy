@@ -117,9 +117,6 @@
   "spiral": {
     "explainer": 0.2
   },
-  "sql": {
-    "structurer": 1
-  },
   "tents": {
     "user": 0.25
   },
