@@ -120,10 +120,6 @@
   "seas": {
     "filler": 0.3333333333333333
   },
-  "shallow water": {
-    "heater": 0.25,
-    "wader": 0.5
-  },
   "spiral": {
     "explainer": 0.2
   },
