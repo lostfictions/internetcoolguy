@@ -422,9 +422,6 @@
     "accepter almost everywhere": 0.3333333333333333,
     "charger": 0.3333333333333333
   },
-  "crime": {
-    "reducer": 0.2
-  },
   "criminals": {
     "bringer": 0.2,
     "holder": 0.3333333333333333,
