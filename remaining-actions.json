@@ -17,10 +17,6 @@
   "cabin": {
     "finder": 0.3333333333333333
   },
-  "cakes": {
-    "cooker": 1,
-    "decorator": 0.3333333333333333
-  },
   "calories": {
     "obtainer": 0.3333333333333333
   },
