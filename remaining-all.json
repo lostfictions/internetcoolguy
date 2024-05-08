@@ -93,9 +93,6 @@
   "battery": {
     "maker": 0.3333333333333333
   },
-  "bear": {
-    "coverer": 0.25
-  },
   "beef": {
     "griller": 1,
     "marinater": 1
