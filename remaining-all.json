@@ -1345,9 +1345,6 @@
   "speed": {
     "restricter": 0.25
   },
-  "spiral": {
-    "explainer": 0.2
-  },
   "sports": {
     "divider": 0.3333333333333333
   },
