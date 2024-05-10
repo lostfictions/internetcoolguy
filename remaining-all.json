@@ -978,9 +978,6 @@
     "recycler": 1,
     "writer": 0.3333333333333333
   },
-  "nightwatchmen": {
-    "finder": 0.3333333333333333
-  },
   "nori": {
     "maker": 0.25
   },
