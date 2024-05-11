@@ -797,9 +797,6 @@
   "letter": {
     "putter": 0.25
   },
-  "letter opener": {
-    "user": 0.3333333333333333
-  },
   "letters": {
     "sender": 0.3333333333333333,
     "writer": 0.3333333333333333
