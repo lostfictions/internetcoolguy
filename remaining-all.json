@@ -1,124 +1,763 @@
 {
+  "3d images": {
+    "viewer": 0.25
+  },
+  "70 percent": {
+    "coverer": 0.3333333333333333
+  },
+  "ability": {
+    "acquirer": 0.3333333333333333
+  },
+  "abrasions": {
+    "causer": 0.3333333333333333
+  },
+  "absolute jasmine oil": {
+    "extracter": 0.3333333333333333
+  },
+  "acciaccatos": {
+    "player": 0.2
+  },
+  "accident": {
+    "considerer": 0.3333333333333333
+  },
+  "accidents": {
+    "causer": 0.2
+  },
   "accordian": {
-    "hanger": 0.3333333333333333
+    "hanger": 0.3333333333333333,
+    "player": 0.2
+  },
+  "accordions": {
+    "user": 0.25
+  },
+  "acetobacter species": {
+    "user": 0.2
+  },
+  "acid": {
+    "diluter": 0.3333333333333333
+  },
+  "acid rain": {
+    "causer": 0.25
   },
   "acne medication": {
-    "applier": 0.3333333333333333
+    "applier": 0.3333333333333333,
+    "designer": 0.2
+  },
+  "acoustic ceiling": {
+    "designer": 0.25
+  },
+  "action": {
+    "performer": 1
+  },
+  "actors": {
+    "payer": 0.3333333333333333
   },
   "address label": {
     "fixer": 0.3333333333333333,
     "putter on": 0.3333333333333333,
+    "requirer": 0.25,
     "user": 0.3333333333333333
   },
+  "adhesive bandage": {
+    "user": 0.5
+  },
+  "adolf hitler": {
+    "thinker": 0.25
+  },
+  "advantage": {
+    "gainer": 0.25
+  },
+  "advertisement": {
+    "printer": 0.3333333333333333
+  },
+  "advertisements": {
+    "designer": 0.25
+  },
+  "aerial bomb": {
+    "dropper": 0.3333333333333333
+  },
   "aeroplanes": {
-    "propeller": 0.3333333333333333
+    "propeller": 0.3333333333333333,
+    "user": 0.3333333333333333
+  },
+  "ahes": {
+    "collector": 0.3333333333333333
+  },
+  "air": {
+    "heater": 1
+  },
+  "air conditioning units": {
+    "user": 0.3333333333333333
+  },
+  "air ticket": {
+    "exchanger": 0.2
+  },
+  "airline seat": {
+    "installer": 0.3333333333333333
+  },
+  "airplane seat": {
+    "user": 0.25
+  },
+  "airplane tickets": {
+    "printer": 0.3333333333333333
+  },
+  "aisles": {
+    "user": 0.25
+  },
+  "alarm": {
+    "user": 0.25
+  },
+  "alarm clocks": {
+    "setter": 0.2
+  },
+  "alchohol": {
+    "producer": 0.3333333333333333
+  },
+  "alcholic drinks": {
+    "maker": 0.3333333333333333
+  },
+  "alcholoic drinks": {
+    "user": 0.3333333333333333
   },
   "alcohol": {
     "buyer": 0.3333333333333333,
     "igniter easily": 0.5,
+    "server": 0.3333333333333333,
+    "storer": 0.25
+  },
+  "alcoholic beverages": {
     "server": 0.3333333333333333
+  },
+  "alcoholic drinks": {
+    "server": 0.3333333333333333
+  },
+  "all books": {
+    "writer": 0.3333333333333333
+  },
+  "all conflicts": {
+    "causer": 0.25
+  },
+  "all earth's oceans": {
+    "connecter": 1
+  },
+  "all human beings": {
+    "coverer": 0.3333333333333333
+  },
+  "all human suffering": {
+    "bringer about": 0.25
+  },
+  "all living things": {
+    "maker up": 0.25
+  },
+  "all mass": {
+    "attracter": 0.25
+  },
+  "all mater": {
+    "maker up": 0.25
+  },
+  "all numbers": {
+    "representer": 0.3333333333333333
+  },
+  "all physical objects": {
+    "matterer": 0.3333333333333333
+  },
+  "all substances": {
+    "maker up": 0.25
+  },
+  "all theatres": {
+    "reputer": 0.25
   },
   "all things": {
     "connecter": 1,
     "former": 0.3333333333333333,
-    "interconnecter": 1
+    "interconnecter": 1,
+    "maker out": 0.25
+  },
+  "almost": {
+    "buyer": 0.25
+  },
+  "almost all people": {
+    "borner": 0.25
+  },
+  "altoids": {
+    "maker": 0.25
+  },
+  "aluminium": {
+    "recycler": 1
+  },
+  "aluminium tins": {
+    "seller": 0.3333333333333333
+  },
+  "aluminum cans": {
+    "recycler": 1
+  },
+  "american budgets": {
+    "measurer": 0.3333333333333333
+  },
+  "amino acids": {
+    "deriver": 0.3333333333333333
+  },
+  "ammunition": {
+    "user": 0.3333333333333333
+  },
+  "amputation": {
+    "viewer": 0.2
+  },
+  "angeles national forest": {
+    "user": 0.3333333333333333
   },
   "animal": {
+    "knower": 0.25,
     "locker up": 0.25
   },
+  "animal including grasshoppers": {
+    "finder": 0.5
+  },
   "animals": {
+    "converter": 0.3333333333333333,
     "cooker": 0.3333333333333333,
     "keeper": 0.3333333333333333,
     "user": 0.3333333333333333
   },
+  "antenna": {
+    "needer": 0.2
+  },
+  "antibiotic": {
+    "deriver": 0.2
+  },
+  "antibiotics": {
+    "user": 0.25
+  },
+  "antibody": {
+    "producer": 0.25
+  },
+  "antique furniture": {
+    "seller": 0.2
+  },
+  "ants": {
+    "finder": 0.25
+  },
+  "anyone": {
+    "considerer": 0.5
+  },
+  "apartment building": {
+    "maker up": 0.2
+  },
   "apartments": {
+    "builder": 0.25,
     "renter": 1
+  },
+  "appetite": {
+    "appeaser": 0.3333333333333333
+  },
+  "apple": {
+    "eater": 1
+  },
+  "apple juice": {
+    "maker": 0.25
+  },
+  "apple sauce": {
+    "maker": 0.3333333333333333
   },
   "apples": {
     "cooker": 1,
     "eater": 1,
+    "finder": 0.25,
     "measurer": 0.3333333333333333,
     "presser": 1,
     "seller": 0.3333333333333333
   },
+  "applesauce": {
+    "maker out": 0.25
+  },
+  "applesause": {
+    "maker": 0.3333333333333333
+  },
+  "apron": {
+    "cooker": 0.3333333333333333
+  },
+  "aquariums": {
+    "filler": 0.3333333333333333
+  },
+  "aquarius": {
+    "representer": 0.25
+  },
   "arabic": {
-    "speaker": 0.25
+    "speaker": 0.25,
+    "writer": 0.2
+  },
+  "architecture": {
+    "engraver": 0.25
+  },
+  "area": {
+    "liver": 0.5
+  },
+  "argyle": {
+    "knower": 0.25
+  },
+  "aries": {
+    "representer": 0.3333333333333333
+  },
+  "arm": {
+    "attacher": 0.3333333333333333
+  },
+  "army": {
+    "maker up": 0.2
   },
   "art": {
+    "baser": 0.25,
     "displayer": 0.25
+  },
+  "artillary": {
+    "user": 0.3333333333333333
+  },
+  "asperin": {
+    "deriver": 0.3333333333333333
+  },
+  "assure": {
+    "insurer": 1
+  },
+  "atmosphere": {
+    "maker up": 0.25
+  },
+  "attach case": {
+    "misspeller": 1
+  },
+  "attache case": {
+    "carrier": 0.25
+  },
+  "attache cases": {
+    "user": 0.2
+  },
+  "attention": {
+    "drawer": 0.25
+  },
+  "attorneys": {
+    "needer": 0.25
+  },
+  "auction": {
+    "runner": 0.3333333333333333
+  },
+  "aussie bush leather": {
+    "baser": 0.3333333333333333
+  },
+  "aussteyr": {
+    "issuer": 0.25
+  },
+  "australian managers": {
+    "concerner": 0.2
+  },
+  "authors": {
+    "payer": 0.25
+  },
+  "automobile engines": {
+    "constructer": 0.25
+  },
+  "automobile tires": {
+    "maker": 0.3333333333333333
+  },
+  "automobiles": {
+    "constructer": 0.25
   },
   "babies": {
     "borner prematurely": 0.5,
+    "borner": 0.25,
     "dresser": 0.3333333333333333
   },
+  "baby bottle nipples": {
+    "maker": 0.3333333333333333
+  },
+  "back garden": {
+    "relaxer": 0.5
+  },
   "backdrop": {
+    "finder": 0.3333333333333333,
     "user": 0.3333333333333333
+  },
+  "backdrops": {
+    "user": 0.3333333333333333
+  },
+  "backfire": {
+    "setter": 0.3333333333333333
+  },
+  "backgammon": {
+    "player": 0.25
+  },
+  "backgammon boards": {
+    "maker": 0.25
+  },
+  "background checks": {
+    "requirer": 0.25
+  },
+  "backyard": {
+    "surrounder": 0.3333333333333333
+  },
+  "bacteria": {
+    "killer": 1
+  },
+  "bad credit": {
+    "straightener out": 0.5
+  },
+  "bad people": {
+    "sender": 0.2
+  },
+  "badminton": {
+    "player": 0.25
+  },
+  "bag": {
+    "designer": 0.25
+  },
+  "bagel": {
+    "maker": 0.3333333333333333
+  },
+  "bagpipes": {
+    "player": 0.2
   },
   "bags": {
     "maker": 0.3333333333333333,
+    "maker out": 0.25,
     "recycler": 1
+  },
+  "bait": {
+    "attacher": 0.25
+  },
+  "balcony": {
+    "raiser": 1
   },
   "ball": {
     "hitter": 0.3333333333333333,
     "kicker": 1,
     "player": 0.5,
-    "pusher": 0.3333333333333333
+    "pusher": 0.3333333333333333,
+    "user": 0.25
+  },
+  "ball bearing": {
+    "maker out": 0.25
+  },
+  "ballon": {
+    "filler": 0.3333333333333333
+  },
+  "ballons": {
+    "filler": 0.3333333333333333
   },
   "balloon": {
+    "blower up": 0.5,
     "popper": 1
   },
   "balloons": {
     "filler": 0.3333333333333333,
-    "inflater": 1
+    "inflater": 1,
+    "releaser": 0.25
+  },
+  "ballpoint pen": {
+    "refiller": 1
+  },
+  "balls": {
+    "designer": 0.3333333333333333
+  },
+  "banana": {
+    "eater": 1
+  },
+  "bananas": {
+    "eater": 1
+  },
+  "band aid": {
+    "manufacturer": 1
+  },
+  "bank accounts": {
+    "setter up": 0.25
   },
   "banks": {
+    "closer": 0.25,
     "regulater": 1,
     "runner": 0.3333333333333333
   },
+  "barbecued food": {
+    "server": 0.25
+  },
+  "barber comb": {
+    "user": 0.3333333333333333
+  },
+  "barn": {
+    "finder": 0.3333333333333333
+  },
+  "barrette": {
+    "user": 0.3333333333333333
+  },
+  "basball bat": {
+    "user": 0.3333333333333333
+  },
   "baseball": {
-    "hitter": 0.3333333333333333
+    "hitter": 0.3333333333333333,
+    "player": 0.2
+  },
+  "baseball bat": {
+    "user": 0.3333333333333333
+  },
+  "baseball game": {
+    "seener": 0.25
+  },
+  "basement": {
+    "flooder": 1
+  },
+  "basements": {
+    "finder": 0.3333333333333333
+  },
+  "basil": {
+    "user": 0.25
   },
   "basketball": {
+    "dominater": 0.25,
     "filler": 0.3333333333333333,
     "player": 0.25
+  },
+  "baskets": {
+    "maker out": 0.25
+  },
+  "bass clarinet": {
+    "user": 0.3333333333333333
+  },
+  "bat": {
+    "user": 0.3333333333333333
+  },
+  "bath": {
+    "filler": 0.3333333333333333
+  },
+  "bathroom": {
+    "user": 0.2
+  },
+  "bathroom stalls": {
+    "locater": 0.3333333333333333
+  },
+  "bathrooms": {
+    "locater": 0.3333333333333333
   },
   "bathtub": {
     "filler": 0.3333333333333333,
     "locater": 0.3333333333333333,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "user": 0.25
+  },
+  "bats": {
+    "requirer": 0.25
   },
   "battery": {
+    "charger": 0.2,
     "maker": 0.3333333333333333
+  },
+  "beaches": {
+    "coverer": 0.3333333333333333
+  },
+  "beam": {
+    "user": 0.3333333333333333
+  },
+  "beams": {
+    "user": 0.3333333333333333
+  },
+  "bean bag chair": {
+    "filler": 0.2
+  },
+  "bean bag chairs": {
+    "filler": 0.2
+  },
+  "beanbag": {
+    "user": 0.25
+  },
+  "beanbags": {
+    "maker": 0.25
+  },
+  "beans": {
+    "user": 0.3333333333333333
+  },
+  "bear": {
+    "coverer": 0.25
+  },
+  "beards": {
+    "remover": 0.3333333333333333
+  },
+  "beautiful houses": {
+    "admirer": 1
+  },
+  "beautiful sunsets": {
+    "causer": 0.2
+  },
+  "bed": {
+    "maker": 0.3333333333333333
+  },
+  "bed sheet": {
+    "maker out": 0.25
+  },
+  "bedrooms": {
+    "finder": 0.3333333333333333
+  },
+  "bedtime stories": {
+    "reader": 0.2
   },
   "beef": {
     "griller": 1,
-    "marinater": 1
+    "marinater": 1,
+    "server": 0.25
+  },
+  "beef steaks": {
+    "cooker": 0.3333333333333333
   },
   "beer": {
     "haver": 0.3333333333333333,
     "maker": 0.2,
     "purchaser": 0.3333333333333333,
-    "server": 0.25
+    "server": 0.25,
+    "seller": 0.2
+  },
+  "beer mug": {
+    "chiller": 0.3333333333333333
+  },
+  "bees wax": {
+    "producer": 0.25
+  },
+  "belgians": {
+    "reckoner": 0.2
+  },
+  "belief": {
+    "baser": 0.3333333333333333
+  },
+  "belisha beacon": {
+    "finder": 0.25
+  },
+  "better looking people": {
+    "judger": 0.25
+  },
+  "better tanks": {
+    "creater": 0.3333333333333333
+  },
+  "bible": {
+    "considerer": 0.25
+  },
+  "bicycle": {
+    "steerer": 0.3333333333333333
+  },
+  "bicycles": {
+    "builder": 0.25
+  },
+  "bidet": {
+    "user": 0.3333333333333333
+  },
+  "bike": {
+    "maker": 0.25
+  },
+  "bill": {
+    "writer": 0.3333333333333333
+  },
+  "bill gates": {
+    "considerer": 0.25
+  },
+  "billiards": {
+    "player": 0.3333333333333333
+  },
+  "bills": {
+    "poster": 0.5
+  },
+  "biological machines": {
+    "reproducer": 1
+  },
+  "biology": {
+    "baser": 0.25
+  },
+  "biopsy": {
+    "user especially": 0.25
+  },
+  "biopsy material": {
+    "gatherer": 0.25
+  },
+  "bird's bodies": {
+    "coverer": 0.3333333333333333
+  },
+  "bird": {
+    "eater": 1
+  },
+  "birdfeeders": {
+    "builder": 0.25
+  },
+  "birdhouses": {
+    "builder": 0.3333333333333333
   },
   "birds": {
-    "descender": 0.3333333333333333
+    "descender": 0.3333333333333333,
+    "hunter": 0.3333333333333333
+  },
+  "birthday cake": {
+    "server": 0.3333333333333333
+  },
+  "birthday candles": {
+    "maker": 0.2
+  },
+  "black boards": {
+    "user": 0.3333333333333333
+  },
+  "blank checks": {
+    "storer": 0.3333333333333333
+  },
+  "blanket": {
+    "finder": 0.3333333333333333
+  },
+  "bleach": {
+    "buyer": 0.3333333333333333
+  },
+  "blimps": {
+    "filler": 0.3333333333333333
+  },
+  "blockbuster movies": {
+    "seener": 0.25
+  },
+  "blood": {
+    "reader": 1
+  },
+  "boat": {
+    "supposer": 0.3333333333333333
   },
   "boats": {
     "builder": 0.3333333333333333,
     "designer": 0.3333333333333333,
+    "maker": 0.2,
     "propeller": 0.3333333333333333,
     "storer": 0.3333333333333333
   },
-  "bomb": {
+  "bocci": {
+    "player": 0.25
+  },
+  "bodies": {
     "meaner": 0.3333333333333333
+  },
+  "body": {
+    "maker up": 0.2
+  },
+  "boggle": {
+    "buyer": 0.3333333333333333
+  },
+  "bolts": {
+    "user": 0.3333333333333333
+  },
+  "bomb": {
+    "maker up": 0.2,
+    "meaner": 0.3333333333333333
+  },
+  "bombs": {
+    "user": 0.3333333333333333
+  },
+  "bonfire": {
+    "finder": 0.3333333333333333
   },
   "book": {
     "intender": 0.3333333333333333,
     "maker": 0.3333333333333333,
+    "maker up": 0.2,
     "meaner": 0.3333333333333333
+  },
+  "book end": {
+    "finder": 0.25
   },
   "books": {
     "buyer": 0.3333333333333333,
+    "discusser": 0.2,
     "maker": 0.3333333333333333,
     "maker up": 0.25,
     "printer": 0.3333333333333333,
@@ -128,170 +767,598 @@
     "toucher": 1,
     "writer": 0.3333333333333333
   },
+  "boots": {
+    "maker": 0.3333333333333333
+  },
+  "botswana": {
+    "situater": 0.25
+  },
   "bottle": {
+    "filler": 0.3333333333333333,
     "recycler": 1
   },
   "bottles": {
     "locater": 0.3333333333333333,
-    "storer": 0.3333333333333333
+    "storer": 0.3333333333333333,
+    "taker": 0.2
+  },
+  "boxing match": {
+    "holder": 0.3333333333333333
   },
   "brain": {
+    "connecter": 0.25,
     "protecter": 0.3333333333333333
+  },
+  "brass instrument": {
+    "user": 0.25
+  },
+  "brand name drug": {
+    "approver": 0.3333333333333333
   },
   "bread": {
     "cooker": 1,
     "cutter": 0.3333333333333333,
     "eater": 0.3333333333333333,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "purchaser": 0.25
+  },
+  "breakfast": {
+    "eater": 0.3333333333333333
+  },
+  "brick": {
+    "finder": 0.3333333333333333
+  },
+  "bride's dress": {
+    "picker out": 0.25
+  },
+  "bridge": {
+    "supporter": 0.25
   },
   "bridges": {
+    "hanger": 0.25,
     "walker": 0.5
   },
+  "briefcase": {
+    "carrier": 0.25
+  },
+  "broken telephone": {
+    "repairer": 1
+  },
+  "brooms": {
+    "user": 0.2
+  },
+  "brush": {
+    "loader": 0.25
+  },
+  "bubbles": {
+    "causer": 0.3333333333333333
+  },
+  "bubonic plague": {
+    "treater": 0.3333333333333333
+  },
+  "buddists": {
+    "persecuter": 0.3333333333333333
+  },
+  "budget": {
+    "cutter": 1
+  },
+  "bugs": {
+    "studyer": 0.3333333333333333
+  },
   "building": {
+    "builder": 0.3333333333333333,
     "divider": 0.3333333333333333
   },
   "buildings": {
     "designer": 1,
-    "finder": 0.2
+    "finder": 0.2,
+    "maker": 0.2
+  },
+  "bulbs": {
+    "gardener": 0.3333333333333333
   },
   "bullet": {
-    "shooter": 0.3333333333333333
+    "shooter": 0.3333333333333333,
+    "user": 0.3333333333333333
   },
   "bullets": {
-    "firer": 0.3333333333333333
+    "firer": 0.3333333333333333,
+    "user": 0.3333333333333333
+  },
+  "buoy": {
+    "anchorer": 1
+  },
+  "bureaucracy": {
+    "knower": 0.25
+  },
+  "bureaus": {
+    "runner": 0.3333333333333333
+  },
+  "bus": {
+    "driver": 1
+  },
+  "bus pass": {
+    "needer": 0.2
+  },
+  "buses": {
+    "producer": 0.3333333333333333
+  },
+  "businesses": {
+    "supposer": 0.25
   },
   "butter": {
     "eater": 0.3333333333333333,
     "maker": 0.25,
-    "server": 0.3333333333333333
+    "server": 0.3333333333333333,
+    "user": 0.2
+  },
+  "butterflies": {
+    "attracter": 0.3333333333333333
+  },
+  "buttons": {
+    "pusher": 0.3333333333333333
+  },
+  "byte": {
+    "maker out": 0.25
+  },
+  "cabin": {
+    "finder": 0.3333333333333333
+  },
+  "cabinets": {
+    "locker": 1
+  },
+  "cable": {
+    "constructer": 0.3333333333333333
+  },
+  "cafe": {
+    "situater": 0.25
   },
   "cake": {
-    "cutter": 1
+    "cutter": 1,
+    "eater": 0.3333333333333333
   },
   "cakes": {
-    "cooker": 1
+    "cooker": 1,
+    "decorator": 0.3333333333333333
+  },
+  "calculus": {
+    "user": 0.25
+  },
+  "calendar": {
+    "hanger": 0.3333333333333333
   },
   "calendars": {
-    "carrier": 0.3333333333333333
+    "carrier": 0.3333333333333333,
+    "finder": 0.25
+  },
+  "calories": {
+    "obtainer": 0.3333333333333333
+  },
+  "camera film": {
+    "developer": 0.3333333333333333
+  },
+  "campfire": {
+    "maker": 0.3333333333333333
+  },
+  "camphor": {
+    "user": 0.3333333333333333
+  },
+  "camping": {
+    "campsiter": 0.3333333333333333
   },
   "canada": {
+    "knower": 0.2,
     "maker up": 0.25
   },
+  "canadian dollar": {
+    "divider": 0.25
+  },
+  "canals": {
+    "sailer": 0.2
+  },
   "candle": {
-    "burner": 0.3333333333333333
+    "burner": 0.3333333333333333,
+    "matcher": 0.25
   },
   "candles": {
     "burner": 0.2,
     "former": 0.2,
-    "matcher": 0.3333333333333333
+    "matcher": 0.3333333333333333,
+    "seller": 0.2
+  },
+  "candy": {
+    "maker mostly": 0.25
+  },
+  "cannon": {
+    "user": 0.3333333333333333
+  },
+  "cannonballs": {
+    "intender": 0.25
+  },
+  "cannons": {
+    "maker out": 0.25
+  },
+  "canoe": {
+    "user": 0.3333333333333333
   },
   "cans": {
     "finder": 0.25,
     "maker": 0.3333333333333333,
     "maker out": 0.25,
+    "picker up": 0.2,
     "recycler": 1
+  },
+  "cantonese": {
+    "speaker": 0.25
+  },
+  "canvas": {
+    "user": 0.3333333333333333
+  },
+  "cap": {
+    "header": 0.3333333333333333
+  },
+  "capital": {
+    "requirer": 0.2
+  },
+  "capital crime": {
+    "judger": 0.3333333333333333
+  },
+  "capital punishment": {
+    "administerer": 0.3333333333333333
+  },
+  "capricorn": {
+    "representer": 0.3333333333333333
+  },
+  "capitalist society": {
+    "maker up": 0.25
+  },
+  "capsicum": {
+    "user": 0.25
   },
   "car": {
     "buyer": 0.25,
     "driver": 0.3333333333333333,
     "meaner": 0.25,
     "replacer": 0.25,
+    "seller": 0.25,
     "storer": 0.3333333333333333
   },
+  "car seats": {
+    "maker out": 0.25
+  },
+  "card": {
+    "user": 0.3333333333333333
+  },
   "cardboard": {
+    "maker": 0.3333333333333333,
     "recycler": 1
   },
+  "cardboard box": {
+    "maker": 0.25
+  },
+  "cardboard boxes": {
+    "recycler": 1
+  },
+  "cards": {
+    "sender": 0.3333333333333333
+  },
+  "care": {
+    "requirer": 0.2
+  },
+  "care package": {
+    "sender": 0.3333333333333333
+  },
   "cargo": {
+    "carrier": 0.3333333333333333,
     "carrier on": 0.3333333333333333,
     "dropper": 0.3333333333333333
   },
   "carpet": {
-    "finder": 0.3333333333333333
+    "finder": 0.3333333333333333,
+    "user": 0.25
   },
   "carpets": {
+    "buyer": 0.25,
     "roller": 0.5,
     "seller": 0.25
+  },
+  "carrot": {
+    "eater": 1
+  },
+  "carrots": {
+    "cooker": 1
   },
   "cars": {
     "buyer": 0.3333333333333333,
     "builder": 0.25,
     "designer": 0.3333333333333333,
     "driver": 0.3333333333333333,
+    "maker": 0.2,
     "painter": 0.25,
     "driver way": 0.25,
     "propeller": 0.3333333333333333,
     "user mainly": 0.25
   },
   "cartons": {
-    "creater": 0.3333333333333333
+    "creater": 0.3333333333333333,
+    "maker out": 0.25
+  },
+  "cartoons": {
+    "animater": 1
+  },
+  "cases": {
+    "hearer": 0.2
   },
   "cash": {
     "denominater": 0.3333333333333333,
-    "earner": 1
+    "earner": 1,
+    "measurer": 0.2
   },
   "castanets": {
-    "binder": 0.2
+    "binder": 0.2,
+    "user": 0.2
+  },
+  "casual describes clothing": {
+    "comforter": 0.2
+  },
+  "cat's eyes": {
+    "finder": 0.3333333333333333
+  },
+  "cat": {
+    "attracter": 0.3333333333333333
+  },
+  "catalogues": {
+    "writer": 0.3333333333333333
+  },
+  "catastrophes": {
+    "reporter": 0.3333333333333333
   },
   "catfish": {
-    "catcher": 0.3333333333333333
+    "catcher": 0.3333333333333333,
+    "catcher on": 0.3333333333333333
+  },
+  "catgut": {
+    "user": 0.3333333333333333
+  },
+  "catholic wedding": {
+    "performer": 0.25
   },
   "cats": {
+    "coverer": 0.3333333333333333,
     "stroker": 1
   },
+  "cattle": {
+    "feeder": 0.25
+  },
+  "cavitron": {
+    "user": 0.25
+  },
+  "cci ammunition": {
+    "maker": 0.3333333333333333
+  },
+  "cd": {
+    "holder": 0.3333333333333333
+  },
+  "cds": {
+    "buyer": 0.3333333333333333
+  },
+  "cedar": {
+    "user": 0.2
+  },
+  "ceilings": {
+    "painter": 0.3333333333333333
+  },
+  "celery": {
+    "server": 0.3333333333333333
+  },
+  "cell": {
+    "surrounder": 0.3333333333333333
+  },
+  "cellars": {
+    "intender": 0.3333333333333333
+  },
+  "centerfold pictures": {
+    "taker": 0.25
+  },
+  "centerfolds": {
+    "blemisher up to": 0.2
+  },
+  "centimeters": {
+    "user": 0.25
+  },
   "ceramics": {
+    "maker": 0.25,
     "manufacturer": 1
+  },
+  "cereal": {
+    "buyer": 0.3333333333333333
+  },
+  "certain drinks": {
+    "server": 0.25
+  },
+  "chair": {
+    "fixer": 1
   },
   "chairs": {
     "coverer": 0.3333333333333333,
+    "maker out": 0.25,
     "upholsterer": 0.3333333333333333
   },
+  "chairs hieght": {
+    "adjuster": 1
+  },
+  "chalk boards": {
+    "user": 0.3333333333333333
+  },
+  "champagne": {
+    "maker": 0.3333333333333333
+  },
+  "changing room": {
+    "finder": 0.3333333333333333
+  },
+  "character dracula": {
+    "baser": 0.25
+  },
+  "charcoal": {
+    "user": 0.3333333333333333
+  },
+  "charge": {
+    "maker": 0.3333333333333333
+  },
+  "charities": {
+    "donater": 1
+  },
+  "charity": {
+    "intender": 0.25
+  },
+  "charles darwin": {
+    "burier": 0.25
+  },
+  "charts": {
+    "dominater": 0.25
+  },
   "check": {
-    "printer": 0.3333333333333333
+    "printer": 0.3333333333333333,
+    "writer": 0.25
   },
   "checks": {
+    "turner": 0.2,
     "writer": 1
+  },
+  "cheerios": {
+    "eater out": 0.2
   },
   "cheese": {
     "buyer": 0.3333333333333333,
+    "eater": 1,
+    "maker": 0.3333333333333333
+  },
+  "chese": {
+    "maker": 0.3333333333333333
+  },
+  "chess board": {
+    "maker up": 0.2
+  },
+  "chess pawn": {
+    "user": 0.2
+  },
+  "chess piece": {
+    "user": 0.2
+  },
+  "chesspiece": {
+    "user": 0.2
+  },
+  "chicago": {
+    "locater": 0.25
+  },
+  "chicke": {
     "eater": 1
   },
   "chicken": {
     "buyer": 0.3333333333333333,
+    "cooker": 0.3333333333333333,
     "eater": 1
   },
+  "chicken dishes": {
+    "server": 0.3333333333333333
+  },
   "child": {
+    "producer": 0.25,
     "putter": 0.3333333333333333,
     "surpriser": 1
   },
   "children": {
     "adopter": 1,
     "borner": 0.25,
-    "educater": 0.3333333333333333
+    "educater": 0.3333333333333333,
+    "teacher": 0.2
+  },
+  "chips": {
+    "maker": 0.3333333333333333
+  },
+  "chloraphyl": {
+    "needer": 0.2
+  },
+  "chloroform": {
+    "user": 0.3333333333333333
   },
   "chocolate": {
     "eater": 1,
+    "maker": 0.25,
     "melter": 1
   },
+  "chokers": {
+    "maker": 0.25
+  },
+  "chutney": {
+    "relater": 0.3333333333333333
+  },
+  "cider": {
+    "maker out": 0.25
+  },
   "cigarette": {
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "smoker": 0.25
   },
   "cigarettes": {
+    "producer": 0.25,
     "seller": 0.3333333333333333
   },
   "cigaretts": {
+    "roller": 0.3333333333333333,
     "smoker": 1
   },
+  "circus": {
+    "holder somewhere": 0.5
+  },
   "cities": {
+    "builder": 0.3333333333333333,
     "finder": 0.3333333333333333
   },
+  "city rijeka": {
+    "locater": 0.3333333333333333
+  },
+  "civil action documents": {
+    "sender": 0.3333333333333333
+  },
+  "civil actions": {
+    "winner": 0.3333333333333333
+  },
+  "civil war": {
+    "learner": 0.2
+  },
+  "clarinet": {
+    "supporter": 0.25
+  },
+  "classes": {
+    "holder": 0.3333333333333333
+  },
+  "classic rocking chair": {
+    "maker": 0.3333333333333333
+  },
   "classical music": {
+    "enjoyedder": 0.25,
     "player": 0.3333333333333333
   },
-  "clippings": {
+  "clay targets": {
+    "releaser": 0.3333333333333333
+  },
+  "clear plastic soda bottles": {
     "recycler": 1
   },
+  "clerks there": {
+    "server": 0.25
+  },
+  "clippings": {
+    "maker": 0.3333333333333333,
+    "recycler": 1
+  },
+  "clocks": {
+    "reader": 1
+  },
   "cloth": {
-    "cutter": 1
+    "cutter": 1,
+    "maker": 0.3333333333333333
   },
   "clothes": {
     "buyer": 0.3333333333333333,
@@ -300,231 +1367,1109 @@
     "presser": 0.25,
     "purchaser": 0.3333333333333333,
     "storer": 0.3333333333333333,
+    "washer": 0.25,
     "worker": 0.3333333333333333
+  },
+  "clothes dryers": {
+    "seller": 0.3333333333333333
   },
   "clothing": {
     "hanger": 0.25,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "null on": 0.2
+  },
+  "clouds": {
+    "maker up": 0.2
+  },
+  "clowns": {
+    "supposer": 0.3333333333333333
+  },
+  "clubs": {
+    "lister": 0.2
+  },
+  "cn tower": {
+    "locater": 0.2
+  },
+  "coach seat": {
+    "finder": 0.3333333333333333
   },
   "cocain": {
-    "deriver": 0.3333333333333333
+    "deriver": 0.3333333333333333,
+    "knower": 0.25
+  },
+  "coconuts": {
+    "eater": 1
+  },
+  "codeine": {
+    "user": 0.25
+  },
+  "coffe": {
+    "maker mostly": 0.25
   },
   "coffee": {
     "buyer": 0.3333333333333333,
+    "enjoyedder": 0.2,
     "brewer": 0.25,
     "maker": 0.25,
     "server": 0.25,
     "seller": 0.3333333333333333
   },
+  "coil": {
+    "user": 0.3333333333333333
+  },
+  "coin purse": {
+    "maker": 0.3333333333333333
+  },
   "coins": {
     "maker": 0.3333333333333333,
     "maker out": 0.25,
-    "producer": 0.3333333333333333
+    "producer": 0.3333333333333333,
+    "saver": 0.25
+  },
+  "coins collectible": {
+    "buyer": 0.3333333333333333
+  },
+  "coke": {
+    "container": 0.3333333333333333
   },
   "cold": {
+    "avoider": 0.2,
     "measurer": 0.3333333333333333
+  },
+  "cole": {
+    "supposer": 0.25
+  },
+  "college students": {
+    "knower": 0.25
+  },
+  "color black": {
+    "considerer": 0.3333333333333333
   },
   "coloring": {
     "ader": 0.25,
+    "painter": 0.2,
     "colorer": 0.25,
     "speaker": 0.3333333333333333,
     "writer": 0.3333333333333333
   },
+  "colors": {
+    "producer": 0.2
+  },
+  "colposcope": {
+    "user": 0.3333333333333333
+  },
+  "comedy": {
+    "meaner": 0.25
+  },
+  "comforter": {
+    "finder": 0.25
+  },
+  "comedy routine": {
+    "performer": 0.2
+  },
+  "comics": {
+    "intender": 0.2
+  },
+  "committee": {
+    "maker up": 0.25
+  },
+  "communications satellites": {
+    "user": 0.3333333333333333
+  },
+  "communism": {
+    "baser": 0.3333333333333333
+  },
+  "companies": {
+    "founder": 0.25
+  },
+  "compass bearing": {
+    "measurer": 0.3333333333333333
+  },
+  "competitive sports": {
+    "enjoyedder": 0.3333333333333333
+  },
+  "completed paintings": {
+    "putter": 0.25
+  },
+  "compound molecule": {
+    "maker up": 0.2
+  },
+  "computer's internal memory": {
+    "maker up": 0.2
+  },
   "computer": {
     "maker out": 0.25,
+    "purchaser": 0.25,
     "teacher": 1,
     "user": 0.25
+  },
+  "computer mouse": {
+    "clicker": 1
+  },
+  "computer system": {
+    "situater": 0.3333333333333333
+  },
+  "computer virus": {
+    "contracter": 0.3333333333333333
+  },
+  "computer viruses": {
+    "writer": 0.25
   },
   "computers": {
     "builder": 0.3333333333333333,
     "connecter": 1,
     "destroyedder": 0.3333333333333333,
     "knower": 0.25,
-    "teacher": 0.3333333333333333
+    "teacher": 0.3333333333333333,
+    "user": 0.2
+  },
+  "concerts": {
+    "player": 0.25
+  },
+  "conclusion": {
+    "former": 0.3333333333333333
+  },
+  "condom": {
+    "putter": 0.25
+  },
+  "condoms": {
+    "maker": 0.2
+  },
+  "confetti": {
+    "user": 0.25
+  },
+  "confidence": {
+    "sharer": 1
+  },
+  "connection": {
+    "loser": 1
+  },
+  "container": {
+    "maker out": 0.25
   },
   "containers": {
+    "maker": 0.25,
     "maker out": 0.25,
     "recycler": 1
   },
+  "contour lines": {
+    "measurer": 0.2
+  },
+  "contraceptive device": {
+    "pharmacyer at most": 0.25
+  },
   "contract": {
-    "rejecter": 1
+    "rejecter": 1,
+    "writer": 0.3333333333333333
+  },
+  "contracts": {
+    "evaluater": 1
+  },
+  "control fire": {
+    "setter": 0.3333333333333333
+  },
+  "convict": {
+    "judger": 0.3333333333333333
+  },
+  "convicted criminal": {
+    "hander": 0.25
+  },
+  "convicted criminals": {
+    "requirer": 0.2
+  },
+  "cooked food": {
+    "eater": 1
+  },
+  "cookie": {
+    "eater": 1
   },
   "copper": {
-    "melter": 1
+    "melter": 1,
+    "user": 0.3333333333333333
+  },
+  "copper mirrors": {
+    "user": 0.25
+  },
+  "cord": {
+    "tier": 1
+  },
+  "cork": {
+    "user": 0.25
   },
   "corn": {
     "eater": 1,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "marketer": 0.3333333333333333
+  },
+  "corn borer": {
+    "finder": 0.25
+  },
+  "corn earworm": {
+    "finder": 0.25
+  },
+  "corn kernals": {
+    "protecter": 0.2
+  },
+  "cornbread": {
+    "server": 0.2
+  },
+  "cornstarch": {
+    "user": 0.3333333333333333
+  },
+  "corporate headquarters": {
+    "representer": 0.3333333333333333
+  },
+  "correspondence classes": {
+    "conducter": 0.3333333333333333
+  },
+  "cortisone": {
+    "user": 0.25
+  },
+  "costs": {
+    "reducer": 0.3333333333333333
   },
   "cotton": {
+    "grower": 0.3333333333333333,
     "spinner": 0.3333333333333333
   },
   "cotton candy": {
-    "buyer": 0.3333333333333333
+    "buyer": 0.3333333333333333,
+    "namer": 0.3333333333333333
+  },
+  "cotton fibers": {
+    "spinner": 0.3333333333333333
+  },
+  "counterfeit notes": {
+    "maker": 0.3333333333333333
+  },
+  "counters": {
+    "user": 0.25
   },
   "countries": {
     "accuser": 0.25,
     "divider": 0.3333333333333333,
+    "maker up": 0.25,
     "ruller": 0.3333333333333333
   },
+  "country code top level domains": {
+    "administerer": 0.25
+  },
+  "country music": {
+    "player": 0.25
+  },
+  "county": {
+    "container": 0.3333333333333333
+  },
+  "county highway": {
+    "maintainer": 0.25
+  },
   "courses": {
+    "givener": 0.3333333333333333,
     "offerer": 0.3333333333333333
   },
+  "court room jury": {
+    "maker up": 0.25
+  },
   "cow": {
-    "eater": 1
+    "eater": 1,
+    "finder": 0.3333333333333333
+  },
+  "cowboy": {
+    "finder": 0.3333333333333333
   },
   "cows": {
+    "accuser": 0.2,
     "eater": 1,
     "milker": 0.3333333333333333,
     "raiser": 0.3333333333333333
   },
+  "crakers": {
+    "buyer": 0.3333333333333333
+  },
+  "cranberry juice": {
+    "maker": 0.3333333333333333
+  },
+  "craters": {
+    "former": 0.3333333333333333
+  },
   "cream": {
+    "adder": 0.3333333333333333,
     "putter on": 0.3333333333333333
   },
   "credit": {
-    "applier": 0.5
+    "applier": 0.5,
+    "obtainer": 0.3333333333333333
   },
   "credit cards": {
     "accepter almost everywhere": 0.3333333333333333,
-    "charger": 0.3333333333333333
+    "charger": 0.3333333333333333,
+    "user": 0.25
+  },
+  "credits cards": {
+    "reader": 0.25
+  },
+  "cricket": {
+    "player": 0.2
+  },
+  "crime": {
+    "reducer": 0.2
+  },
+  "criminal": {
+    "givener": 0.5
+  },
+  "criminal defendant": {
+    "finder": 0.2
   },
   "criminals": {
     "bringer": 0.2,
     "holder": 0.3333333333333333,
-    "judger": 0.3333333333333333
+    "judger": 0.3333333333333333,
+    "sender": 0.2
   },
   "crops": {
+    "grower": 0.3333333333333333,
     "faller": 0.3333333333333333
+  },
+  "cruise ship food": {
+    "reputer": 0.3333333333333333
+  },
+  "crying": {
+    "tearer": 0.3333333333333333
+  },
+  "cucumber beetle": {
+    "finder": 0.3333333333333333
   },
   "cups": {
     "dropper": 1,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "storer": 0.3333333333333333
+  },
+  "curfews": {
+    "establisher": 0.3333333333333333
   },
   "curry": {
-    "eater": 0.25
+    "eater": 0.25,
+    "server": 0.25
+  },
+  "cursor": {
+    "mover": 0.2
+  },
+  "curtains": {
+    "drawer": 1
+  },
+  "customers": {
+    "finder": 0.3333333333333333
+  },
+  "cutlery": {
+    "maker": 0.25
+  },
+  "cutworm": {
+    "finder": 0.3333333333333333
+  },
+  "d oeuvers": {
+    "server": 0.3333333333333333
+  },
+  "dairy cows": {
+    "raiser": 0.3333333333333333
+  },
+  "dandruff shampoo": {
+    "purchaser": 0.3333333333333333
+  },
+  "data": {
+    "transferer": 0.3333333333333333
+  },
+  "date": {
+    "stander up": 0.5
+  },
+  "davis square": {
+    "locater": 0.25
   },
   "day": {
-    "divider": 0.3333333333333333
+    "divider": 0.3333333333333333,
+    "maker up": 0.2
   },
-  "dead people": {
+  "dead bodies": {
     "burier": 0.3333333333333333
   },
+  "dead people": {
+    "burier": 0.3333333333333333,
+    "putter": 0.3333333333333333
+  },
+  "death valley": {
+    "surrounder": 0.3333333333333333
+  },
+  "death row": {
+    "considerer": 0.3333333333333333
+  },
+  "debit card": {
+    "accounter": 0.2
+  },
+  "deductible": {
+    "expresser": 0.3333333333333333
+  },
+  "deer": {
+    "killer": 1
+  },
+  "degrees": {
+    "earner": 0.3333333333333333
+  },
+  "delorme": {
+    "baser": 0.25
+  },
+  "dental chair": {
+    "mover up": 0.2
+  },
+  "dentist": {
+    "payer": 0.25
+  },
+  "dentist chair": {
+    "surrounder": 0.25
+  },
   "desert": {
-    "describer": 0.3333333333333333
+    "describer": 0.3333333333333333,
+    "offerer": 0.2
+  },
+  "detectives": {
+    "trainer": 0.25
+  },
+  "diamonds value": {
+    "controller": 1
+  },
+  "diapers": {
+    "recycler": 1
+  },
+  "diaphragm": {
+    "locater": 0.3333333333333333
+  },
+  "dice": {
+    "user": 0.2
+  },
+  "diesel": {
+    "maker": 0.3333333333333333
+  },
+  "different herbs": {
+    "user": 0.25
+  },
+  "different languages": {
+    "speaker": 0.25
+  },
+  "digitalis": {
+    "deriver": 0.3333333333333333
+  },
+  "dilatetd": {
+    "stretcher": 0.25
+  },
+  "dilmah": {
+    "exporter": 0.2
+  },
+  "dingoes": {
+    "descender": 0.2
   },
   "dinner": {
+    "cooker": 0.3333333333333333,
     "eater": 0.3333333333333333,
     "griller": 1
   },
+  "dinosaurs": {
+    "studyer": 0.25
+  },
+  "director chair": {
+    "folder": 1
+  },
+  "dirt": {
+    "washer": 0.5
+  },
+  "dirty clothes": {
+    "washer": 0.25
+  },
   "dirty dishes": {
+    "generator": 0.3333333333333333,
     "washer": 0.3333333333333333
   },
+  "disco": {
+    "user": 0.3333333333333333
+  },
+  "discomfort": {
+    "causer": 0.3333333333333333
+  },
+  "discothque": {
+    "misspeller": 1
+  },
+  "disease": {
+    "spreader": 0.25
+  },
+  "diseases": {
+    "causer": 0.3333333333333333
+  },
+  "dish": {
+    "server": 1
+  },
+  "dish containing meat": {
+    "cooker": 0.3333333333333333
+  },
+  "dishes": {
+    "setter": 0.3333333333333333
+  },
+  "disneyland": {
+    "namer": 0.25
+  },
+  "distance": {
+    "measurer": 0.2
+  },
+  "distrusts": {
+    "baser": 0.2
+  },
+  "dna": {
+    "needer": 0.3333333333333333
+  },
+  "dock": {
+    "finder": 0.3333333333333333
+  },
+  "docks": {
+    "maker": 0.3333333333333333
+  },
+  "doctor's lab coat": {
+    "maker": 0.3333333333333333
+  },
+  "dog's weight": {
+    "measurer": 0.3333333333333333
+  },
   "dog": {
+    "buyer": 0.25,
     "feeder": 1,
     "kicker": 1,
     "lover": 1
   },
+  "dog hair": {
+    "weaver": 1
+  },
   "dogs": {
     "adopter": 0.3333333333333333,
     "breeder": 0.25,
+    "considerer": 0.2,
     "namer": 0.3333333333333333,
     "trainer": 0.25
   },
   "dollar": {
-    "backer": 0.3333333333333333
+    "backer": 0.3333333333333333,
+    "representer": 0.25
   },
   "dollar bill": {
+    "exchanger": 0.2,
     "maker": 0.3333333333333333
   },
+  "dollars": {
+    "expresser": 0.3333333333333333
+  },
+  "dolls": {
+    "maker entirely": 0.25
+  },
   "dolphins": {
-    "trainer": 1
+    "trainer": 1,
+    "fisher": 0.25
+  },
+  "domestic cattle": {
+    "descender": 0.3333333333333333
+  },
+  "domestic horses": {
+    "raiser": 0.3333333333333333
+  },
+  "domesticated animal": {
+    "keeper": 0.3333333333333333
+  },
+  "donations": {
+    "donater": 1
+  },
+  "doo": {
+    "locker": 1
   },
   "door": {
     "closer": 1,
+    "finder": 0.3333333333333333,
     "locker": 1
   },
+  "doormat": {
+    "finder": 0.3333333333333333
+  },
+  "doormats": {
+    "writer": 0.5
+  },
+  "doors": {
+    "meaner": 0.3333333333333333
+  },
+  "double spacing": {
+    "meaner": 0.3333333333333333
+  },
+  "dough": {
+    "maker": 0.25
+  },
+  "drawer": {
+    "container": 0.2
+  },
+  "drawers": {
+    "puller outwards": 0.25
+  },
+  "dreaming": {
+    "sleeper": 0.3333333333333333
+  },
+  "dressings": {
+    "putter on": 0.3333333333333333
+  },
   "drugs": {
+    "buyer": 0.3333333333333333,
     "producer": 0.3333333333333333,
     "prohibiter": 1,
     "smoker": 1
   },
+  "drum": {
+    "player": 0.2
+  },
+  "dry food": {
+    "storer": 0.3333333333333333
+  },
   "drywall": {
-    "repairer": 0.3333333333333333
+    "repairer": 0.3333333333333333,
+    "user": 0.25
   },
   "duck": {
+    "cooker": 1,
     "eater": 1
+  },
+  "duffel bag": {
+    "user": 0.3333333333333333
+  },
+  "duffel bags": {
+    "locker": 1
+  },
+  "dust mites": {
+    "reducer": 0.2
+  },
+  "duvet": {
+    "user": 0.3333333333333333
+  },
+  "dvd": {
+    "player": 0.25
+  },
+  "ear": {
+    "earrer": 0.25
+  },
+  "ears": {
+    "attacher": 0.3333333333333333
+  },
+  "earth's surface": {
+    "coverer": 0.25
   },
   "earth": {
     "coverer mostly": 0.25,
     "coverer": 0.25,
     "divider": 0.2,
     "holder": 0.2,
-    "maker up": 0.2
+    "maker up": 0.2,
+    "surrounder": 0.2
+  },
+  "earthquakes": {
+    "causer": 0.25
+  },
+  "eating": {
+    "performer": 0.3333333333333333
+  },
+  "eating babies": {
+    "considerer": 0.25
+  },
+  "echinacea": {
+    "extracter": 0.25
+  },
+  "editorials": {
+    "writer": 0.25
   },
   "education": {
-    "carrier": 0.2
+    "carrier": 0.2,
+    "obtainer": 0.2
+  },
+  "educational prgrams": {
+    "sponsorer": 0.3333333333333333
+  },
+  "effort": {
+    "maker": 0.2
+  },
+  "egg": {
+    "layer": 0.3333333333333333
   },
   "eggs": {
     "buyer": 0.3333333333333333,
     "cooker": 0.3333333333333333,
     "eater": 1,
+    "painter": 0.2,
     "scrambler": 1,
     "seller": 0.3333333333333333,
     "user": 0.3333333333333333
   },
+  "egomaniac boss": {
+    "surrounder": 0.3333333333333333
+  },
+  "egyptian food": {
+    "server": 0.3333333333333333
+  },
+  "eiffel tower": {
+    "locater": 0.25
+  },
+  "eightball": {
+    "user": 0.3333333333333333
+  },
+  "electric batteries": {
+    "recharger": 1
+  },
+  "electric plug": {
+    "plugger": 0.3333333333333333
+  },
+  "electric power": {
+    "maker": 0.3333333333333333
+  },
+  "electrical energy": {
+    "converter": 0.25
+  },
+  "electrical machinery": {
+    "turner off": 0.5
+  },
+  "electrical power": {
+    "lightener": 0.3333333333333333
+  },
+  "electricity": {
+    "turner on": 0.25
+  },
+  "electrocardiograph": {
+    "user": 0.3333333333333333
+  },
+  "electromagetic radiation": {
+    "propagater": 0.2
+  },
   "electrons": {
-    "affecter": 0.25
+    "affecter": 0.25,
+    "deflecter": 0.25
+  },
+  "ellis island": {
+    "locater": 0.2
+  },
+  "elmer's glue": {
+    "user": 0.25
+  },
+  "ely ammunition": {
+    "maker": 0.3333333333333333
+  },
+  "emacs": {
+    "closer": 1
+  },
+  "emotional drives": {
+    "driver": 0.3333333333333333
+  },
+  "empathy": {
+    "learner": 1
+  },
+  "empty bottle": {
+    "recycler": 1
+  },
+  "endangered species": {
+    "protecter": 0.2
+  },
+  "enemy": {
+    "seener": 1
   },
   "energy": {
+    "gainer quickly": 0.2,
     "needer": 0.25
   },
+  "engine": {
+    "replacer": 1
+  },
+  "engineering profession": {
+    "considerer": 0.3333333333333333
+  },
+  "english": {
+    "speaker": 1
+  },
+  "envelopes": {
+    "mailler": 0.3333333333333333
+  },
+  "environmentalists": {
+    "concerner": 0.25
+  },
+  "epees": {
+    "user": 0.2
+  },
+  "epilepsy": {
+    "treater": 0.3333333333333333
+  },
+  "erect penis": {
+    "needer": 0.3333333333333333
+  },
+  "ergonomic chair": {
+    "adjuster": 0.2
+  },
+  "esoteric things": {
+    "hider": 1
+  },
+  "esperanto": {
+    "speaker": 0.25
+  },
+  "europe": {
+    "sticker": 0.3333333333333333
+  },
+  "everyone now days": {
+    "encourager": 0.2
+  },
   "everything": {
+    "breaker up": 0.2,
     "learner": 1,
     "maker out": 0.25,
     "maker up": 0.2
   },
+  "everything happens": {
+    "interconnecter": 1
+  },
+  "evidence": {
+    "requirer": 0.2
+  },
+  "evrything": {
+    "maker up": 0.25
+  },
+  "examples": {
+    "givener": 0.25
+  },
+  "exams": {
+    "givener": 0.3333333333333333
+  },
+  "excellence": {
+    "treasurer": 1
+  },
+  "exercise": {
+    "overrater": 1
+  },
+  "existentialist intelligence": {
+    "concerner": 0.2
+  },
   "expenses": {
+    "measurer": 0.3333333333333333,
     "payer": 0.3333333333333333
   },
+  "expert knowledge": {
+    "writer": 1
+  },
+  "explosive": {
+    "user": 0.3333333333333333
+  },
+  "extreme temperatures": {
+    "finder": 0.25
+  },
+  "eyeball": {
+    "coverer": 0.3333333333333333
+  },
+  "eyeglasses": {
+    "improver": 0.25
+  },
+  "eyes": {
+    "locater": 0.3333333333333333
+  },
   "fabric": {
+    "maker up": 0.25,
     "seller": 0.3333333333333333
   },
   "face": {
+    "definer": 0.25,
     "toucher": 1
   },
+  "fact": {
+    "considerer": 0.3333333333333333
+  },
+  "fact cats purr": {
+    "illustrater": 0.25
+  },
+  "fact electricity powers computers": {
+    "illustrater": 0.25
+  },
+  "facts": {
+    "baser": 0.3333333333333333
+  },
+  "faithless": {
+    "ruiner": 0.3333333333333333
+  },
+  "falling": {
+    "causer": 0.25
+  },
+  "family": {
+    "maker up": 0.2
+  },
+  "family portraits": {
+    "taker": 0.3333333333333333
+  },
+  "fan": {
+    "user": 0.3333333333333333
+  },
+  "fancy food": {
+    "buyer": 0.25
+  },
+  "farmlands": {
+    "worker": 0.3333333333333333
+  },
+  "fascia": {
+    "finder": 0.3333333333333333
+  },
+  "fatty acids": {
+    "deriver": 0.3333333333333333
+  },
+  "faux tortise shell": {
+    "user": 0.25
+  },
+  "feathers": {
+    "finder": 0.3333333333333333
+  },
+  "feature films": {
+    "seener": 0.3333333333333333
+  },
+  "federal reserve": {
+    "knower": 0.3333333333333333
+  },
+  "fee": {
+    "charger": 0.25
+  },
+  "feelings": {
+    "expresser": 0.3333333333333333
+  },
+  "feet": {
+    "requirer": 0.25
+  },
+  "ferrous metals": {
+    "attracter": 0.3333333333333333
+  },
+  "fettucini": {
+    "server": 0.3333333333333333
+  },
   "fibers": {
+    "finder": 0.25,
     "spinner": 0.3333333333333333
   },
+  "fiddlehead ferns": {
+    "user": 0.3333333333333333
+  },
+  "files": {
+    "printer": 0.25
+  },
+  "film": {
+    "storer": 0.3333333333333333
+  },
+  "film developing chemicals": {
+    "overuser": 1
+  },
   "films": {
-    "projecter": 0.3333333333333333
+    "projecter": 0.3333333333333333,
+    "shooter": 0.2
+  },
+  "financial news": {
+    "obtainer": 0.3333333333333333
+  },
+  "find outside": {
+    "finder": 1
+  },
+  "finger bones": {
+    "coverer": 0.3333333333333333
+  },
+  "fingernail": {
+    "user": 0.3333333333333333
   },
   "fingernails": {
+    "locater": 0.3333333333333333,
     "painter": 1
   },
+  "fingerprint files": {
+    "keeper": 0.3333333333333333
+  },
   "fingers": {
-    "attacher": 0.3333333333333333
+    "attacher": 0.3333333333333333,
+    "coverer": 0.3333333333333333
+  },
+  "fiocchi ammunition": {
+    "maker": 0.3333333333333333
+  },
+  "fire": {
+    "needer": 0.2
+  },
+  "fire ants": {
+    "considerer": 0.5
+  },
+  "fire hydrant": {
+    "user": 0.25
+  },
+  "fire trucks": {
+    "driver": 0.3333333333333333
+  },
+  "firearms": {
+    "user": 0.25
+  },
+  "firefly": {
+    "catcher": 1
+  },
+  "firehose": {
+    "user": 0.2
   },
   "fires": {
     "driver": 0.3333333333333333,
+    "putter out": 0.25,
     "starter accidently": 0.5
   },
   "fireworks": {
-    "banner": 0.3333333333333333
+    "banner": 0.3333333333333333,
+    "user": 0.3333333333333333
   },
   "fish": {
+    "catcher": 0.3333333333333333,
     "catcher on": 0.3333333333333333,
     "cooker": 0.3333333333333333,
     "eater": 1,
     "finder": 0.5,
     "marinater": 1
   },
+  "fish hook": {
+    "attacher": 0.25
+  },
+  "fish sauce": {
+    "user": 0.25
+  },
+  "fishing": {
+    "streamer": 0.3333333333333333
+  },
+  "fishing lures": {
+    "tier": 0.2
+  },
+  "fitting room": {
+    "supposer": 0.3333333333333333
+  },
+  "fizzy drinks": {
+    "storer": 0.3333333333333333
+  },
+  "flag": {
+    "finder": 0.3333333333333333
+  },
+  "flags": {
+    "hanger": 0.25
+  },
+  "flight attendants": {
+    "concerner": 0.25
+  },
+  "flight bag": {
+    "packer": 0.3333333333333333
+  },
   "floor": {
+    "coverer": 0.3333333333333333,
     "lier down": 0.5
   },
   "floors": {
-    "carpeter": 1
+    "carpeter": 1,
+    "coverer": 0.3333333333333333
+  },
+  "flossing": {
+    "recommender": 1
   },
   "flower": {
+    "describer": 0.25,
     "picker": 1
   },
   "flowers": {
@@ -532,7 +2477,14 @@
     "grower": 0.5,
     "judger": 1,
     "gardener": 0.3333333333333333,
-    "receiver": 0.3333333333333333
+    "receiver": 0.3333333333333333,
+    "seller": 0.25
+  },
+  "foils": {
+    "user": 0.2
+  },
+  "folding shower door": {
+    "maker up": 0.25
   },
   "food": {
     "buyer": 0.25,
@@ -542,59 +2494,206 @@
     "maker": 0.2,
     "passer": 0.2,
     "server": 0.25,
+    "plater": 0.2,
     "purchaser": 0.25,
     "seller": 0.25,
     "storer": 0.3333333333333333
   },
+  "food colourings": {
+    "maker": 0.25
+  },
+  "food recipes": {
+    "recorder": 0.25
+  },
   "foods": {
+    "cooker": 0.25,
     "eater": 1,
     "maker": 0.3333333333333333,
     "server": 0.3333333333333333
   },
+  "fools": {
+    "laugher": 0.5
+  },
+  "foot": {
+    "user": 0.3333333333333333
+  },
+  "football": {
+    "player": 0.2
+  },
+  "football game": {
+    "player somewhere": 0.5
+  },
+  "footstools": {
+    "user": 0.25
+  },
+  "ford": {
+    "considerer": 0.25
+  },
+  "forest": {
+    "maker up": 0.2
+  },
+  "formal attire": {
+    "requirer": 0.25
+  },
+  "formal outfit": {
+    "requirer": 0.25
+  },
+  "fort langley": {
+    "locater": 0.25
+  },
+  "fortune cookies": {
+    "server": 0.3333333333333333
+  },
+  "fountain": {
+    "considerer": 0.5
+  },
+  "fountain pen": {
+    "filler": 0.3333333333333333
+  },
+  "four leaf clovers": {
+    "considerer": 0.25
+  },
+  "freezer often": {
+    "locater": 0.3333333333333333
+  },
+  "french food": {
+    "server": 0.25
+  },
+  "french fries": {
+    "maker": 0.3333333333333333
+  },
+  "french horn": {
+    "blower": 0.2
+  },
+  "fresh fish": {
+    "buyer": 0.25
+  },
+  "fresh vegetables": {
+    "creater": 0.2
+  },
+  "freshly ground coffee": {
+    "maker": 0.25
+  },
+  "fried rice": {
+    "cooker": 0.3333333333333333
+  },
+  "friends": {
+    "considerer": 0.3333333333333333
+  },
+  "frivolous complaint": {
+    "dismisser": 1
+  },
+  "frog": {
+    "eater": 1
+  },
   "frogs": {
     "eater": 0.3333333333333333,
+    "mover": 0.25,
     "user": 0.25
   },
   "fruit": {
     "considerer": 0.3333333333333333,
-    "eater": 1
+    "eater": 1,
+    "maker": 0.3333333333333333
   },
   "fruit juice": {
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "server": 0.3333333333333333
+  },
+  "fruit tea": {
+    "maker": 0.2
+  },
+  "fuel": {
+    "needer": 0.3333333333333333
+  },
+  "fundamentalism": {
+    "loader": 0.25
+  },
+  "funny events": {
+    "seener": 1
   },
   "furniture": {
     "buyer": 0.3333333333333333,
     "designer": 0.3333333333333333,
+    "maker out": 0.25,
     "putter": 0.3333333333333333,
     "setter": 0.3333333333333333
   },
+  "game": {
+    "player": 0.3333333333333333
+  },
+  "game baseball": {
+    "player": 0.25
+  },
   "games": {
     "divider": 0.3333333333333333,
+    "player": 0.2,
     "player alone": 0.5,
     "watcher": 0.3333333333333333
+  },
+  "gaoline": {
+    "maker": 0.25
   },
   "garbage": {
     "collector": 0.3333333333333333,
     "deliverer": 0.3333333333333333,
     "dumper": 0.3333333333333333,
     "generator": 0.3333333333333333,
+    "putter": 0.2,
     "recycler": 1,
     "setter out": 0.2,
     "storer": 0.3333333333333333
   },
+  "garlic": {
+    "user": 0.2
+  },
   "gas": {
+    "converter": 0.2,
     "user": 0.3333333333333333
   },
   "gasoline": {
     "deriver": 0.25,
-    "maker": 0.25
+    "maker": 0.25,
+    "purchaser": 0.25
+  },
+  "gate": {
+    "locker": 1
+  },
+  "gaze": {
+    "user": 0.2
+  },
+  "general ledger": {
+    "coverer": 0.3333333333333333
+  },
+  "generic drug": {
+    "approver": 0.3333333333333333
+  },
+  "genuine chocolate products": {
+    "deriver": 0.25
+  },
+  "germany": {
+    "knower": 0.2
+  },
+  "gift": {
+    "givener": 0.25
   },
   "gifts": {
+    "buyer": 0.25,
     "givener on": 0.3333333333333333
+  },
+  "giraffe's hoofs": {
+    "spliter": 0.25
+  },
+  "giraffe": {
+    "finder": 0.3333333333333333
+  },
+  "giraffe horns": {
+    "coverer": 0.3333333333333333
   },
   "glass": {
     "blower": 0.3333333333333333,
     "coater": 1,
+    "maker": 0.2,
     "melter": 1,
     "recycler": 1,
     "roller": 0.3333333333333333,
@@ -602,74 +2701,330 @@
     "shatterer": 1,
     "temperer": 1
   },
+  "glass case": {
+    "meaner": 0.25
+  },
   "glasses": {
-    "filler": 0.3333333333333333
+    "filler": 0.3333333333333333,
+    "visioner for good": 0.25
+  },
+  "globular star clusters": {
+    "seener": 0.3333333333333333
+  },
+  "glucose": {
+    "deriver": 0.3333333333333333
+  },
+  "glue": {
+    "maker": 0.2
   },
   "glue stick": {
+    "holder": 0.25,
     "user": 0.25
   },
+  "glycerol": {
+    "deriver": 0.3333333333333333
+  },
+  "goat": {
+    "finder": 0.3333333333333333
+  },
+  "goat cheese": {
+    "user": 0.3333333333333333
+  },
+  "god": {
+    "baser": 0.3333333333333333
+  },
   "gold": {
-    "melter": 1
+    "melter": 1,
+    "pounder": 0.25
+  },
+  "golf": {
+    "player": 0.5
+  },
+  "golf clubs": {
+    "carrier": 0.3333333333333333
+  },
+  "gong": {
+    "banger": 1
+  },
+  "good parenting skills": {
+    "learner": 1
   },
   "goods": {
     "manufacturer": 0.5,
+    "payer": 0.2,
     "recycler": 1,
     "seller": 0.25,
     "storer": 0.25
   },
+  "gorceries": {
+    "needer": 0.3333333333333333
+  },
+  "gouldian finch": {
+    "endangerer": 1
+  },
+  "goverment business": {
+    "carrier on": 0.2
+  },
+  "governments": {
+    "charger": 0.2
+  },
+  "grain": {
+    "finder": 0.3333333333333333
+  },
   "granite": {
     "etcher": 1,
-    "flamer": 1
+    "flamer": 1,
+    "user": 0.25
+  },
+  "grant": {
+    "burier": 0.25
   },
   "grapes": {
     "finder": 0.3333333333333333,
+    "maker": 0.3333333333333333,
+    "presser": 0.2
+  },
+  "graphics": {
+    "generator": 0.3333333333333333
+  },
+  "grass": {
+    "collector": 0.3333333333333333
+  },
+  "grass clippings": {
+    "putter": 0.25
+  },
+  "graven images": {
+    "sculpturer": 1
+  },
+  "graveyards": {
+    "manager": 0.25
+  },
+  "gravitational attraction": {
+    "thinker": 0.25
+  },
+  "gravity": {
+    "feeler": 0.3333333333333333
+  },
+  "gravy": {
+    "putter on": 0.25
+  },
+  "greenhouses": {
+    "maker mostly": 0.25
+  },
+  "grilled pancakes": {
+    "eater": 0.3333333333333333
+  },
+  "grocer shop": {
+    "knower": 0.25
+  },
+  "groceries": {
+    "purchaser": 0.25
+  },
+  "grow": {
+    "structurer": 1
+  },
+  "grow groups": {
+    "runner": 0.3333333333333333
+  },
+  "grow lamps": {
+    "designer": 0.2
+  },
+  "guacamole": {
     "maker": 0.3333333333333333
+  },
+  "guilty sentence": {
+    "hander down": 0.5
+  },
+  "guitars": {
+    "player": 0.25
+  },
+  "gun": {
+    "user": 0.3333333333333333
   },
   "guns": {
     "firer": 0.3333333333333333,
     "firer safely": 0.25,
-    "holder": 0.3333333333333333
+    "holder": 0.3333333333333333,
+    "user": 0.2
   },
   "hair": {
     "braider": 1,
     "burner": 1,
     "cutter": 0.5,
+    "finder": 0.25,
     "styler": 1,
     "weaver": 1
   },
+  "hair dryers": {
+    "user": 0.3333333333333333
+  },
+  "hair shaping gel": {
+    "purchaser": 0.3333333333333333
+  },
+  "hairbrush": {
+    "user": 0.5
+  },
+  "hake": {
+    "user primarily": 0.25
+  },
   "hamburger": {
-    "buyer": 0.25
+    "buyer": 0.25,
+    "maker": 0.25
   },
   "hamburgers": {
     "cooker": 0.3333333333333333,
-    "maker": 0.2
+    "maker": 0.2,
+    "seller": 0.2
+  },
+  "hand gun": {
+    "firer": 0.25
+  },
+  "hand luggage": {
+    "storer": 0.25
+  },
+  "handguns": {
+    "issuer": 0.3333333333333333
+  },
+  "happiness": {
+    "causer": 0.25
+  },
+  "harness": {
+    "finder": 0.3333333333333333
+  },
+  "harvard university": {
+    "locater": 0.25
+  },
+  "hashish": {
+    "maker": 0.3333333333333333
+  },
+  "hat": {
+    "header": 0.3333333333333333
   },
   "hay": {
-    "storer": 0.3333333333333333
+    "storer": 0.3333333333333333,
+    "user": 0.25
+  },
+  "head": {
+    "attacher": 0.3333333333333333
   },
   "health": {
+    "acquirer": 0.2,
     "eater": 0.2
+  },
+  "heart disease": {
+    "causer": 0.3333333333333333
   },
   "heat": {
     "generator": 0.3333333333333333,
-    "measurer": 0.3333333333333333
+    "measurer": 0.3333333333333333,
+    "producer": 0.2
+  },
+  "heater": {
+    "user": 0.3333333333333333
+  },
+  "heavy camera": {
+    "pusher": 0.2
+  },
+  "heifer": {
+    "finder": 0.3333333333333333
+  },
+  "helicopters blades": {
+    "attacher": 0.2
   },
   "helium": {
-    "caller": 0.3333333333333333
+    "caller": 0.3333333333333333,
+    "extracter": 0.25
+  },
+  "helium gas": {
+    "former": 0.2
+  },
+  "herbs": {
+    "user": 0.3333333333333333
+  },
+  "hercilio luz brige": {
+    "locater": 0.3333333333333333
   },
   "hide bed": {
+    "finder": 0.3333333333333333,
     "storer": 0.3333333333333333
   },
+  "high rise buildings": {
+    "builder": 0.25
+  },
+  "high rises": {
+    "builder": 0.3333333333333333
+  },
+  "high strength hydrogen peroxide": {
+    "user": 0.25
+  },
+  "higher education": {
+    "obtainer": 0.3333333333333333
+  },
+  "hiking": {
+    "considerer": 0.5
+  },
+  "hill": {
+    "user": 0.5
+  },
+  "hippocrates": {
+    "knower": 0.2
+  },
+  "history": {
+    "writer": 0.2
+  },
+  "hives": {
+    "causer": 0.3333333333333333
+  },
+  "hobart": {
+    "surrounder": 0.25
+  },
+  "hockey": {
+    "player": 0.2
+  },
   "hockey puck": {
-    "maker out": 0.25
+    "maker out": 0.25,
+    "user": 0.2
+  },
+  "hocky pucks": {
+    "user": 0.3333333333333333
+  },
+  "hodge star operator": {
+    "user": 0.3333333333333333
+  },
+  "hoe": {
+    "user": 0.3333333333333333
+  },
+  "holand": {
+    "knower": 0.25
+  },
+  "hole": {
+    "filler": 0.3333333333333333
+  },
+  "holidays": {
+    "baser": 0.25
+  },
+  "home": {
+    "returner": 0.5
+  },
+  "home owners": {
+    "concerner": 0.25
   },
   "homes": {
-    "connecter": 0.3333333333333333
+    "connecter": 0.3333333333333333,
+    "threatener": 0.3333333333333333
   },
   "honey": {
+    "maker": 0.2,
     "producer": 0.25
   },
+  "hope diamond": {
+    "considerer": 0.3333333333333333
+  },
+  "hope picture": {
+    "ender": 0.5
+  },
   "horse": {
+    "finder": 0.3333333333333333,
     "rider": 1
   },
   "horses": {
@@ -677,35 +3032,178 @@
     "putter": 0.2,
     "raiser": 0.3333333333333333,
     "relater": 0.3333333333333333,
-    "teacher": 0.2
+    "teacher": 0.2,
+    "trainer": 0.2
+  },
+  "horses bodies": {
+    "coverer": 0.3333333333333333
+  },
+  "hose": {
+    "deflater": 1
+  },
+  "hot coffee": {
+    "storer": 0.3333333333333333
+  },
+  "hot curries": {
+    "server": 0.25
+  },
+  "hot dog buns": {
+    "maker": 0.3333333333333333
   },
   "hot dogs": {
-    "maker": 0.25
+    "maker": 0.25,
+    "seller": 0.25
+  },
+  "hot tap": {
+    "designater": 0.25
+  },
+  "hour": {
+    "maker up": 0.2
+  },
+  "hourglass": {
+    "user": 0.3333333333333333
   },
   "house": {
     "builder": 0.3333333333333333,
+    "divider": 0.25,
     "locater": 0.3333333333333333
   },
+  "house cats": {
+    "trainer": 0.25
+  },
+  "house interiors": {
+    "clutterer easily": 0.5
+  },
+  "house plants": {
+    "putter": 0.25
+  },
   "houses": {
+    "builder": 0.2,
     "constructer": 0.3333333333333333,
     "maker out": 0.25,
     "maker up": 0.25
   },
+  "human's physical condition": {
+    "improver": 0.3333333333333333
+  },
+  "human blockade": {
+    "maker up": 0.2
+  },
   "human body": {
+    "builder": 0.2,
     "coverer": 0.3333333333333333
   },
+  "human cells": {
+    "constructer": 0.3333333333333333
+  },
+  "human ears normally": {
+    "exposer": 0.3333333333333333
+  },
+  "human embryo's face": {
+    "former": 0.2
+  },
+  "human hair": {
+    "braider": 1
+  },
+  "human perspective": {
+    "alterer": 0.3333333333333333
+  },
+  "human skeleton": {
+    "maker up": 0.25
+  },
+  "human tooth": {
+    "maker": 0.25
+  },
+  "human voice": {
+    "producer": 0.2
+  },
+  "human waste": {
+    "releaser": 0.3333333333333333
+  },
   "humans": {
+    "believer": 0.25,
     "borner": 1,
     "teacher": 0.3333333333333333
+  },
+  "hummingbirds": {
+    "attracter": 0.2
+  },
+  "hurricans": {
+    "borner": 0.3333333333333333
+  },
+  "hydrocarbons": {
+    "user": 0.2
+  },
+  "hydrogen peroxide": {
+    "seller": 0.25
+  },
+  "hyperactive children": {
+    "givener": 0.3333333333333333
+  },
+  "hyperbole": {
+    "user": 0.2
   },
   "ice": {
     "former": 0.3333333333333333,
     "finder": 0.3333333333333333,
     "melter": 1,
+    "putter": 0.2,
     "sculpturer": 1
   },
+  "ice cream": {
+    "treater": 0.5
+  },
+  "icecubes": {
+    "creater": 0.25
+  },
+  "icrc": {
+    "binder": 0.3333333333333333
+  },
   "ideas": {
-    "creater": 0.3333333333333333
+    "creater": 0.3333333333333333,
+    "writer": 0.25
+  },
+  "ignorance": {
+    "causer": 0.2
+  },
+  "illness": {
+    "curer": 1
+  },
+  "illustrations": {
+    "user": 1
+  },
+  "imitation diamonds": {
+    "maker": 0.25
+  },
+  "implication": {
+    "user frequently": 0.25
+  },
+  "important events": {
+    "shower on": 0.3333333333333333
+  },
+  "impossible figures": {
+    "animater": 1
+  },
+  "income": {
+    "expresser": 0.3333333333333333
+  },
+  "incomes": {
+    "taxer": 1
+  },
+  "index cards": {
+    "storer": 0.25
+  },
+  "india": {
+    "involver": 0.2
+  },
+  "indoor object": {
+    "protecter": 0.3333333333333333
+  },
+  "indy 500": {
+    "locater": 0.25
+  },
+  "infection": {
+    "causer": 0.2
   },
   "information": {
     "valuer": 0.5,
@@ -713,152 +3211,856 @@
     "gainer": 0.3333333333333333,
     "gatherer": 0.25,
     "maker up": 0.25,
+    "obtainer": 0.25,
     "storer": 0.25,
     "writer": 0.3333333333333333
   },
+  "injuries": {
+    "treater": 0.3333333333333333
+  },
+  "injury": {
+    "imaginer": 1
+  },
+  "ink": {
+    "user": 0.3333333333333333
+  },
+  "insect invasions": {
+    "relater": 0.3333333333333333
+  },
+  "instructions": {
+    "reader": 0.3333333333333333
+  },
+  "instrument": {
+    "player": 1
+  },
   "instrument triangle": {
-    "maker out": 0.25
+    "maker out": 0.25,
+    "player": 0.2
   },
   "insulin": {
+    "givener": 0.3333333333333333,
     "producer": 0.3333333333333333
+  },
+  "insurance": {
+    "definer": 0.3333333333333333
+  },
+  "interest rates": {
+    "user": 0.3333333333333333
+  },
+  "interesting thoughts": {
+    "poster": 0.5
+  },
+  "internet": {
+    "finder": 0.3333333333333333
+  },
+  "invitations": {
+    "sender": 0.25
+  },
+  "iodine": {
+    "user": 0.3333333333333333
   },
   "iron": {
     "attracter": 0.3333333333333333,
     "converter": 0.3333333333333333,
     "former": 1,
     "magnetizer": 1,
-    "melter": 1
+    "melter": 1,
+    "plugger": 0.25
+  },
+  "irreversible monoamine oxidase inhibitors": {
+    "knower": 0.3333333333333333
+  },
+  "is": {
+    "maker out": 0.25
+  },
+  "island": {
+    "surrounder": 0.3333333333333333
   },
   "islands": {
     "locater": 0.25,
+    "maker up": 0.2,
     "surrounder": 0.3333333333333333
+  },
+  "isle": {
+    "surrounder": 0.3333333333333333
+  },
+  "italian language": {
+    "deriver directly": 0.2
   },
   "items": {
     "buyer": 0.3333333333333333,
+    "payer": 0.2,
     "purchaser": 0.3333333333333333,
     "storer": 0.3333333333333333
   },
+  "items bought": {
+    "seller": 1
+  },
+  "items sold": {
+    "buyer": 1
+  },
+  "iter": {
+    "designer": 0.3333333333333333
+  },
+  "jams": {
+    "maker": 0.3333333333333333
+  },
+  "japanese culture": {
+    "builder": 0.2
+  },
+  "jazz music": {
+    "player": 0.3333333333333333
+  },
+  "jellies": {
+    "maker": 0.3333333333333333
+  },
   "jelly": {
+    "childrener": 0.3333333333333333,
     "maker": 0.3333333333333333,
     "storer": 0.3333333333333333
   },
+  "jellyfish": {
+    "finder": 0.3333333333333333
+  },
+  "jesus": {
+    "knower": 0.2
+  },
   "jewelry": {
+    "meaner": 0.3333333333333333,
     "purchaser": 0.3333333333333333
   },
+  "jogurth": {
+    "maker": 0.3333333333333333
+  },
+  "john hancock building": {
+    "locater": 0.25
+  },
   "joint": {
-    "roller": 1
+    "roller": 1,
+    "smoker": 1
   },
   "jokes": {
+    "intender": 0.3333333333333333,
+    "supposer": 0.3333333333333333
+  },
+  "judge": {
     "supposer": 0.3333333333333333
   },
   "judgement": {
+    "baser": 0.3333333333333333,
     "suspender": 1
   },
   "juice": {
     "extracter": 0.3333333333333333,
-    "maker": 0.2
+    "maker": 0.2,
+    "presser": 0.2
   },
   "jupiter": {
+    "believer": 0.2,
     "surrounder": 0.25
   },
   "jury": {
     "asker": 0.2,
+    "maker up": 0.2,
     "selecter": 0.2
+  },
+  "jurys": {
+    "maker up": 0.25
+  },
+  "justice": {
+    "server": 0.2
+  },
+  "ketchup": {
+    "eater": 0.25
+  },
+  "kettle": {
+    "buyer": 0.3333333333333333
+  },
+  "kevin costner": {
+    "seener": 0.3333333333333333
   },
   "key": {
     "locker": 0.3333333333333333,
+    "needer": 0.25,
     "requirer": 0.25
   },
+  "kids": {
+    "teacher": 0.3333333333333333
+  },
+  "killer": {
+    "convicter": 0.3333333333333333
+  },
+  "kilocalorie": {
+    "namer": 0.3333333333333333
+  },
+  "kingdom": {
+    "ruller": 0.3333333333333333
+  },
+  "kinkgdom": {
+    "ruller": 0.3333333333333333
+  },
+  "kitchen": {
+    "builder": 0.3333333333333333
+  },
   "kite": {
+    "controller": 0.2,
     "flier": 0.3333333333333333
   },
+  "klu klux klan": {
+    "knower": 0.3333333333333333
+  },
+  "knife": {
+    "user": 0.3333333333333333
+  },
+  "knight": {
+    "addresser": 0.3333333333333333
+  },
+  "knitting": {
+    "considerer": 0.5
+  },
+  "knives": {
+    "user": 0.5
+  },
+  "knob": {
+    "finder": 0.3333333333333333
+  },
   "knowledge": {
+    "converter": 0.3333333333333333,
     "gainer": 0.3333333333333333
   },
+  "korea": {
+    "locater entirely": 0.25
+  },
+  "kosher dlicatessen": {
+    "manager": 0.3333333333333333
+  },
+  "label describes": {
+    "attacher": 0.5
+  },
+  "labyrinth": {
+    "convoluter": 1
+  },
+  "lacebug": {
+    "finder": 0.2
+  },
   "ladder": {
+    "reacher": 0.2,
     "storer": 0.3333333333333333
   },
   "lake": {
-    "coverer": 0.3333333333333333
+    "coverer": 0.3333333333333333,
+    "maker up": 0.25
+  },
+  "lakes": {
+    "maker up": 0.25
+  },
+  "lamb": {
+    "slaughterer": 0.25
+  },
+  "lambs": {
+    "eater": 1
+  },
+  "landing": {
+    "locater": 0.2
+  },
+  "landmark": {
+    "finder": 0.3333333333333333
   },
   "language": {
+    "expresser": 0.25,
     "filler": 0.25,
     "user": 0.3333333333333333
   },
+  "lantern": {
+    "user": 0.5
+  },
+  "lapland": {
+    "spreader": 0.2
+  },
+  "large beanbag": {
+    "user": 0.3333333333333333
+  },
+  "large items": {
+    "recycler": 0.25
+  },
+  "las vegas": {
+    "surrounder": 0.3333333333333333
+  },
+  "lasagna": {
+    "eater": 1
+  },
+  "lasers": {
+    "user": 0.2
+  },
+  "latitude": {
+    "measurer": 0.3333333333333333
+  },
+  "laughing teeth": {
+    "purchaser": 0.25
+  },
+  "launch pad": {
+    "user": 0.25
+  },
   "laws": {
+    "maker": 0.3333333333333333,
     "reader": 0.3333333333333333
   },
+  "lawyers": {
+    "payer": 0.2
+  },
+  "lcs monitors": {
+    "user": 0.3333333333333333
+  },
   "lead": {
-    "melter": 1
+    "melter": 1,
+    "user": 0.3333333333333333
+  },
+  "leaf": {
+    "user": 0.2
+  },
+  "league": {
+    "maker up": 0.2
+  },
+  "leather": {
+    "maker": 0.25
+  },
+  "leaves": {
+    "connecter": 0.3333333333333333
+  },
+  "leftovers": {
+    "user": 0.25
+  },
+  "leg": {
+    "coverer": 0.3333333333333333
+  },
+  "legal cases": {
+    "judger": 0.3333333333333333
+  },
+  "legal decisions": {
+    "maker": 0.3333333333333333
+  },
+  "lemon oil": {
+    "extracter": 0.25
+  },
+  "lemongrass oil": {
+    "extracter": 0.3333333333333333
+  },
+  "lemons": {
+    "user": 0.3333333333333333
+  },
+  "length": {
+    "measurer": 0.3333333333333333
+  },
+  "lens": {
+    "finder": 0.3333333333333333
+  },
+  "leo": {
+    "representer": 0.3333333333333333
   },
   "letter": {
-    "putter": 0.25
+    "putter": 0.25,
+    "sender": 0.25
+  },
+  "letter opener": {
+    "user": 0.3333333333333333
   },
   "letters": {
+    "carrier": 0.2,
     "sender": 0.3333333333333333,
     "writer": 0.3333333333333333
   },
+  "levitation": {
+    "demonstrater": 0.2
+  },
+  "liberty bell": {
+    "locater": 0.3333333333333333
+  },
+  "libra": {
+    "representer": 0.3333333333333333
+  },
+  "libraries": {
+    "filler": 0.3333333333333333
+  },
+  "license": {
+    "requirer": 0.25
+  },
+  "lichen": {
+    "seperater": 0.2
+  },
   "life": {
-    "creater": 1
+    "creater": 1,
+    "ender": 0.5
+  },
+  "life support": {
+    "intender": 0.2
+  },
+  "lifeboats": {
+    "finder": 0.25
   },
   "light": {
     "affecter": 0.3333333333333333,
+    "concentrater": 0.2,
     "waver": 0.3333333333333333,
     "maker up": 0.25,
     "reflecter": 0.3333333333333333,
     "requirer": 0.25,
     "user": 0.3333333333333333
   },
+  "light bulbs": {
+    "maker mostly": 0.25
+  },
+  "light cars": {
+    "targeter": 0.2
+  },
+  "light energy": {
+    "converter": 0.25
+  },
+  "lightning": {
+    "causer": 0.2
+  },
+  "lights": {
+    "turner": 0.3333333333333333
+  },
+  "lime oil": {
+    "extracter": 0.25
+  },
+  "limes": {
+    "user": 0.3333333333333333
+  },
+  "linen napkin": {
+    "user": 0.2
+  },
+  "linen": {
+    "maker": 0.3333333333333333
+  },
+  "linens": {
+    "user": 0.3333333333333333
+  },
+  "linoleum": {
+    "maker": 0.25
+  },
+  "linseed oil": {
+    "user": 0.25
+  },
+  "linus torvalds": {
+    "crediter": 0.2
+  },
+  "linux": {
+    "user": 0.3333333333333333
+  },
+  "lip": {
+    "finder": 0.2
+  },
+  "lips": {
+    "finder": 0.3333333333333333
+  },
+  "lipstick": {
+    "carrier": 0.3333333333333333
+  },
+  "liquid oxygen": {
+    "user": 0.25
+  },
+  "liquid waste including caesium 137": {
+    "storer": 0.2
+  },
   "liquids": {
+    "pourer": 1,
     "spiller": 1
   },
+  "liquor": {
+    "storer": 0.25
+  },
+  "list": {
+    "maker up": 0.25
+  },
+  "lists": {
+    "generator": 1
+  },
+  "literary prizes": {
+    "judger": 0.3333333333333333
+  },
+  "literature": {
+    "printer": 0.3333333333333333
+  },
+  "lives": {
+    "filler": 0.5
+  },
+  "living room": {
+    "sharer": 0.3333333333333333
+  },
+  "ll bean": {
+    "baser": 0.25
+  },
+  "loans": {
+    "obtainer": 0.3333333333333333
+  },
   "lobster": {
-    "boiler": 1
+    "boiler": 1,
+    "steamer": 1
+  },
+  "lockers": {
+    "numberer": 1
+  },
+  "lollipops": {
+    "designer": 0.3333333333333333
   },
   "long hair": {
+    "gatherer": 0.25,
     "brusher": 0.25
   },
+  "longitude": {
+    "measurer": 0.25
+  },
+  "losing virginity": {
+    "overrater": 1
+  },
   "lot": {
-    "considerer": 0.5
+    "considerer": 0.5,
+    "sharer": 0.3333333333333333
+  },
+  "love": {
+    "expresser": 0.3333333333333333
+  },
+  "lp records": {
+    "maker": 0.3333333333333333
+  },
+  "luck": {
+    "involver": 0.25
+  },
+  "lunch": {
+    "eater": 0.3333333333333333
+  },
+  "lunchbox": {
+    "carrier": 0.3333333333333333
+  },
+  "luxury": {
+    "earner": 1
+  },
+  "mac os x": {
+    "baser": 0.3333333333333333
+  },
+  "macaroni cheese": {
+    "maker": 0.3333333333333333
   },
   "machines": {
-    "builder": 1
+    "builder": 1,
+    "operator": 0.25
+  },
+  "mad cow disease": {
+    "causer": 0.3333333333333333
+  },
+  "magazine": {
+    "maker out": 0.25
   },
   "magazines": {
     "buyer": 0.3333333333333333,
     "distributor": 0.25,
+    "maker": 0.25,
     "printer": 0.3333333333333333,
     "reader": 0.3333333333333333,
     "writer": 0.3333333333333333
   },
+  "magic": {
+    "performer": 0.3333333333333333
+  },
+  "magician performances": {
+    "seener": 0.3333333333333333
+  },
+  "magnetic fields": {
+    "generator": 0.3333333333333333
+  },
   "mail": {
     "deliverer": 0.25,
     "finder": 0.5,
+    "passer": 0.25,
     "receiver": 0.3333333333333333
+  },
+  "mail bags": {
+    "maker out": 0.25
+  },
+  "mailbox": {
+    "finder": 0.3333333333333333
+  },
+  "main artery": {
+    "finder": 0.3333333333333333
+  },
+  "major illnesses": {
+    "causer": 0.3333333333333333
+  },
+  "makeup": {
+    "overuser": 1
+  },
+  "male cats": {
+    "neuterer": 1
+  },
+  "malaria": {
+    "carrier": 0.3333333333333333
+  },
+  "malignant tumors": {
+    "curer": 1
+  },
+  "mammal species": {
+    "endangerer": 1
+  },
+  "mammals": {
+    "coverer": 0.3333333333333333
+  },
+  "mandarin oil": {
+    "extracter": 0.25
+  },
+  "manhattan": {
+    "builder": 0.3333333333333333
+  },
+  "many accounts": {
+    "payer": 0.25
+  },
+  "many animals": {
+    "killer": 0.3333333333333333
+  },
+  "many beaches": {
+    "ruiner": 0.25
+  },
+  "many biographies": {
+    "distributor": 0.3333333333333333
+  },
+  "many birds": {
+    "recognizer": 0.3333333333333333
+  },
+  "many books": {
+    "writer": 0.25
+  },
+  "many bush friendly alternative plants": {
+    "grower instead": 0.2
+  },
+  "many business": {
+    "closer": 0.3333333333333333
+  },
+  "many camps": {
+    "locater": 0.25
+  },
+  "many cans": {
+    "maker": 0.3333333333333333
+  },
+  "many castles": {
+    "surrounder": 0.3333333333333333
+  },
+  "many clothes": {
+    "maker": 0.3333333333333333
+  },
+  "many companies": {
+    "seller": 0.25
+  },
+  "many contagious diseases": {
+    "spreader": 0.3333333333333333
+  },
+  "many containers": {
+    "coverer": 0.3333333333333333
+  },
+  "many corporations": {
+    "incorporater": 0.3333333333333333
+  },
+  "many countries": {
+    "borderer": 0.3333333333333333
+  },
+  "many criminal cases": {
+    "lister": 0.25
+  },
+  "many different languages": {
+    "speaker": 0.25
+  },
+  "many dishes": {
+    "server": 0.3333333333333333
+  },
+  "many drinking containers": {
+    "recycler": 1
+  },
+  "many driveways": {
+    "coverer": 0.3333333333333333
+  },
+  "many drugs": {
+    "seller": 0.3333333333333333
+  },
+  "many facilities": {
+    "maker": 0.3333333333333333
+  },
+  "many floors today": {
+    "maker out": 0.25
+  },
+  "many foods": {
+    "cooker": 0.3333333333333333
+  },
+  "many fruits": {
+    "eater": 0.3333333333333333
+  },
+  "many games": {
+    "player": 0.2
+  },
+  "many houses": {
+    "situater": 0.3333333333333333
+  },
+  "many items": {
+    "recycler": 1
+  },
+  "many languages": {
+    "speaker": 1
+  },
+  "many large cities": {
+    "situater": 0.3333333333333333
+  },
+  "many natural forms": {
+    "describer mathematically": 0.5
+  },
+  "many office buildings": {
+    "locater": 0.3333333333333333
+  },
+  "many old things": {
+    "storer": 0.3333333333333333
+  },
+  "many other things": {
+    "manufacturer": 1
+  },
+  "many pegs": {
+    "maker out": 0.25
   },
   "many people": {
     "catcher": 0.2,
+    "decorator": 0.2,
     "tickler": 1
   },
+  "many plants": {
+    "cultivater": 0.2
+  },
+  "many precious stones": {
+    "user": 0.3333333333333333
+  },
+  "many presidents": {
+    "voter": 0.25
+  },
+  "many roadways": {
+    "paver": 1
+  },
+  "many root vegetables": {
+    "processer": 0.25
+  },
+  "many shows": {
+    "showner": 0.3333333333333333
+  },
+  "many small pets": {
+    "keeper": 0.3333333333333333
+  },
+  "many sounds": {
+    "maker": 0.2
+  },
+  "many structures": {
+    "measurer": 0.25
+  },
   "many things": {
-    "maker": 0.25
+    "maker": 0.25,
+    "relater": 0.25
+  },
+  "many tires": {
+    "filler": 0.3333333333333333
+  },
+  "many topics": {
+    "teacher": 0.3333333333333333
+  },
+  "many vacations": {
+    "taker": 0.3333333333333333
+  },
+  "many washing machines": {
+    "loader": 0.25
+  },
+  "many web pages": {
+    "writer": 0.3333333333333333
+  },
+  "many whales together": {
+    "knower": 0.3333333333333333
+  },
+  "many wild animals": {
+    "endangerer": 0.25
+  },
+  "map": {
+    "reader": 1
   },
   "maps": {
-    "drawer": 0.3333333333333333
+    "drawer": 0.3333333333333333,
+    "user": 0.25
+  },
+  "marble": {
+    "etcher": 1
+  },
+  "margarines": {
+    "deliverer": 0.3333333333333333
+  },
+  "marijuana": {
+    "smoker": 1
+  },
+  "marionettes": {
+    "manipulater": 0.3333333333333333
+  },
+  "markers": {
+    "filler": 0.3333333333333333
+  },
+  "marmite": {
+    "maker": 0.3333333333333333
+  },
+  "married people": {
+    "divorcer": 1
+  },
+  "marvin": {
+    "petter": 0.2
+  },
+  "mashed potatoes": {
+    "maker": 0.2
+  },
+  "mask": {
+    "needer": 0.3333333333333333
+  },
+  "masks": {
+    "user": 0.3333333333333333
   },
   "mass": {
-    "measurer": 0.3333333333333333
+    "measurer": 0.3333333333333333,
+    "mover": 0.3333333333333333
+  },
+  "mastoid cells": {
+    "filler": 0.3333333333333333
+  },
+  "match": {
+    "meaner": 0.25
   },
   "materials": {
+    "recycler": 0.25,
     "sender": 0.3333333333333333
   },
+  "math": {
+    "teacher": 0.3333333333333333
+  },
+  "matress": {
+    "finder": 0.3333333333333333
+  },
   "matter": {
+    "affecter": 0.25,
     "converter": 0.3333333333333333
   },
+  "mattresses": {
+    "maker": 0.3333333333333333
+  },
+  "mayor": {
+    "chooser": 0.2
+  },
   "meal": {
+    "cooker": 0.3333333333333333,
     "server": 0.3333333333333333
   },
+  "meals": {
+    "server": 0.3333333333333333
+  },
+  "mealybug": {
+    "finder": 0.3333333333333333
+  },
   "meat": {
+    "cooker": 0.2,
     "putter": 0.25,
     "server": 0.3333333333333333,
     "seller": 0.3333333333333333,
@@ -866,15 +4068,71 @@
     "taker": 0.2,
     "user": 0.25
   },
+  "mechanical pencil": {
+    "user": 0.3333333333333333
+  },
+  "medals": {
+    "outstander": 0.2
+  },
+  "medical checkup": {
+    "intender": 0.2
+  },
+  "medical specialty": {
+    "concerner": 0.2
+  },
+  "medication": {
+    "introducer intravenously": 0.5
+  },
   "medicine": {
+    "creater": 0.3333333333333333,
     "taker orally": 0.5
+  },
+  "memories": {
+    "storer": 0.3333333333333333
+  },
+  "men hairdressers": {
+    "thinker": 0.25
+  },
+  "mental skills": {
+    "developer": 1
+  },
+  "merchandise": {
+    "seller": 0.25
+  },
+  "mercury": {
+    "user": 0.3333333333333333
+  },
+  "meridians": {
+    "user": 0.2
+  },
+  "message": {
+    "poster": 0.3333333333333333
   },
   "metal": {
     "cutter": 1,
     "former": 1,
     "melter": 1,
     "painter": 1,
-    "riveter": 1
+    "riveter": 1,
+    "user": 0.3333333333333333
+  },
+  "metal object": {
+    "striker": 0.3333333333333333
+  },
+  "metals": {
+    "finder": 0.3333333333333333
+  },
+  "metamorphism": {
+    "binder": 0.2
+  },
+  "mexican food": {
+    "eater": 0.3333333333333333
+  },
+  "mexico": {
+    "locater": 0.25
+  },
+  "military": {
+    "divider": 0.3333333333333333
   },
   "milk": {
     "buyer": 0.3333333333333333,
@@ -883,14 +4141,80 @@
     "pourer": 1,
     "producer": 0.25,
     "purchaser": 0.25,
+    "seller": 0.25,
     "storer": 0.3333333333333333,
     "user": 0.3333333333333333
   },
+  "mind": {
+    "influencer": 0.3333333333333333
+  },
+  "minerals": {
+    "extracter": 0.3333333333333333
+  },
+  "mines": {
+    "closer": 1
+  },
+  "minitature ship": {
+    "putter": 0.3333333333333333
+  },
+  "minor injuries": {
+    "treater": 0.25
+  },
+  "mint": {
+    "maker": 0.25
+  },
+  "minute": {
+    "maker up": 0.2
+  },
+  "mirrors": {
+    "seller": 0.2
+  },
+  "missouri": {
+    "knower": 0.2
+  },
+  "mistakes": {
+    "forgiver": 1
+  },
+  "mixed breed dog": {
+    "knower": 0.3333333333333333
+  },
+  "mobs": {
+    "maker up": 0.2
+  },
+  "modem": {
+    "attacher": 0.3333333333333333
+  },
+  "modern warfare": {
+    "fighter mostly": 0.25
+  },
+  "modern wicca": {
+    "descender": 0.3333333333333333
+  },
+  "moistener": {
+    "applier": 0.25
+  },
+  "moisturizer": {
+    "user": 0.3333333333333333
+  },
+  "molecules": {
+    "maker out": 0.25
+  },
   "moments": {
-    "appreciater": 0.3333333333333333
+    "appreciater": 0.3333333333333333,
+    "measurer": 0.3333333333333333
+  },
+  "mona lisa": {
+    "exhibiter": 0.3333333333333333
+  },
+  "monarchies": {
+    "ruller": 0.2
+  },
+  "monetary expenses": {
+    "accounter": 0.2
   },
   "money": {
     "collector": 0.3333333333333333,
+    "earner": 0.2,
     "exchanger": 0.2,
     "launderer": 1,
     "loaner": 1,
@@ -901,9 +4225,151 @@
     "storer": 0.3333333333333333,
     "user instead": 0.25
   },
+  "monument": {
+    "builder": 0.25
+  },
+  "more girls": {
+    "borner": 0.3333333333333333
+  },
+  "morphine": {
+    "administerer": 0.25
+  },
+  "mortar": {
+    "user": 0.3333333333333333
+  },
+  "most all complex substances": {
+    "former": 0.3333333333333333
+  },
+  "most brass instruments": {
+    "player": 0.2
+  },
+  "most buildings": {
+    "builder": 0.25
+  },
+  "most business": {
+    "former": 0.25
+  },
+  "most city roads": {
+    "paver": 1
+  },
+  "most closets": {
+    "clutterer": 1
+  },
+  "most clothes": {
+    "maker": 0.3333333333333333
+  },
+  "most copper production": {
+    "baser": 0.25
+  },
+  "most cosmic ray particles": {
+    "producer": 0.25
+  },
+  "most dinners": {
+    "cooker": 1
+  },
+  "most disagreements": {
+    "causer": 0.2
+  },
+  "most english": {
+    "speaker": 0.25
+  },
+  "most european men": {
+    "descender": 0.2
+  },
+  "most fabrics": {
+    "maker": 0.25
+  },
+  "most fish": {
+    "cooker": 0.3333333333333333
+  },
+  "most governments": {
+    "runner": 0.25
+  },
+  "most human babies": {
+    "borner": 0.3333333333333333
+  },
+  "most industrial products": {
+    "seller": 0.3333333333333333
+  },
+  "most instruments": {
+    "tuner": 1
+  },
+  "most items": {
+    "buyer": 0.5
+  },
+  "most jobs": {
+    "payer": 1
+  },
+  "most journeys": {
+    "maker": 0.3333333333333333
+  },
+  "most meals": {
+    "cooker": 1
+  },
+  "most newspapers": {
+    "publisher regularly": 0.5
+  },
+  "most outdoor meetings": {
+    "holder": 0.25
+  },
+  "most paper": {
+    "maker": 0.25
+  },
+  "most plastics": {
+    "maker": 0.3333333333333333
+  },
+  "most questions": {
+    "answerer": 0.25
+  },
+  "most radio programs": {
+    "syndicater": 1
+  },
+  "most restaurant menus": {
+    "coverer": 0.3333333333333333
+  },
+  "most scary stories": {
+    "setter": 0.3333333333333333
+  },
+  "most smiles": {
+    "starter": 0.25
+  },
+  "most societies": {
+    "baser": 0.3333333333333333
+  },
+  "most string instruments": {
+    "maker out": 0.25
+  },
+  "most tasks": {
+    "stepper": 0.25
+  },
+  "most things": {
+    "divider": 0.25
+  },
+  "most tires": {
+    "filler": 0.3333333333333333
+  },
+  "most windows": {
+    "coverer": 0.3333333333333333
+  },
+  "most zinc production": {
+    "baser": 0.25
+  },
+  "motherboards": {
+    "user": 0.3333333333333333
+  },
+  "moths": {
+    "attracter": 0.3333333333333333
+  },
+  "motor oil": {
+    "obtainer": 0.25
+  },
+  "mountains": {
+    "causer": 0.3333333333333333
+  },
   "movie": {
     "scener": 0.3333333333333333,
     "worker": 0.25,
+    "ender": 0.2,
     "maker": 0.3333333333333333,
     "maker up": 0.25,
     "payer": 0.25,
@@ -912,19 +4378,46 @@
     "renter": 1,
     "showner": 0.3333333333333333
   },
+  "movie film": {
+    "keeper on": 0.3333333333333333
+  },
   "movies": {
     "adapter": 0.3333333333333333,
     "player": 0.25,
     "recorder": 0.3333333333333333,
+    "renter": 0.25,
     "showner": 0.25,
     "storer": 0.3333333333333333,
     "viewer": 0.3333333333333333,
     "watcher": 0.3333333333333333
   },
+  "mug shots": {
+    "taker": 0.3333333333333333
+  },
+  "muhammad's revelation": {
+    "knower": 0.3333333333333333
+  },
   "murderer": {
-    "chaser": 0.3333333333333333
+    "chaser": 0.3333333333333333,
+    "finder": 0.25
+  },
+  "murders": {
+    "performer": 0.3333333333333333
+  },
+  "muscles": {
+    "builder": 0.3333333333333333
+  },
+  "museum": {
+    "locater": 0.3333333333333333
+  },
+  "museum ticket": {
+    "purchaser": 0.3333333333333333
+  },
+  "museum wing": {
+    "dedicater": 0.25
   },
   "mushrooms": {
+    "cooker": 0.2,
     "server": 0.3333333333333333
   },
   "music": {
@@ -939,109 +4432,502 @@
     "recorder": 0.25,
     "recorder magnetically": 0.25,
     "storer": 0.3333333333333333,
-    "user": 0.3333333333333333
+    "user": 0.3333333333333333,
+    "writer": 0.2
   },
   "musical instruments": {
-    "player": 0.3333333333333333
+    "player": 0.3333333333333333,
+    "user": 0.3333333333333333
+  },
+  "musical notes": {
+    "writer": 0.3333333333333333
+  },
+  "myrrh oil": {
+    "extracter": 0.25
+  },
+  "mutual funds": {
+    "holder": 0.25
+  },
+  "nail": {
+    "hitter": 0.3333333333333333
   },
   "nails": {
+    "buyer": 0.25,
     "driver": 0.3333333333333333
+  },
+  "name katey": {
+    "speller": 0.25
+  },
+  "nameservers": {
+    "orderer": 0.3333333333333333
+  },
+  "napoleon": {
+    "burier": 0.3333333333333333
+  },
+  "national defense": {
+    "payer": 0.25
+  },
+  "natto": {
+    "maker": 0.25
+  },
+  "natural aluminum": {
+    "combiner": 0.3333333333333333
+  },
+  "natural gas": {
+    "user": 0.3333333333333333
+  },
+  "nautilus shell": {
+    "baser": 0.25
+  },
+  "near future": {
+    "seener": 1
+  },
+  "negative statements": {
+    "describer": 0.3333333333333333
+  },
+  "neighbourhood": {
+    "maker up": 0.25
+  },
+  "neroli oil": {
+    "extracter": 0.3333333333333333
+  },
+  "nerve impulses": {
+    "generator": 0.3333333333333333
+  },
+  "nerves": {
+    "severer": 1
+  },
+  "net": {
+    "maker": 0.2
+  },
+  "networks": {
+    "constructer": 0.3333333333333333
+  },
+  "neurons": {
+    "surrounder": 0.3333333333333333
+  },
+  "neutrons": {
+    "locater": 0.3333333333333333
+  },
+  "new orleans": {
+    "nicknamer": 0.3333333333333333
+  },
+  "new software": {
+    "applier": 0.25
+  },
+  "new things": {
+    "buyer": 1
   },
   "news": {
     "broadcaster": 0.3333333333333333,
+    "hearer often": 0.25,
     "printer": 0.3333333333333333,
     "provider": 0.3333333333333333
   },
   "newspaper": {
-    "reader": 0.3333333333333333
+    "reader": 0.3333333333333333,
+    "user": 0.2
+  },
+  "newspaper article": {
+    "writer": 0.3333333333333333
+  },
+  "newspaper articles": {
+    "writer": 0.3333333333333333
+  },
+  "newspaper story": {
+    "writer": 0.3333333333333333
   },
   "newspapers": {
+    "collector": 0.3333333333333333,
     "printer": 0.3333333333333333,
     "recycler": 1,
     "writer": 0.3333333333333333
   },
+  "nfl football field": {
+    "divider": 0.3333333333333333
+  },
+  "ni cd batteries": {
+    "recharger": 1
+  },
+  "nicaragua": {
+    "locater": 0.25
+  },
+  "nickel metal hydride electric batteries": {
+    "recharger": 1
+  },
+  "nighttime": {
+    "causer": 0.25
+  },
+  "nightwatchmen": {
+    "finder": 0.3333333333333333
+  },
+  "nimh batteries": {
+    "recharger": 1
+  },
+  "non fiction books": {
+    "reader": 0.3333333333333333
+  },
+  "non right triangle": {
+    "divider": 0.2
+  },
+  "non sentient computers": {
+    "harmer": 0.25
+  },
   "nori": {
-    "maker": 0.25
+    "maker": 0.25,
+    "user": 0.2
+  },
+  "normal science": {
+    "baser": 0.2
+  },
+  "north pole": {
+    "coverer": 0.3333333333333333
+  },
+  "norway": {
+    "locater": 0.3333333333333333
   },
   "nose": {
+    "finder": 0.25,
     "picker": 1
+  },
+  "noses": {
+    "involver": 0.3333333333333333
+  },
+  "notes": {
+    "taker": 0.3333333333333333
+  },
+  "nuclear power": {
+    "generator": 0.25
+  },
+  "number seven": {
+    "considerer": 0.2
   },
   "numbers": {
     "adder": 1,
     "adder up": 0.5,
     "divider": 1,
+    "knower": 0.3333333333333333,
     "multiplier": 1,
     "writer": 0.3333333333333333
   },
   "nutrients": {
+    "requirer": 0.2,
     "storer": 0.3333333333333333
   },
+  "nylon": {
+    "user": 0.3333333333333333
+  },
   "objects": {
+    "attracter": 0.2,
     "avoider": 0.25,
     "packer": 0.3333333333333333
   },
+  "ocd": {
+    "treater": 0.3333333333333333
+  },
   "ocean": {
-    "filler": 0.25
+    "filler": 0.25,
+    "maker up": 0.2
+  },
+  "ocean tides": {
+    "influencer": 0.3333333333333333
   },
   "oceans": {
-    "former": 0.3333333333333333
+    "former": 0.3333333333333333,
+    "maker up": 0.2
+  },
+  "office buildings": {
+    "user": 0.3333333333333333
+  },
+  "officers": {
+    "saluter": 1
+  },
+  "offices": {
+    "closer": 0.3333333333333333
+  },
+  "often gun": {
+    "user": 0.3333333333333333
+  },
+  "ogres": {
+    "reputer": 0.3333333333333333
   },
   "oil": {
     "driller": 0.25,
     "finder": 0.3333333333333333,
-    "caner": 0.3333333333333333
+    "caner": 0.3333333333333333,
+    "user": 0.2
+  },
+  "oils": {
+    "user": 0.25
+  },
+  "old coins": {
+    "treasurer": 0.5
+  },
+  "old movies": {
+    "watcher": 0.25
+  },
+  "old paint": {
+    "remover": 0.3333333333333333
   },
   "olives": {
-    "eater": 1
+    "eater": 1,
+    "presser": 0.2
+  },
+  "omcs code": {
+    "writer": 0.3333333333333333
+  },
+  "omelettes": {
+    "maker out": 0.25
+  },
+  "omlet": {
+    "maker": 0.3333333333333333
+  },
+  "one": {
+    "describer": 0.25
+  },
+  "one thing": {
+    "maker": 0.25
+  },
+  "ones expenses": {
+    "tracker": 0.3333333333333333
+  },
+  "onions": {
+    "cooker": 0.25
+  },
+  "only dead timber": {
+    "user": 0.3333333333333333
+  },
+  "only one zipper": {
+    "needer": 0.2
+  },
+  "open mind project": {
+    "revealler": 0.25
+  },
+  "open spaces": {
+    "designer": 0.3333333333333333
+  },
+  "optimists": {
+    "focuser": 0.3333333333333333
   },
   "orange": {
-    "eater": 1
+    "eater": 1,
+    "holder": 0.25
+  },
+  "orange juice": {
+    "maker": 0.3333333333333333
+  },
+  "orange oil": {
+    "extracter": 0.25
+  },
+  "oranges": {
+    "presser": 1
+  },
+  "orangina": {
+    "distributor": 0.2
   },
   "orchestra": {
+    "maker up": 0.25,
     "recorder": 0.3333333333333333
+  },
+  "organic foods": {
+    "grower": 0.25
+  },
+  "oriental food": {
+    "cooker": 0.3333333333333333
+  },
+  "orion": {
+    "namer": 0.25
+  },
+  "oscar wilde": {
+    "knower": 0.25
+  },
+  "others": {
+    "hearer": 0.2
+  },
+  "outside": {
+    "painter": 1
+  },
+  "ovens": {
+    "designer": 0.2
+  },
+  "oxford street": {
+    "locater": 0.25
   },
   "oxygen": {
     "burner": 0.3333333333333333,
+    "measurer": 0.25,
     "needer": 0.3333333333333333
   },
+  "pads": {
+    "user": 0.3333333333333333
+  },
+  "page": {
+    "printer": 0.3333333333333333
+  },
   "pain": {
+    "experiencer": 0.2,
     "senser": 0.3333333333333333
   },
   "paint": {
+    "applier": 0.25,
     "describer": 0.3333333333333333,
     "storer": 0.25,
     "user": 0.3333333333333333
   },
   "paintings": {
+    "creater": 0.3333333333333333,
     "maker": 0.3333333333333333
+  },
+  "pancakes": {
+    "server": 0.3333333333333333
+  },
+  "pantone colors": {
+    "recognizer": 0.3333333333333333
+  },
+  "pantries": {
+    "maker": 0.25
+  },
+  "pantyhose": {
+    "maker out": 0.25
   },
   "paper": {
     "burner": 1,
     "crumbler": 1,
     "cutter": 1,
+    "maker": 0.25,
     "maker out": 0.25,
     "printer": 0.25,
     "recycler": 1,
     "storer": 0.3333333333333333,
     "writer": 0.5
   },
+  "paper menu": {
+    "throwner away": 0.5
+  },
+  "paper page": {
+    "writer": 0.5
+  },
+  "paper sign": {
+    "meaner": 0.25
+  },
+  "paper towels": {
+    "maker": 0.3333333333333333
+  },
+  "paper towls": {
+    "maker": 0.3333333333333333
+  },
+  "paper trays": {
+    "stacker": 1
+  },
   "papers": {
     "user": 0.25,
     "reader": 1,
     "recycler": 1,
-    "recycler easily": 0.5
+    "recycler easily": 0.5,
+    "storer": 0.25
+  },
+  "paperwork": {
+    "considerer": 0.2
+  },
+  "parabola": {
+    "rotater": 0.3333333333333333
+  },
+  "parallels": {
+    "user": 0.2
+  },
+  "paranoid suspicion": {
+    "treater": 0.25
+  },
+  "parcels": {
+    "sender": 0.3333333333333333
+  },
+  "parking": {
+    "speller": 0.3333333333333333
+  },
+  "parking area": {
+    "reserver": 0.3333333333333333
+  },
+  "parrots": {
+    "teacher": 0.3333333333333333
+  },
+  "parties": {
+    "holder on": 0.3333333333333333
+  },
+  "pashtoo": {
+    "speaker": 0.2
+  },
+  "passageway": {
+    "hider": 1
+  },
+  "past": {
+    "fixer": 1
+  },
+  "past events": {
+    "rememberer": 1
   },
   "pasta": {
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "producer": 0.2
+  },
+  "pattern": {
+    "embroiderer": 0.2
+  },
+  "patterns": {
+    "user": 0.3333333333333333
   },
   "pay": {
+    "earner": 0.3333333333333333,
     "measurer": 0.3333333333333333
   },
+  "paycheck": {
+    "exchanger": 0.2
+  },
+  "paying taxes": {
+    "requirer": 0.25
+  },
+  "payments": {
+    "maker": 0.3333333333333333
+  },
+  "peanuts": {
+    "buyer": 0.25
+  },
+  "pear": {
+    "eater": 1
+  },
+  "peas": {
+    "server": 0.3333333333333333
+  },
+  "peformance": {
+    "givener": 0.3333333333333333
+  },
+  "pelvic inflammatory disease": {
+    "finder exclusively": 0.25
+  },
+  "penalties": {
+    "ignorer": 0.25
+  },
+  "penalty": {
+    "administerer": 0.2
+  },
+  "pencil": {
+    "maker": 0.3333333333333333
+  },
+  "penis": {
+    "nicknamer a'willy": 0.5
+  },
   "penny": {
-    "finder": 0.3333333333333333
+    "finder": 0.3333333333333333,
+    "maker out": 0.25
   },
   "pens": {
-    "holder": 0.3333333333333333
+    "holder": 0.3333333333333333,
+    "user": 0.3333333333333333
+  },
+  "people's favourite cafes": {
+    "knower": 0.25
+  },
+  "people's lifespan": {
+    "extender": 0.25
   },
   "people": {
     "attracter": 0.25,
@@ -1064,12 +4950,37 @@
     "killer": 0.25,
     "murderer": 1,
     "payer": 0.25,
+    "persuader more often": 0.2,
     "pleaser": 0.25,
     "saver": 0.3333333333333333,
     "walker": 0.2,
     "sender": 0.2,
     "stimulater": 0.25,
     "stinger": 0.3333333333333333
+  },
+  "people having high income": {
+    "taxer heavily": 0.25
+  },
+  "perceptions": {
+    "baser": 0.25
+  },
+  "perennials": {
+    "user": 0.25
+  },
+  "peristalsis": {
+    "affecter": 0.3333333333333333
+  },
+  "permits": {
+    "requirer": 0.2
+  },
+  "person's attention": {
+    "distracter": 1
+  },
+  "person's emotions": {
+    "trainer": 1
+  },
+  "person's legs": {
+    "coverer": 0.3333333333333333
   },
   "person": {
     "burier": 0.3333333333333333,
@@ -1078,6 +4989,7 @@
     "executer": 0.3333333333333333,
     "gorer": 0.3333333333333333,
     "injurer": 0.2,
+    "judger": 0.2,
     "killer": 0.25,
     "murderer": 0.25,
     "promoter": 1,
@@ -1087,338 +4999,1632 @@
     "strander": 0.25,
     "subjecter": 0.3333333333333333
   },
-  "photographs": {
+  "personal checks": {
+    "orderer": 0.2
+  },
+  "pesticide": {
+    "buyer": 0.25
+  },
+  "petrol": {
+    "putter": 0.3333333333333333
+  },
+  "pets": {
+    "breeder": 0.3333333333333333
+  },
+  "phone books": {
     "printer": 0.3333333333333333
   },
+  "phone wires": {
+    "coder": 0.5
+  },
+  "photograph": {
+    "cutter up": 0.5
+  },
+  "photographs": {
+    "manipulater": 0.25,
+    "printer": 0.3333333333333333
+  },
+  "photos": {
+    "saver": 0.25
+  },
+  "physical objects": {
+    "matterer": 0.3333333333333333
+  },
+  "piano": {
+    "player": 0.3333333333333333
+  },
+  "pickels": {
+    "buyer": 0.25
+  },
+  "pickle": {
+    "eater": 1
+  },
+  "pickled ginger": {
+    "eater": 0.3333333333333333
+  },
   "picture": {
-    "hanger": 0.3333333333333333
+    "hanger": 0.3333333333333333,
+    "painter": 0.3333333333333333
   },
   "pictures": {
     "hanger": 0.3333333333333333,
-    "storer": 0.25
+    "storer": 0.25,
+    "user": 0.2
+  },
+  "pig": {
+    "finder": 0.3333333333333333
+  },
+  "pigs": {
+    "eater": 0.3333333333333333
+  },
+  "pill": {
+    "designer": 0.2
+  },
+  "pillow": {
+    "buyer": 0.3333333333333333
+  },
+  "pillows": {
+    "caller down": 0.2
+  },
+  "pills": {
+    "taker orally": 0.5
+  },
+  "pinata": {
+    "meaner": 0.3333333333333333
+  },
+  "pine oil": {
+    "extracter": 0.25
+  },
+  "pine planks": {
+    "user": 0.3333333333333333
+  },
+  "ping pong": {
+    "player": 0.2
+  },
+  "pipes": {
+    "purchaser": 0.3333333333333333
+  },
+  "pisces": {
+    "representer": 0.3333333333333333
+  },
+  "pizza": {
+    "meaner": 0.25
+  },
+  "placebos": {
+    "user": 0.2
+  },
+  "plains": {
+    "coverer": 0.3333333333333333
+  },
+  "plaintains": {
+    "considerer": 0.5
   },
   "plane ticket": {
     "printer": 0.3333333333333333,
-    "purchaser": 0.3333333333333333
+    "purchaser": 0.3333333333333333,
+    "requirer": 0.25
   },
   "planet earth": {
-    "matterer": 0.3333333333333333
+    "matterer": 0.3333333333333333,
+    "maker mostly": 0.25
+  },
+  "planets": {
+    "seener": 0.25
+  },
+  "plant roots": {
+    "burier": 0.3333333333333333
   },
   "plants": {
     "eater": 0.3333333333333333,
+    "grower": 0.25,
     "keeper on": 0.3333333333333333
   },
   "plastic": {
     "deriver": 0.3333333333333333,
     "maker": 0.3333333333333333,
+    "maker out": 0.25,
     "melter": 1,
     "painter": 1
   },
-  "plastics": {
+  "plastic bags": {
     "recycler": 1
   },
+  "plastics": {
+    "maker": 0.3333333333333333,
+    "recycler": 1
+  },
+  "platform": {
+    "finder": 0.3333333333333333
+  },
   "play": {
+    "performer": 0.25,
     "viewer": 0.3333333333333333
   },
+  "players": {
+    "sender": 0.2
+  },
+  "plays": {
+    "performer": 0.3333333333333333
+  },
+  "plumbing": {
+    "installer": 0.3333333333333333
+  },
+  "plunger": {
+    "user": 0.3333333333333333
+  },
+  "pocket watches": {
+    "watcher on": 0.25
+  },
   "poem": {
+    "maker up": 0.25,
     "writer": 0.3333333333333333
+  },
+  "poeple": {
+    "breaker": 0.25
+  },
+  "poles": {
+    "sticker vertically": 0.25
+  },
+  "police": {
+    "supposer": 0.25
+  },
+  "policy": {
+    "canceller": 1
+  },
+  "political borders": {
+    "establisher": 0.3333333333333333
+  },
+  "political leaders": {
+    "chooser": 0.3333333333333333
   },
   "politicians": {
     "chooser": 0.3333333333333333,
     "electer": 0.25,
-    "payer": 0.5
+    "payer": 0.5,
+    "supposer": 0.2
+  },
+  "pollution": {
+    "causer": 0.3333333333333333
+  },
+  "ponies": {
+    "relater": 0.3333333333333333
   },
   "pool": {
+    "filler": 0.3333333333333333,
     "player": 0.5
+  },
+  "pop cans": {
+    "maker out": 0.25
   },
   "popcorn": {
     "buyer": 0.3333333333333333,
-    "eater": 1
+    "eater": 1,
+    "popper": 0.3333333333333333
   },
   "popular opinion": {
+    "measurer": 0.3333333333333333,
     "studyer": 0.3333333333333333
+  },
+  "porch": {
+    "attacher": 0.3333333333333333
+  },
+  "porches": {
+    "connecter": 0.3333333333333333
+  },
+  "post offices": {
+    "closer": 0.25
+  },
+  "postage stamp": {
+    "requirer": 0.25
+  },
+  "postage stamps": {
+    "collector": 0.2
+  },
+  "pot": {
+    "maker": 0.3333333333333333
+  },
+  "potato chips": {
+    "maker": 0.3333333333333333
   },
   "potatoes": {
     "boiler": 1,
     "cooker": 0.3333333333333333,
     "eater": 1,
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "user": 0.25
+  },
+  "pothole": {
+    "repairer": 1
   },
   "pottery": {
+    "worker": 0.25,
     "creater": 0.25
   },
+  "pounds": {
+    "designer": 0.25
+  },
+  "predictions": {
+    "needer": 0.25
+  },
+  "presents": {
+    "givener on": 0.3333333333333333
+  },
   "president": {
-    "electer": 1
+    "electer": 1,
+    "voter": 0.3333333333333333
+  },
+  "presidential election": {
+    "holder": 0.25
+  },
+  "presidents": {
+    "binder": 0.2
+  },
+  "price": {
+    "measurer": 0.3333333333333333
   },
   "prices": {
+    "affecter": 0.2,
     "denominater": 0.3333333333333333,
     "measurer": 0.3333333333333333
   },
+  "prince": {
+    "considerer": 0.3333333333333333
+  },
+  "printer": {
+    " up to computerer": 0.25
+  },
+  "prison": {
+    "meaner": 0.2
+  },
+  "prisoner's penalty": {
+    "reinstater": 1
+  },
   "prisoners": {
-    "depriver": 0.3333333333333333
+    "depriver": 0.3333333333333333,
+    "plunger": 0.3333333333333333
+  },
+  "prisons": {
+    "holder": 0.3333333333333333
+  },
+  "prize": {
+    "winner": 0.2
+  },
+  "process": {
+    "stepper": 0.25
+  },
+  "products": {
+    "recycler": 1
+  },
+  "professional football": {
+    "player": 0.3333333333333333
+  },
+  "professional gardeners": {
+    "payer": 0.25
+  },
+  "professional people": {
+    "dresser": 0.2
+  },
+  "professional sports events": {
+    "broadcaster": 0.2
+  },
+  "professional sportsperson": {
+    "knower": 0.3333333333333333
+  },
+  "program": {
+    "watcher": 0.3333333333333333
+  },
+  "projectile": {
+    "firer": 0.3333333333333333
+  },
+  "promptness": {
+    "appreciater": 1
+  },
+  "pronouns": {
+    "preceder": 0.3333333333333333
+  },
+  "protein": {
+    "healther for good": 0.25
+  },
+  "protien": {
+    "gotter": 0.25
+  },
+  "protons": {
+    "locater": 0.3333333333333333
+  },
+  "pss invalidity pension": {
+    "reducer": 0.2
+  },
+  "psychotic disorders": {
+    "relater": 0.25
+  },
+  "public transports": {
+    "puller": 0.3333333333333333
+  },
+  "publications": {
+    "seller": 0.3333333333333333
   },
   "puck": {
-    "maker": 0.25
+    "maker": 0.25,
+    "user": 0.25
   },
   "pueblos": {
-    "builder": 0.25
+    "builder": 0.25,
+    "constructer": 0.2
   },
   "pulp": {
+    "deriver": 0.3333333333333333,
+    "maker": 0.3333333333333333
+  },
+  "pumpkin": {
     "maker": 0.3333333333333333
   },
   "pumpkins": {
+    "decorator": 0.3333333333333333,
     "eater": 1
   },
+  "punching bag": {
+    "puncher": 1
+  },
+  "puncture": {
+    "repairer": 1
+  },
+  "punishments": {
+    "repeater": 1
+  },
+  "pure object oriented programming languages": {
+    "maker entirely": 0.25
+  },
+  "push pins": {
+    "user": 0.3333333333333333
+  },
+  "pylorus": {
+    "locater": 0.2
+  },
+  "quartz": {
+    "user": 0.3333333333333333
+  },
+  "quilts": {
+    "maker out": 0.2
+  },
+  "qwerty": {
+    "designer": 0.3333333333333333
+  },
   "rabbit": {
-    "chaser": 0.3333333333333333
+    "chaser": 0.3333333333333333,
+    "finder": 0.3333333333333333
+  },
+  "race horses": {
+    "breeder": 0.3333333333333333
   },
   "radio": {
+    "broadcaster": 0.25,
     "hearer": 0.3333333333333333
   },
+  "radio program": {
+    "broadcaster": 0.25
+  },
+  "rain": {
+    "needer": 0.25
+  },
+  "rainfall": {
+    "measurer": 0.3333333333333333
+  },
+  "rainforests": {
+    "finder": 0.3333333333333333
+  },
+  "rake": {
+    "user": 0.3333333333333333
+  },
+  "rap music": {
+    "seller": 0.3333333333333333
+  },
+  "reading": {
+    "teacher": 0.3333333333333333
+  },
+  "reake": {
+    "user": 0.3333333333333333
+  },
+  "real estate agents": {
+    "concerner": 0.3333333333333333
+  },
+  "recepies": {
+    "teacher": 1
+  },
   "recipes": {
+    "passer": 0.2,
     "teacher": 1,
     "writer": 0.25
   },
+  "recliners": {
+    "seller": 0.25
+  },
+  "recycled objects": {
+    "maker": 0.3333333333333333
+  },
+  "red wine": {
+    "server": 0.25
+  },
+  "refuse": {
+    "taker": 0.3333333333333333
+  },
+  "reggae music": {
+    "player": 0.25
+  },
+  "relative": {
+    "relater": 0.3333333333333333
+  },
+  "religion": {
+    "baser": 0.2
+  },
+  "religious memes": {
+    "spreader": 0.25
+  },
+  "repairs": {
+    "funder": 0.25
+  },
+  "reports": {
+    "reader": 0.3333333333333333
+  },
+  "research": {
+    "requirer": 0.25
+  },
+  "reservations": {
+    "requirer": 0.3333333333333333
+  },
+  "responsible people": {
+    "depender": 0.2
+  },
+  "restaraunt": {
+    "knower": 0.25
+  },
+  "restaurant": {
+    "considerer": 0.25
+  },
+  "restaurant bill": {
+    "writer": 0.3333333333333333
+  },
   "restaurants": {
-    "closer": 1
+    "closer": 1,
+    "locater": 0.3333333333333333
+  },
+  "retirement homes": {
+    "builder": 0.25
+  },
+  "return address": {
+    "writer": 0.3333333333333333
+  },
+  "return policies": {
+    "setter": 0.3333333333333333
+  },
+  "ribbon": {
+    "tier": 0.3333333333333333
   },
   "ribbons": {
-    "cutter": 0.3333333333333333
+    "cutter": 0.3333333333333333,
+    "tier": 0.3333333333333333
   },
   "rice": {
     "cooker": 1,
     "eater": 0.3333333333333333,
+    "preparer": 0.3333333333333333,
     "server": 0.3333333333333333,
     "steamer": 1
   },
+  "rich people": {
+    "admirer": 1
+  },
+  "rings": {
+    "exchanger": 0.25
+  },
   "rivers": {
-    "feeder": 0.3333333333333333
+    "feeder": 0.3333333333333333,
+    "maker up": 0.25
+  },
+  "road": {
+    "paver": 1
   },
   "roads": {
     "builder": 0.3333333333333333,
-    "coverer": 0.25
+    "coverer": 0.25,
+    "user": 0.2
+  },
+  "robots": {
+    "user": 0.25
+  },
+  "rock": {
+    "maker up": 0.25
+  },
+  "rock music": {
+    "listener": 0.25
+  },
+  "rockets": {
+    "launcher": 0.25
   },
   "rocks": {
     "cracker": 1,
     "finder": 0.3333333333333333,
+    "maker": 0.25,
     "maker very slowly": 0.3333333333333333
   },
   "role playing games": {
-    "player": 0.3333333333333333
+    "player": 0.3333333333333333,
+    "thinker": 0.25
+  },
+  "rollercoaster": {
+    "maker": 0.3333333333333333
+  },
+  "rolodexes": {
+    "lister": 0.25
   },
   "roof": {
-    "coverer": 0.3333333333333333
+    "coverer": 0.3333333333333333,
+    "finder": 0.2
+  },
+  "roofing": {
+    "maker": 0.2
+  },
+  "roofs": {
+    "blower": 0.2
+  },
+  "room": {
+    "enterer": 0.3333333333333333
+  },
+  "roses": {
+    "seller": 0.3333333333333333
+  },
+  "round brush": {
+    "user primarily": 0.25
   },
   "rubber stamp": {
-    "maker": 1
+    "maker": 1,
+    "user": 0.25
+  },
+  "rubber which": {
+    "filler": 0.3333333333333333
+  },
+  "rubbing alcohol": {
+    "rubber": 0.25
   },
   "rule": {
-    "enforcer": 0.3333333333333333
+    "enforcer": 0.3333333333333333,
+    "setter": 0.2
   },
   "rules": {
+    "creater": 0.3333333333333333,
     "meaner": 0.3333333333333333
   },
+  "runway": {
+    "user": 0.3333333333333333
+  },
+  "russian": {
+    "writer": 0.2
+  },
+  "russian roulette": {
+    "player": 0.3333333333333333
+  },
+  "sabers": {
+    "user": 0.2
+  },
   "saddle": {
-    "finder": 0.3333333333333333
+    "finder": 0.3333333333333333,
+    "needer": 0.2
+  },
+  "saddles": {
+    "carrier on": 0.25
+  },
+  "safety measures": {
+    "taker": 0.25
+  },
+  "sagittarius": {
+    "representer": 0.3333333333333333
+  },
+  "sahara desert": {
+    "locater": 0.3333333333333333
+  },
+  "sailboat": {
+    "propeller": 0.3333333333333333
   },
   "salad": {
+    "eater": 0.3333333333333333,
     "maker": 0.3333333333333333,
     "preparer": 1
   },
+  "salary": {
+    "benefiter": 0.3333333333333333
+  },
+  "salami": {
+    "buyer": 0.3333333333333333
+  },
+  "salsa": {
+    "maker": 0.3333333333333333
+  },
+  "salt": {
+    "user": 0.2
+  },
+  "sample": {
+    "taker": 0.25
+  },
+  "san diego": {
+    "namer": 0.25
+  },
+  "san francisco": {
+    "knower": 0.25
+  },
   "sand": {
+    "finder": 0.3333333333333333,
     "maker": 0.3333333333333333,
     "player": 0.5
   },
+  "sandalwood oil": {
+    "extracter": 0.25
+  },
+  "saturn": {
+    "surrounder": 0.25
+  },
   "sauce": {
-    "maker": 0.3333333333333333
+    "maker": 0.3333333333333333,
+    "server": 0.3333333333333333
+  },
+  "saucer": {
+    "user": 0.3333333333333333
+  },
+  "saucepan": {
+    "user": 0.3333333333333333
+  },
+  "saucers": {
+    "designer": 0.2
+  },
+  "sauces": {
+    "maker": 0.2
   },
   "sausage": {
-    "eater": 1
-  },
-  "scarf": {
-    "considerer": 0.3333333333333333
-  },
-  "schools": {
-    "funder": 0.3333333333333333
-  },
-  "screws": {
-    "turner": 1
-  },
-  "sentences": {
+    "eater": 1,
     "maker": 0.3333333333333333
   },
+  "savings": {
+    "maker": 0.3333333333333333
+  },
+  "saxaphone": {
+    "user often": 0.25
+  },
+  "scarf": {
+    "considerer": 0.3333333333333333,
+    "hanger": 0.3333333333333333
+  },
+  "scene": {
+    "painter": 1
+  },
+  "schools": {
+    "baser": 0.3333333333333333,
+    "funder": 0.3333333333333333
+  },
+  "scientology": {
+    "considerer": 0.25
+  },
+  "scissors": {
+    "user": 0.3333333333333333
+  },
+  "scones": {
+    "buyer": 0.3333333333333333
+  },
+  "scorpio": {
+    "representer": 0.3333333333333333
+  },
+  "screws": {
+    "purchaser": 0.25,
+    "turner": 1
+  },
+  "sculpting gel": {
+    "user": 0.3333333333333333
+  },
+  "sea": {
+    "filler": 0.3333333333333333
+  },
+  "sea shells": {
+    "finder": 0.3333333333333333
+  },
+  "seafood": {
+    "eater at best": 0.25
+  },
+  "sealand": {
+    "locater": 0.25
+  },
+  "seas": {
+    "filler": 0.3333333333333333
+  },
+  "seashells": {
+    "finder": 0.3333333333333333
+  },
+  "seat": {
+    "maker": 0.5
+  },
+  "seeing eye dogs": {
+    "trainer": 1
+  },
+  "self": {
+    "connecter": 0.25
+  },
+  "self confidence": {
+    "earner": 1
+  },
+  "self improvement book": {
+    "reader": 1
+  },
+  "sensations": {
+    "communicator": 0.2
+  },
+  "sentences": {
+    "deliverer": 0.3333333333333333,
+    "maker": 0.3333333333333333
+  },
+  "serotonin": {
+    "distributor": 0.3333333333333333
+  },
+  "sesame sauce": {
+    "user": 0.3333333333333333
+  },
+  "several foods": {
+    "server": 0.3333333333333333
+  },
+  "sex": {
+    "supposer": 0.3333333333333333
+  },
+  "sexuality": {
+    "relater": 0.3333333333333333
+  },
+  "shade": {
+    "causer": 0.2
+  },
+  "shade which": {
+    "obtainer": 0.3333333333333333
+  },
+  "shadow": {
+    "causer": 0.2
+  },
+  "shadows": {
+    "causer": 0.2
+  },
+  "shakespeare": {
+    "considerer": 0.25
+  },
   "shallow water": {
+    "heater": 0.25,
     "wader": 0.5
   },
+  "shampo": {
+    "user": 0.3333333333333333
+  },
   "shampoo": {
+    "purchaser": 0.25,
     "user": 0.25
   },
+  "shark": {
+    "eater": 1
+  },
+  "sheep": {
+    "considerer": 0.2
+  },
   "sheet": {
+    "finder": 0.3333333333333333,
+    "washer": 0.25
+  },
+  "shells": {
+    "finder": 0.3333333333333333
+  },
+  "shelves": {
+    "attacher": 0.3333333333333333
+  },
+  "shenzhen": {
+    "liver": 0.5
+  },
+  "shingle": {
+    "finder": 0.3333333333333333
+  },
+  "ship": {
     "finder": 0.3333333333333333
   },
   "ships": {
     "builder": 0.3333333333333333,
+    "designer": 0.2,
     "finder": 0.3333333333333333
   },
+  "shoe lace": {
+    "tier": 0.3333333333333333
+  },
+  "shoe wax": {
+    "spreader": 0.3333333333333333
+  },
   "shoes": {
+    "holder on": 0.2,
     "meaner": 0.25,
     "trainer": 0.25
   },
   "shopping basket": {
+    "holder": 0.25,
     "user": 0.3333333333333333
   },
+  "shopping mall": {
+    "closer": 1
+  },
+  "shore": {
+    "finder": 0.3333333333333333
+  },
+  "short facts": {
+    "writer": 0.25
+  },
+  "shortwave programs": {
+    "dominater": 0.2
+  },
+  "shot gun": {
+    "user": 0.3333333333333333
+  },
+  "shovel": {
+    "user": 0.3333333333333333
+  },
+  "shower curtain": {
+    "locater": 0.3333333333333333
+  },
+  "shrimp": {
+    "eater": 0.3333333333333333
+  },
+  "shrimp food ans so": {
+    "cooker": 1
+  },
+  "shrine": {
+    "maker": 0.3333333333333333
+  },
+  "sick animal": {
+    "taker": 0.3333333333333333
+  },
+  "sick people": {
+    "curer": 0.5
+  },
+  "sickness": {
+    "causer": 0.2
+  },
+  "siding": {
+    "finder": 0.3333333333333333
+  },
   "sight": {
+    "considerer": 0.25,
     "seener": 1
+  },
+  "sign language": {
+    "user": 0.2
+  },
+  "silica": {
+    "melter": 1
+  },
+  "silicone": {
+    "user": 0.25
   },
   "silk": {
     "former": 0.3333333333333333,
+    "haver": 0.3333333333333333,
     "maker": 0.3333333333333333,
     "spinner": 0.3333333333333333,
     "stainer": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "soap": {
+  "silk worms": {
+    "cultivater": 1
+  },
+  "silver": {
+    "melter": 1
+  },
+  "similar objects": {
+    "maker": 0.25
+  },
+  "singing": {
+    "relater": 0.3333333333333333
+  },
+  "sink": {
+    "installer": 0.3333333333333333
+  },
+  "sinks": {
     "user": 0.3333333333333333
   },
+  "sirens": {
+    "finder": 0.3333333333333333
+  },
+  "situation": {
+    "describer": 0.3333333333333333
+  },
+  "skeleton": {
+    "maker up": 0.25
+  },
+  "skills": {
+    "teacher": 1
+  },
+  "skin": {
+    "burner": 1
+  },
+  "skipping lunches": {
+    "causer": 0.25
+  },
+  "skirts": {
+    "meaner": 0.3333333333333333
+  },
+  "skunk": {
+    "keeper": 0.3333333333333333
+  },
+  "skyscrapers": {
+    "builder": 0.2
+  },
+  "slacks": {
+    "describer": 0.3333333333333333
+  },
+  "slang": {
+    "avoider": 0.25
+  },
+  "slave": {
+    "forcer": 0.2
+  },
+  "sleep patterns": {
+    "learner": 1
+  },
+  "small": {
+    "coverer": 0.25
+  },
+  "small children": {
+    "carrier": 0.3333333333333333
+  },
+  "small dog": {
+    "kicker": 1
+  },
+  "small rugs": {
+    "washer": 0.25
+  },
+  "small things": {
+    "blower away easily": 0.3333333333333333
+  },
+  "smoke": {
+    "producer": 0.3333333333333333
+  },
+  "snow": {
+    "blower": 0.25
+  },
+  "snowball": {
+    "maker": 0.25
+  },
+  "snowboarding": {
+    "relater": 0.3333333333333333
+  },
+  "snowflace": {
+    "maker": 0.3333333333333333
+  },
+  "snowfall": {
+    "measurer": 0.2
+  },
+  "snowflake": {
+    "former": 0.3333333333333333
+  },
+  "soap": {
+    "maker": 0.3333333333333333,
+    "user": 0.3333333333333333
+  },
+  "soccer": {
+    "player": 0.2
+  },
+  "soccer ball": {
+    "purchaser": 0.2
+  },
+  "soccer field": {
+    "coverer": 0.3333333333333333
+  },
+  "social customs": {
+    "loser": 0.5
+  },
+  "socket wrench": {
+    "purchaser": 0.25
+  },
+  "socks": {
+    "putter on": 0.25
+  },
   "soda": {
+    "putter": 0.25,
     "storer": 0.3333333333333333
   },
   "soda cans": {
+    "exchanger": 0.3333333333333333,
     "recycler": 1
   },
+  "soda pop": {
+    "storer": 0.3333333333333333
+  },
+  "sodas": {
+    "obtainer": 0.25
+  },
+  "soffit": {
+    "finder": 0.3333333333333333
+  },
+  "soft drink orangina": {
+    "producer": 0.2
+  },
   "software": {
+    "installer": 0.3333333333333333,
     "user": 0.3333333333333333
   },
+  "software companies": {
+    "locater": 0.25
+  },
+  "soil": {
+    "needer": 0.2
+  },
+  "solder": {
+    "user": 0.25
+  },
+  "soldiers": {
+    "teacher": 0.25
+  },
+  "solid things": {
+    "counter": 1
+  },
+  "somebody": {
+    "shooter": 1
+  },
+  "somethimes broken thing": {
+    "repairer": 1
+  },
+  "sometime guilty verdict": {
+    "reporter": 0.3333333333333333
+  },
+  "somthing": {
+    "raiser": 0.25
+  },
   "song": {
+    "performer": 0.25,
     "writer": 0.3333333333333333
   },
   "songs": {
-    "meaner": 0.25
+    "meaner": 0.25,
+    "player": 0.2
+  },
+  "sonnets": {
+    "writer": 0.25
+  },
+  "soul": {
+    "considerer": 0.3333333333333333
   },
   "sound": {
     "carrier": 0.3333333333333333,
+    "causer": 0.2,
     "generator": 0.25,
     "hearer": 1,
     "measurer": 0.3333333333333333,
     "recorder": 0.25
   },
+  "sound stage": {
+    "elevater": 1
+  },
   "sounds": {
+    "causer": 0.2,
     "producer": 0.3333333333333333
   },
   "soup": {
+    "eater out": 0.25,
     "preparer": 0.3333333333333333,
     "server": 0.3333333333333333
   },
+  "soya sauce": {
+    "maker": 0.2
+  },
+  "soybean meal": {
+    "trader": 0.3333333333333333
+  },
+  "space shuttle": {
+    "launcher": 0.25
+  },
+  "space shuttles": {
+    "user": 0.3333333333333333
+  },
+  "spaghetti": {
+    "cooker": 1
+  },
+  "spanish": {
+    "speaker": 0.25
+  },
+  "spanish food": {
+    "eater": 0.25
+  },
+  "spark plugs": {
+    "finder": 0.3333333333333333
+  },
+  "spatial issues": {
+    "dealer": 0.2
+  },
+  "speakers": {
+    "connecter": 0.3333333333333333
+  },
+  "specailty papers": {
+    "purchaser": 0.25
+  },
+  "special timing": {
+    "needer": 0.2
+  },
+  "special trucks": {
+    "needer": 0.2
+  },
+  "spectacles": {
+    "improver": 0.2
+  },
   "speed": {
+    "measurer": 0.2,
     "restricter": 0.25
   },
+  "sperm": {
+    "creater": 0.3333333333333333
+  },
+  "spices": {
+    "user": 0.3333333333333333
+  },
+  "spiral": {
+    "explainer": 0.2
+  },
+  "sport": {
+    "player": 0.25
+  },
+  "sporting events": {
+    "holder": 0.5
+  },
   "sports": {
-    "divider": 0.3333333333333333
+    "divider": 0.3333333333333333,
+    "player": 0.3333333333333333
+  },
+  "sports equipement": {
+    "user": 0.2
   },
   "sports equipment": {
+    "purchaser": 0.2,
     "user": 0.25
   },
+  "spring": {
+    "considerer": 0.25
+  },
+  "sprinklers": {
+    "banner": 0.2
+  },
+  "sql": {
+    "structurer": 1
+  },
+  "squash": {
+    "player": 0.3333333333333333
+  },
+  "squash courts": {
+    "locater": 0.5
+  },
+  "srew": {
+    "former": 0.3333333333333333
+  },
+  "stable": {
+    "finder": 0.3333333333333333
+  },
+  "stadium stand": {
+    "constructer": 0.3333333333333333
+  },
+  "stage curtain": {
+    "user": 0.3333333333333333
+  },
+  "stage door": {
+    "revealler": 0.2
+  },
+  "stairway": {
+    "maker up": 0.2
+  },
+  "stamp": {
+    "putter on": 0.3333333333333333
+  },
+  "stamps": {
+    "buyer": 0.25
+  },
+  "staple gun": {
+    "holder": 0.3333333333333333
+  },
+  "staple remover": {
+    "maker": 0.2
+  },
+  "staple removers": {
+    "maker": 0.2
+  },
   "staples": {
+    "picker up": 0.25,
     "storer": 0.3333333333333333
+  },
+  "star": {
+    "seener": 0.2
+  },
+  "star temperature": {
+    "baser": 0.3333333333333333
+  },
+  "starch": {
+    "buyer": 0.25
+  },
+  "stars": {
+    "seener": 0.3333333333333333
+  },
+  "startups": {
+    "funder": 0.25
+  },
+  "starvations": {
+    "preventer": 1
+  },
+  "state funds": {
+    "raiser": 0.3333333333333333
+  },
+  "state highway": {
+    "maintainer": 0.25
+  },
+  "statue": {
+    "maker": 0.2
+  },
+  "status conscious person": {
+    "concerner": 0.2
   },
   "steak": {
     "cooker": 0.3333333333333333,
     "cutter": 1,
+    "eater": 0.25,
     "server": 0.3333333333333333
   },
   "steaks": {
+    "cooker": 0.3333333333333333,
     "griller": 1
   },
   "steel": {
+    "maker": 0.25,
     "melter": 1,
     "painter": 1,
     "recycler": 1
   },
+  "steel cables": {
+    "user": 0.25
+  },
+  "steel guitar": {
+    "player": 0.25
+  },
+  "step ladder": {
+    "reacher": 0.2
+  },
+  "steroids": {
+    "user": 0.2
+  },
+  "stick": {
+    "user": 0.3333333333333333
+  },
+  "sticking plaster": {
+    "user": 0.3333333333333333
+  },
+  "sticky tape": {
+    "peeller off": 0.5
+  },
+  "stocks": {
+    "issuer": 1
+  },
+  "stolen items": {
+    "reporter": 0.3333333333333333
+  },
   "stone": {
     "crusher": 1,
+    "maker": 0.25,
     "painter": 1,
     "user": 0.3333333333333333
   },
+  "stones": {
+    "maker": 0.3333333333333333
+  },
+  "stores": {
+    "closer": 0.3333333333333333
+  },
   "stories": {
     "creater": 0.3333333333333333,
+    "maker up": 0.25,
     "reader instead": 0.25
+  },
+  "story": {
+    "maker up": 0.2
+  },
+  "stream": {
+    "creater": 0.25
+  },
+  "streptomycin": {
+    "user": 0.2
+  },
+  "strike": {
+    "reporter": 0.3333333333333333
   },
   "string": {
     "cutter": 0.25,
     "maker": 0.3333333333333333,
     "maker up": 0.25,
-    "tier": 0.3333333333333333
+    "tier": 0.3333333333333333,
+    "winder up": 0.25
   },
   "string bass": {
-    "player": 0.3333333333333333
+    "player": 0.3333333333333333,
+    "user": 0.25
+  },
+  "stringed instrument": {
+    "tuner": 1
+  },
+  "student": {
+    "supposer": 0.3333333333333333
   },
   "students": {
-    "grader": 0.3333333333333333
+    "grader": 0.3333333333333333,
+    "teacher": 0.25
+  },
+  "stuff": {
+    "recycler": 1
+  },
+  "stuff clothes": {
+    "maker": 0.5
+  },
+  "stuffed animal": {
+    "winner": 0.25
+  },
+  "styrofoam": {
+    "maker": 0.3333333333333333
+  },
+  "subdivision": {
+    "divider": 0.3333333333333333
+  },
+  "subject person": {
+    "learner": 0.25
+  },
+  "submarines": {
+    "builder": 0.2
+  },
+  "subway map": {
+    "user": 0.3333333333333333
+  },
+  "subway pass": {
+    "buyer": 0.2
+  },
+  "subway token": {
+    "user": 0.2
+  },
+  "success": {
+    "measurer": 0.2
+  },
+  "sucess": {
+    "measurer individually": 0.5
   },
   "sugar": {
+    "deriver": 0.25,
     "extracter": 0.25,
     "melter": 1
   },
+  "suitcase": {
+    "loser": 0.3333333333333333
+  },
+  "suits": {
+    "maker out": 0.25
+  },
+  "sulfa drugs": {
+    "deriver": 0.3333333333333333
+  },
+  "sulphur": {
+    "extracter": 0.2
+  },
+  "sump pumps": {
+    "designer": 0.25
+  },
+  "sun": {
+    "considerer": 0.25
+  },
+  "sunglasses": {
+    "oner": 0.2
+  },
   "sunlight": {
+    "converter": 0.3333333333333333,
     "filterer": 0.3333333333333333
   },
   "suntan lotion": {
+    "buyer": 0.25,
     "spreader": 0.3333333333333333
+  },
+  "surlpus": {
+    "seller": 0.3333333333333333
+  },
+  "sushi": {
+    "maker": 0.25
+  },
+  "suspected criminals": {
+    "taker": 0.25
+  },
+  "swahili": {
+    "speaker": 0.25
+  },
+  "sweaters": {
+    "maker out": 0.25
+  },
+  "swimming pool": {
+    "designer": 0.25
+  },
+  "swimming pools": {
+    "filler": 0.3333333333333333
+  },
+  "swiss males": {
+    "requirer": 0.2
+  },
+  "swordfish novel": {
+    "writer": 0.25
+  },
+  "symphony hall": {
+    "designer": 0.3333333333333333
+  },
+  "t shirt": {
+    "considerer": 0.3333333333333333
+  },
+  "table centerpieces": {
+    "taker": 0.25
   },
   "tables": {
     "constructer": 0.25,
-    "extender": 0.25
+    "extender": 0.25,
+    "scatterer": 0.2
+  },
+  "tablespoon": {
+    "user": 0.2
+  },
+  "tack": {
+    "pusher": 0.25
+  },
+  "taking drugs": {
+    "considerer": 0.2
+  },
+  "talc": {
+    "finder": 0.3333333333333333
+  },
+  "talismans": {
+    "baser": 0.3333333333333333
+  },
+  "tank": {
+    "user": 0.2
   },
   "tanks": {
+    "maker out": 0.2,
     "user": 0.3333333333333333
+  },
+  "tanning lotion": {
+    "user": 0.25
+  },
+  "tap": {
+    "finder": 0.2
+  },
+  "tape dispenser": {
+    "finder": 0.3333333333333333
+  },
+  "tapestries": {
+    "weaver": 1
+  },
+  "tar": {
+    "container": 0.3333333333333333
+  },
+  "taurus": {
+    "representer": 0.3333333333333333
   },
   "tax": {
     "charger": 0.25,
-    "payer": 0.3333333333333333
+    "payer": 0.3333333333333333,
+    "riser proportionally": 0.25
   },
   "taxes": {
+    "calculator": 0.25,
     "payer": 0.25,
     "raiser": 0.3333333333333333
   },
+  "teacher": {
+    "requirer": 0.2
+  },
+  "teachers": {
+    "payer": 0.3333333333333333
+  },
   "teaching": {
+    "conducter": 0.3333333333333333,
     "performer": 0.3333333333333333
   },
+  "team statistics": {
+    "keeper": 0.25
+  },
   "teeth": {
-    "coverer": 0.3333333333333333
+    "coverer": 0.3333333333333333,
+    "chewer": 0.25
+  },
+  "telephone call": {
+    "maker": 0.25
+  },
+  "telephone directory": {
+    "printer": 0.3333333333333333
   },
   "telephone numbers": {
+    "lister alphabetically": 0.2,
     "unlister": 1
+  },
+  "telephones": {
+    "operator": 0.2
   },
   "television": {
     "divider": 0.3333333333333333,
-    "finder": 0.3333333333333333
+    "finder": 0.3333333333333333,
+    "user": 0.25
+  },
+  "television programs": {
+    "maker": 0.25
+  },
+  "television show": {
+    "maker up": 0.25
   },
   "television shows": {
+    "finder": 0.25,
     "taper": 1
   },
+  "television studio": {
+    "hanger": 0.2
+  },
   "temperature": {
-    "expresser": 0.3333333333333333
+    "expresser": 0.3333333333333333,
+    "measurer": 0.2
+  },
+  "tennis": {
+    "player": 0.2
   },
   "tennis ball": {
+    "coverer": 0.2,
     "hitter": 0.25
+  },
+  "tennis game": {
+    "player": 0.25
+  },
+  "tennis matches": {
+    "seener": 0.3333333333333333
+  },
+  "tennis racket": {
+    "user": 0.25
   },
   "tent": {
     "pitcher": 0.3333333333333333,
-    "setter up": 0.2
+    "setter up": 0.2,
+    "user": 0.2
+  },
+  "tents": {
+    "user": 0.25
+  },
+  "term papers": {
+    "requirer": 0.2
+  },
+  "test": {
+    "taker": 1
   },
   "tests": {
-    "baser": 0.25
+    "baser": 0.25,
+    "givener": 0.2
+  },
+  "text": {
+    "reader": 1
+  },
+  "text books": {
+    "user": 0.3333333333333333
+  },
+  "textile": {
+    "manufacturer": 1
   },
   "textiles": {
+    "maker": 0.25,
     "producer": 0.3333333333333333
   },
+  "thermic lance tip": {
+    "igniter": 0.25
+  },
   "thing": {
-    "rememberer": 1
+    "rememberer": 1,
+    "user": 0.2
   },
   "things": {
     "buyer": 0.3333333333333333,
     "collector": 0.3333333333333333,
     "hearer": 0.3333333333333333,
+    "launcher": 0.2,
     "maker": 0.3333333333333333,
     "putter": 0.25,
     "seller": 0.25,
@@ -1426,110 +6632,466 @@
     "storer": 0.3333333333333333,
     "washer": 0.3333333333333333
   },
+  "things funny": {
+    "laugher": 0.5
+  },
+  "thirst": {
+    "unquencher": 1
+  },
+  "thoughts": {
+    "directer": 0.2
+  },
+  "thread": {
+    "user": 0.25
+  },
+  "thunder": {
+    "causer": 0.3333333333333333
+  },
+  "ticket office": {
+    "runner": 0.25
+  },
   "tickets": {
     "buyer": 1,
-    "givener": 0.25
+    "givener": 0.25,
+    "seller": 0.25
+  },
+  "tides": {
+    "causer": 0.25
+  },
+  "tilalpia": {
+    "grower": 0.3333333333333333
   },
   "time": {
+    "measurer": 0.3333333333333333,
     "spender": 1
   },
+  "times people": {
+    "misspeller": 0.3333333333333333
+  },
+  "tin cans": {
+    "recycler": 1
+  },
   "tire": {
+    "filler": 0.25,
     "finder": 0.3333333333333333
   },
   "tires": {
-    "filler": 0.3333333333333333
+    "filler": 0.3333333333333333,
+    "maker out": 0.25
+  },
+  "tissue": {
+    "finder": 0.25
   },
   "toast": {
-    "eater": 1
+    "eater": 1,
+    "maker": 0.3333333333333333
   },
   "tobacco": {
+    "chewer": 1,
     "smoker": 1
   },
+  "todd": {
+    "attracter": 0.5
+  },
+  "toes": {
+    "attacher": 0.3333333333333333
+  },
   "tofu": {
+    "maker": 0.3333333333333333,
     "user": 0.3333333333333333
   },
   "toilet seat": {
     "attacher": 0.3333333333333333,
+    "designer": 0.3333333333333333,
     "lifter": 1
   },
+  "toilet seats": {
+    "purchaser separately": 0.5
+  },
+  "token slots": {
+    "user": 0.2
+  },
+  "token turnstile": {
+    "user": 0.2
+  },
+  "tom": {
+    "attracter": 0.3333333333333333
+  },
+  "tomato": {
+    "eater": 1
+  },
   "tomatoes": {
+    "putter on": 0.2,
     "putter somewhere": 0.5
   },
+  "tones": {
+    "tuner": 1
+  },
   "tongue": {
+    "coverer": 0.25,
     "user sexually": 0.5
   },
+  "too many people": {
+    "stresser": 0.25
+  },
   "tools": {
+    "holder": 0.25,
     "storer": 0.3333333333333333,
     "user": 0.25
   },
+  "tools instruments": {
+    "user": 0.3333333333333333
+  },
+  "tooth": {
+    "finder": 0.3333333333333333
+  },
   "tooth decay": {
+    "preventer": 0.25,
     "treater": 0.3333333333333333
   },
+  "toothbrush handle": {
+    "former": 0.3333333333333333
+  },
+  "toothbrush handles": {
+    "maker": 0.3333333333333333
+  },
+  "toothpaste": {
+    "user": 0.25
+  },
+  "top floor": {
+    "locater": 0.3333333333333333
+  },
+  "topical application": {
+    "maker": 0.25
+  },
+  "torn seam": {
+    "stitcher": 0.3333333333333333
+  },
+  "torn tent": {
+    "repairer": 1
+  },
   "tortillas": {
-    "cooker": 0.25
+    "cooker": 0.25,
+    "roller": 0.25
+  },
+  "tortoises": {
+    "relater": 0.3333333333333333
+  },
+  "total": {
+    "producer": 0.25
+  },
+  "tote bag": {
+    "user": 0.25
+  },
+  "tourqouise": {
+    "considerer": 0.25
+  },
+  "towel bar": {
+    "meaner": 0.25
   },
   "towels": {
+    "maker mostly": 0.25,
     "storer": 0.25
   },
+  "tower": {
+    "builder": 0.3333333333333333
+  },
+  "toy ball": {
+    "user": 0.2
+  },
+  "toy balloon": {
+    "filler": 0.3333333333333333
+  },
+  "toys": {
+    "player": 0.2
+  },
+  "tracktors": {
+    "user": 0.3333333333333333
+  },
+  "tractor": {
+    "finder": 0.3333333333333333
+  },
+  "traditional wedding rings": {
+    "maker": 0.2
+  },
+  "traffic": {
+    "maker up": 0.2
+  },
+  "traffic jams": {
+    "causer": 0.2
+  },
   "train seat": {
+    "finder": 0.3333333333333333,
     "locater": 0.3333333333333333
+  },
+  "train tracks": {
+    "user": 0.3333333333333333
+  },
+  "training": {
+    "obtainer": 0.25
+  },
+  "tranport company": {
+    "payer": 0.25
   },
   "trash": {
     "collector": 0.5,
     "collector once": 0.3333333333333333,
+    "picker up": 0.25,
     "caner": 0.25,
     "recycler": 1,
     "storer": 1
+  },
+  "trash cans": {
+    "intender": 0.2
+  },
+  "treated sewage": {
+    "user": 0.3333333333333333
   },
   "trees": {
     "affecter": 0.3333333333333333,
     "blower away": 0.2,
     "coverer": 0.3333333333333333,
+    "cutter down": 0.2,
     "cutter": 0.3333333333333333,
     "maker": 0.25,
     "raiser": 0.3333333333333333
   },
+  "trekkies": {
+    "persecuter": 0.3333333333333333
+  },
+  "triage": {
+    "user": 0.25
+  },
+  "trial": {
+    "holder": 0.3333333333333333
+  },
   "trials": {
-    "conducter": 0.25
+    "conducter": 0.25,
+    "holder": 0.25
+  },
+  "triangle": {
+    "drawer": 0.25
   },
   "trophies": {
+    "speller": 0.2,
     "givener": 0.3333333333333333,
     "keeper": 0.25
   },
   "truck": {
-    "driver": 1
+    "driver": 1,
+    "runner": 0.25
+  },
+  "truck owners": {
+    "concerner": 0.25
+  },
+  "trumpet": {
+    "player": 0.3333333333333333
+  },
+  "trunk": {
+    "finder": 0.25
+  },
+  "truth": {
+    "baser": 0.25
+  },
+  "tub": {
+    "filler": 0.3333333333333333
+  },
+  "tuba": {
+    "user": 0.2
+  },
+  "tulips": {
+    "grower": 0.3333333333333333
   },
   "turkey": {
+    "buyer": 0.3333333333333333,
     "cooker": 0.3333333333333333,
     "seller": 0.3333333333333333
   },
-  "turntable": {
-    "player": 0.3333333333333333
+  "turnstiles": {
+    "locater": 0.3333333333333333
   },
-  "urine": {
+  "turntable": {
+    "player": 0.3333333333333333,
     "user": 0.25
   },
+  "tv": {
+    "watcher": 1
+  },
+  "tv show": {
+    "showner on": 0.25
+  },
+  "tv shows": {
+    "soundstager": 0.3333333333333333
+  },
+  "two cars": {
+    "stopper": 0.3333333333333333
+  },
+  "two liter soda bottles": {
+    "recycler": 1
+  },
+  "typing skills": {
+    "user": 0.3333333333333333
+  },
+  "ubidek": {
+    "reacher": 0.3333333333333333
+  },
+  "umbrellas": {
+    "folder": 1
+  },
+  "unanimous decision": {
+    "announcer": 1
+  },
+  "underware": {
+    "putter on": 0.2
+  },
+  "united kingdom": {
+    " several countrier": 0.25
+  },
+  "universe": {
+    "maker up": 0.25
+  },
+  "unlawful harassment": {
+    "preventer": 1
+  },
+  "unreliable workman": {
+    "taker": 0.3333333333333333
+  },
+  "ural mountains": {
+    "locater": 0.3333333333333333
+  },
+  "urine": {
+    "user": 0.25,
+    "checker": 0.2
+  },
+  "vacuum cleaners": {
+    "user": 0.3333333333333333
+  },
+  "valentines": {
+    "givener on": 0.25
+  },
   "valley": {
+    "locater": 0.3333333333333333,
     "surrounder": 0.3333333333333333
+  },
+  "value": {
+    "treasurer": 1
+  },
+  "vampires": {
+    "considerer": 0.3333333333333333
+  },
+  "van": {
+    "runner": 0.3333333333333333
+  },
+  "vanity case": {
+    "carrier": 0.25
+  },
+  "vatican": {
+    "locater": 0.3333333333333333
   },
   "vegetables": {
     "cooker": 1,
     "eater": 0.3333333333333333,
+    "grower": 0.2,
     "marinater": 1,
     "server at most": 0.25,
     "server": 0.3333333333333333,
     "steamer": 1
   },
+  "vehicle bombs": {
+    "user": 0.3333333333333333
+  },
+  "velvet": {
+    "crusher": 1
+  },
+  "vent": {
+    "finder": 0.3333333333333333
+  },
+  "venus": {
+    "shrouder": 0.2
+  },
+  "very cold weather": {
+    "describer": 0.3333333333333333
+  },
   "very little": {
+    "gainer unless": 0.25,
     "knower": 0.3333333333333333
   },
+  "very tiny things": {
+    "seener": 0.3333333333333333
+  },
+  "vexatious complaint": {
+    "dismisser": 1
+  },
+  "vexatious litigant": {
+    "treater": 0.2
+  },
+  "video": {
+    "watcher": 1
+  },
+  "vinyl": {
+    "seller": 0.25
+  },
+  "violin bows": {
+    "maker": 0.25
+  },
+  "virgo": {
+    "representer": 0.25
+  },
+  "virus": {
+    "user": 0.3333333333333333
+  },
+  "visible light": {
+    "spliter": 0.2
+  },
+  "vitamins": {
+    "healther for good": 0.25
+  },
+  "vodka": {
+    "maker": 0.25
+  },
+  "volcano": {
+    "filler": 0.3333333333333333
+  },
+  "volcanos": {
+    "causer": 0.25
+  },
+  "votes": {
+    "counter": 0.3333333333333333
+  },
+  "voting": {
+    "carrier": 0.25
+  },
+  "waffles": {
+    "eater mostly": 0.25
+  },
+  "wagons": {
+    "drawer": 0.25
+  },
+  "waiters": {
+    "ender": 0.2
+  },
+  "walking": {
+    "requirer": 0.25
+  },
   "wallpaper": {
+    "applier perpendicularly": 0.25,
     "maker": 0.3333333333333333
   },
   "war": {
+    "causer": 0.3333333333333333,
     "describer": 0.3333333333333333
   },
+  "wasabi": {
+    "server": 0.3333333333333333
+  },
+  "wasps": {
+    "relater": 0.2
+  },
+  "waste": {
+    "recycler": 0.3333333333333333
+  },
   "watch": {
+    "decorator": 0.2,
     "finder": 0.3333333333333333,
     "setter": 0.3333333333333333
   },
@@ -1544,41 +7106,131 @@
     "pourer": 1,
     "pusher": 0.3333333333333333,
     "requirer": 0.3333333333333333,
-    "splasher": 1
+    "splasher": 1,
+    "user": 0.2
+  },
+  "waterbeds": {
+    "filler": 0.3333333333333333
+  },
+  "wavelengths": {
+    "measurer": 0.3333333333333333
   },
   "waves": {
-    "former": 0.3333333333333333
+    "former": 0.3333333333333333,
+    "finder": 0.2
   },
   "wax": {
     "boiler": 1,
+    "former": 0.3333333333333333,
     "melter": 1,
     "user": 0.3333333333333333
   },
   "we": {
     "affecter": 0.3333333333333333,
     "borner": 0.3333333333333333,
-    "concerner": 0.3333333333333333
+    "concerner": 0.3333333333333333,
+    "locater": 0.2
   },
   "weapons": {
+    "maker": 0.25,
+    "needer": 0.25
+  },
+  "wearing seatbelt": {
+    "requirer": 0.3333333333333333
+  },
+  "wedding reception": {
+    "capturer": 0.3333333333333333
+  },
+  "week": {
+    "maker up": 0.2
+  },
+  "welfare": {
+    "funder": 0.3333333333333333
+  },
+  "wet things": {
+    "coverer": 0.3333333333333333
+  },
+  "wheatflour": {
+    "maker": 0.3333333333333333
+  },
+  "wheel": {
+    "finder": 0.3333333333333333
+  },
+  "white candles": {
+    "user": 0.3333333333333333
+  },
+  "white house": {
+    "locater": 0.25
+  },
+  "white snow": {
+    "eater": 1
+  },
+  "whole": {
+    "maker up": 0.25
+  },
+  "wig": {
+    "buyer": 0.25
+  },
+  "wild animal fur": {
+    "maker": 0.3333333333333333
+  },
+  "wildfires": {
+    "starter": 0.25
+  },
+  "wills": {
     "maker": 0.25
+  },
+  "winchester supreme ammuntion": {
+    "maker": 0.3333333333333333
   },
   "wind": {
     "blower": 0.3333333333333333,
+    "causer": 0.2,
     "converter": 0.3333333333333333,
     "feeler": 0.25
   },
+  "wind instrument": {
+    "player": 0.2
+  },
+  "wind speed": {
+    "measurer": 0.3333333333333333
+  },
   "window": {
-    "closer": 1
+    "closer": 1,
+    "finder": 0.3333333333333333
+  },
+  "window cleaner": {
+    "seller": 0.25
+  },
+  "window curtain": {
+    "drawer": 0.3333333333333333
+  },
+  "windows": {
+    "setter": 0.2
+  },
+  "windows 2000": {
+    "baser": 0.25
   },
   "wine": {
     "ager": 0.3333333333333333,
     "creater": 0.25,
+    "maker": 0.2,
     "pourer": 0.3333333333333333,
     "server": 0.25,
     "storer": 0.3333333333333333
   },
   "wines": {
-    "blender": 1
+    "blender": 1,
+    "maker": 0.3333333333333333
+  },
+  "winve": {
+    "server": 0.25
+  },
+  "wire baskets": {
+    "user": 0.25
+  },
+  "witches": {
+    "believer": 0.25
   },
   "wood": {
     "burner": 0.25,
@@ -1589,13 +7241,37 @@
     "obtainer": 0.3333333333333333,
     "painter": 1,
     "planer": 1,
-    "stainer": 1
+    "stainer": 1,
+    "user": 0.2
+  },
+  "wood pulp": {
+    "maker": 0.3333333333333333
+  },
+  "wooden siding": {
+    "user": 0.3333333333333333
+  },
+  "woods": {
+    "user": 0.5
   },
   "woodwind instrument": {
-    "blower": 0.5
+    "blower": 0.5,
+    "player": 0.25
+  },
+  "woodwinds": {
+    "constructer": 0.3333333333333333
+  },
+  "wool": {
+    "spinner": 0.3333333333333333
   },
   "word": {
+    "finder": 0.3333333333333333,
     "misspeller": 0.5
+  },
+  "word bowing": {
+    "user differently": 0.2
+  },
+  "word pisces": {
+    "deriver": 0.2
   },
   "words": {
     "former": 0.3333333333333333,
@@ -1607,26 +7283,76 @@
     "printer": 1,
     "putter together": 0.2,
     "speaker": 1,
+    "user": 0.2,
     "writer": 0.3333333333333333
+  },
+  "work": {
+    "finder": 0.3333333333333333
   },
   "workaholics": {
     "exhilarater": 0.3333333333333333,
+    "dominater": 0.25,
     "suiter": 0.25
+  },
+  "worker": {
+    "firer": 1
+  },
+  "world's money": {
+    "keeper": 0.3333333333333333
   },
   "world": {
     "container": 0.3333333333333333,
     "coverer": 0.2,
     "divider": 0.2,
+    "filler": 0.2,
     "maker up": 0.2,
     "messer up": 0.5,
     "overpopulater": 1,
     "populater": 0.3333333333333333,
     "representer": 0.3333333333333333
   },
+  "worms": {
+    "finder": 0.2
+  },
+  "wounds": {
+    "dresser": 1
+  },
+  "wrenches": {
+    "user": 0.3333333333333333
+  },
   "xylophone": {
+    "player": 0.2,
     "striker": 0.3333333333333333
   },
+  "xylophones": {
+    "maker out": 0.25
+  },
   "year": {
-    "divider": 0.25
+    "divider": 0.25,
+    "maker up": 0.2
+  },
+  "yoga": {
+    "baser": 0.25
+  },
+  "yogurt": {
+    "purchaser": 0.25
+  },
+  "young cat": {
+    "knower": 0.3333333333333333
+  },
+  "young dog": {
+    "knower": 0.3333333333333333
+  },
+  "zimbabwe": {
+    "populater": 0.3333333333333333
+  },
+  "zone": {
+    "writer": 0.2
+  },
+  "zoo animals": {
+    "feeder": 0.3333333333333333
+  },
+  "zoom lens": {
+    "finder": 0.3333333333333333
   }
 }
