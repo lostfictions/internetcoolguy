@@ -5464,9 +5464,6 @@
   "restaurant": {
     "considerer": 0.25
   },
-  "restaurant bill": {
-    "writer": 0.3333333333333333
-  },
   "restaurants": {
     "closer": 1,
     "locater": 0.3333333333333333
