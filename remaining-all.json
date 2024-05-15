@@ -2131,7 +2131,6 @@
     "propagater": 0.2
   },
   "electrons": {
-    "affecter": 0.25,
     "deflecter": 0.25
   },
   "ellis island": {
