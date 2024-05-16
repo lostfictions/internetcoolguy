@@ -4872,8 +4872,7 @@
     "nicknamer a'willy": 0.5
   },
   "penny": {
-    "finder": 0.3333333333333333,
-    "maker out": 0.25
+    "finder": 0.3333333333333333
   },
   "pens": {
     "holder": 0.3333333333333333,
