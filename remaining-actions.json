@@ -2449,9 +2449,6 @@
     "seller": 0.25,
     "storer": 0.3333333333333333
   },
-  "food colourings": {
-    "maker": 0.25
-  },
   "food recipes": {
     "recorder": 0.25
   },
