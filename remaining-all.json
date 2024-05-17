@@ -4155,9 +4155,6 @@
   "monarchies": {
     "ruller": 0.2
   },
-  "monetary expenses": {
-    "accounter": 0.2
-  },
   "money": {
     "collector": 0.3333333333333333,
     "earner": 0.2,
