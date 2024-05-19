@@ -277,9 +277,6 @@
     "speaker": 0.25,
     "writer": 0.2
   },
-  "architecture": {
-    "engraver": 0.25
-  },
   "area": {
     "liver": 0.5
   },
