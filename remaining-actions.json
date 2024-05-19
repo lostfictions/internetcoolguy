@@ -2560,12 +2560,6 @@
   "game baseball": {
     "player": 0.25
   },
-  "games": {
-    "divider": 0.3333333333333333,
-    "player": 0.2,
-    "player alone": 0.5,
-    "watcher": 0.3333333333333333
-  },
   "gaoline": {
     "maker": 0.25
   },
