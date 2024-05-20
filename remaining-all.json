@@ -6374,8 +6374,7 @@
   },
   "television": {
     "divider": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "user": 0.25
+    "finder": 0.3333333333333333
   },
   "television programs": {
     "maker": 0.25

@@ -6333,11 +6333,6 @@
   "telephones": {
     "operator": 0.2
   },
-  "television": {
-    "divider": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "user": 0.25
-  },
   "television programs": {
     "maker": 0.25
   },
