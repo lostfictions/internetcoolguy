@@ -119,12 +119,6 @@
   "alcholoic drinks": {
     "user": 0.3333333333333333
   },
-  "alcohol": {
-    "buyer": 0.3333333333333333,
-    "igniter easily": 0.5,
-    "server": 0.3333333333333333,
-    "storer": 0.25
-  },
   "alcoholic beverages": {
     "server": 0.3333333333333333
   },
