@@ -2627,10 +2627,6 @@
   "glue": {
     "maker": 0.2
   },
-  "glue stick": {
-    "holder": 0.25,
-    "user": 0.25
-  },
   "glycerol": {
     "deriver": 0.3333333333333333
   },
