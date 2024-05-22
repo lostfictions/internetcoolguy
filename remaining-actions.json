@@ -3511,9 +3511,6 @@
   "liquor": {
     "storer": 0.25
   },
-  "list": {
-    "maker up": 0.25
-  },
   "lists": {
     "generator": 1
   },
