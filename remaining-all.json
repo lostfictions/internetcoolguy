@@ -2568,9 +2568,6 @@
   "game": {
     "player": 0.3333333333333333
   },
-  "game baseball": {
-    "player": 0.25
-  },
   "games": {
     "divider": 0.3333333333333333,
     "player alone": 0.5,
