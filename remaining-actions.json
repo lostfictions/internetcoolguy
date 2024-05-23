@@ -5827,10 +5827,6 @@
   "somthing": {
     "raiser": 0.25
   },
-  "song": {
-    "performer": 0.25,
-    "writer": 0.3333333333333333
-  },
   "songs": {
     "meaner": 0.25,
     "player": 0.2
