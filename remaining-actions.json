@@ -2687,9 +2687,6 @@
   "graveyards": {
     "manager": 0.25
   },
-  "gravitational attraction": {
-    "thinker": 0.25
-  },
   "gravity": {
     "feeler": 0.3333333333333333
   },
