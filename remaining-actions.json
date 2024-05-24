@@ -1618,10 +1618,6 @@
   "court room jury": {
     "maker up": 0.25
   },
-  "cow": {
-    "eater": 1,
-    "finder": 0.3333333333333333
-  },
   "cowboy": {
     "finder": 0.3333333333333333
   },
