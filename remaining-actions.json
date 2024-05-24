@@ -1599,12 +1599,6 @@
   "counters": {
     "user": 0.25
   },
-  "countries": {
-    "accuser": 0.25,
-    "divider": 0.3333333333333333,
-    "maker up": 0.25,
-    "ruller": 0.3333333333333333
-  },
   "country code top level domains": {
     "administerer": 0.25
   },
