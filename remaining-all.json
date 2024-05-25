@@ -3474,9 +3474,6 @@
     "requirer": 0.25,
     "user": 0.3333333333333333
   },
-  "light bulbs": {
-    "maker mostly": 0.25
-  },
   "light energy": {
     "converter": 0.25
   },
