@@ -2397,9 +2397,6 @@
     "carpeter": 1,
     "coverer": 0.3333333333333333
   },
-  "flossing": {
-    "recommender": 1
-  },
   "flower": {
     "describer": 0.25,
     "picker": 1
