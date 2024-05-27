@@ -6141,11 +6141,6 @@
   "taurus": {
     "representer": 0.3333333333333333
   },
-  "tax": {
-    "charger": 0.25,
-    "payer": 0.3333333333333333,
-    "riser proportionally": 0.25
-  },
   "taxes": {
     "calculator": 0.25,
     "payer": 0.25,
