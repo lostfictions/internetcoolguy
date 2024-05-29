@@ -1484,10 +1484,6 @@
   "contraceptive device": {
     "pharmacyer at most": 0.25
   },
-  "contract": {
-    "rejecter": 1,
-    "writer": 0.3333333333333333
-  },
   "contracts": {
     "evaluater": 1
   },
