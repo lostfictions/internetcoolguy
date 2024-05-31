@@ -2263,9 +2263,6 @@
   "fire": {
     "needer": 0.2
   },
-  "fire ants": {
-    "considerer": 0.5
-  },
   "fire hydrant": {
     "user": 0.25
   },
