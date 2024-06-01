@@ -2528,9 +2528,6 @@
   "glucose": {
     "deriver": 0.3333333333333333
   },
-  "glue": {
-    "maker": 0.2
-  },
   "glycerol": {
     "deriver": 0.3333333333333333
   },
