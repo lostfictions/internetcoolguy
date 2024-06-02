@@ -5440,10 +5440,6 @@
   "siding": {
     "finder": 0.3333333333333333
   },
-  "sight": {
-    "considerer": 0.25,
-    "seener": 1
-  },
   "sign language": {
     "user": 0.2
   },
