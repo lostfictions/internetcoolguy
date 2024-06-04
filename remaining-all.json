@@ -3006,9 +3006,6 @@
   "indoor object": {
     "protecter": 0.3333333333333333
   },
-  "indy 500": {
-    "locater": 0.25
-  },
   "infection": {
     "causer": 0.2
   },
