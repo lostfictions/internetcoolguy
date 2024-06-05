@@ -810,9 +810,6 @@
   "bus": {
     "driver": 1
   },
-  "bus pass": {
-    "needer": 0.2
-  },
   "businesses": {
     "supposer": 0.25
   },
