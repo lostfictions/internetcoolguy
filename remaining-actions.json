@@ -4545,9 +4545,6 @@
   "perennials": {
     "user": 0.25
   },
-  "permits": {
-    "requirer": 0.2
-  },
   "person's attention": {
     "distracter": 1
   },
