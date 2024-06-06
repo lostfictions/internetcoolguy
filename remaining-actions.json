@@ -6604,19 +6604,6 @@
   "word pisces": {
     "deriver": 0.2
   },
-  "words": {
-    "former": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "interpreter": 0.25,
-    "maker": 0.2,
-    "maker up": 0.25,
-    "misspeller": 1,
-    "printer": 1,
-    "putter together": 0.2,
-    "speaker": 1,
-    "user": 0.2,
-    "writer": 0.3333333333333333
-  },
   "work": {
     "finder": 0.3333333333333333
   },
