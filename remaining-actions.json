@@ -813,12 +813,6 @@
   "businesses": {
     "supposer": 0.25
   },
-  "butter": {
-    "eater": 0.3333333333333333,
-    "maker": 0.25,
-    "server": 0.3333333333333333,
-    "user": 0.2
-  },
   "butterflies": {
     "attracter": 0.3333333333333333
   },
