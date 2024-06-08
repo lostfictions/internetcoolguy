@@ -2549,7 +2549,6 @@
   },
   "goods": {
     "manufacturer": 0.5,
-    "payer": 0.2,
     "recycler": 1,
     "seller": 0.25,
     "storer": 0.25
