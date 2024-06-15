@@ -83,9 +83,6 @@
   "air ticket": {
     "exchanger": 0.2
   },
-  "airline seat": {
-    "installer": 0.3333333333333333
-  },
   "airplane seat": {
     "user": 0.25
   },
