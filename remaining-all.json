@@ -4658,9 +4658,6 @@
   "policy": {
     "canceller": 1
   },
-  "political borders": {
-    "establisher": 0.3333333333333333
-  },
   "political leaders": {
     "chooser": 0.3333333333333333
   },
