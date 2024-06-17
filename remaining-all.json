@@ -2565,9 +2565,6 @@
   "hand luggage": {
     "storer": 0.25
   },
-  "handguns": {
-    "issuer": 0.3333333333333333
-  },
   "happiness": {
     "causer": 0.25
   },
