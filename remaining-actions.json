@@ -3564,9 +3564,6 @@
   "mind": {
     "influencer": 0.3333333333333333
   },
-  "minerals": {
-    "extracter": 0.3333333333333333
-  },
   "mines": {
     "closer": 1
   },
