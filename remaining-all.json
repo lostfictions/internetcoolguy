@@ -718,9 +718,6 @@
   "breakfast": {
     "eater": 0.3333333333333333
   },
-  "brick": {
-    "finder": 0.3333333333333333
-  },
   "bridge": {
     "supporter": 0.25
   },
