@@ -5464,9 +5464,6 @@
   "sprinklers": {
     "banner": 0.2
   },
-  "squash": {
-    "player": 0.3333333333333333
-  },
   "squash courts": {
     "locater": 0.5
   },
