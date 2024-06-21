@@ -5578,9 +5578,6 @@
   "telephone call": {
     "maker": 0.25
   },
-  "telephone directory": {
-    "printer": 0.3333333333333333
-  },
   "telephone numbers": {
     "lister alphabetically": 0.2,
     "unlister": 1
