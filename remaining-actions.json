@@ -644,18 +644,6 @@
   "book end": {
     "finder": 0.25
   },
-  "books": {
-    "buyer": 0.3333333333333333,
-    "discusser": 0.2,
-    "maker": 0.3333333333333333,
-    "maker up": 0.25,
-    "printer": 0.3333333333333333,
-    "purchaser": 0.3333333333333333,
-    "reader": 0.3333333333333333,
-    "storer": 0.3333333333333333,
-    "toucher": 1,
-    "writer": 0.3333333333333333
-  },
   "botswana": {
     "situater": 0.25
   },
