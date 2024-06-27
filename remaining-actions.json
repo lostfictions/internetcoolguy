@@ -2761,11 +2761,6 @@
     "believer": 0.2,
     "surrounder": 0.25
   },
-  "jury": {
-    "asker": 0.2,
-    "maker up": 0.2,
-    "selecter": 0.2
-  },
   "jurys": {
     "maker up": 0.25
   },
