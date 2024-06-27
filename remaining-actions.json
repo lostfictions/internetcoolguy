@@ -2486,9 +2486,6 @@
   "home": {
     "returner": 0.5
   },
-  "home owners": {
-    "concerner": 0.25
-  },
   "honey": {
     "maker": 0.2,
     "producer": 0.25
