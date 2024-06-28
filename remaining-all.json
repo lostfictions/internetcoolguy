@@ -2003,9 +2003,6 @@
   "fact electricity powers computers": {
     "illustrater": 0.25
   },
-  "faithless": {
-    "ruiner": 0.3333333333333333
-  },
   "falling": {
     "causer": 0.25
   },
