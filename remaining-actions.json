@@ -4987,9 +4987,6 @@
   "snowball": {
     "maker": 0.25
   },
-  "snowfall": {
-    "measurer": 0.2
-  },
   "snowflake": {
     "former": 0.3333333333333333
   },
