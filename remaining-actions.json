@@ -3925,10 +3925,6 @@
   "page": {
     "printer": 0.3333333333333333
   },
-  "pain": {
-    "experiencer": 0.2,
-    "senser": 0.3333333333333333
-  },
   "paint": {
     "applier": 0.25,
     "describer": 0.3333333333333333,
