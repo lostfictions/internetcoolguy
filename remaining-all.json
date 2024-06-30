@@ -4460,9 +4460,6 @@
   "postage stamp": {
     "requirer": 0.25
   },
-  "postage stamps": {
-    "collector": 0.2
-  },
   "pot": {
     "maker": 0.3333333333333333
   },
