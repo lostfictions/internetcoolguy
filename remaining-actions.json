@@ -2959,9 +2959,6 @@
   "liquor": {
     "storer": 0.25
   },
-  "lists": {
-    "generator": 1
-  },
   "literary prizes": {
     "judger": 0.3333333333333333
   },
