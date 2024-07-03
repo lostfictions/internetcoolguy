@@ -2380,9 +2380,6 @@
   "hiking": {
     "considerer": 0.5
   },
-  "hill": {
-    "user": 0.5
-  },
   "history": {
     "writer": 0.2
   },
