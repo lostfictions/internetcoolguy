@@ -5506,9 +5506,6 @@
     "expresser": 0.3333333333333333,
     "measurer": 0.2
   },
-  "tennis": {
-    "player": 0.2
-  },
   "tennis ball": {
     "coverer": 0.2,
     "hitter": 0.25
