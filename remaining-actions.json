@@ -3968,35 +3968,6 @@
   "people's lifespan": {
     "extender": 0.25
   },
-  "people": {
-    "attracter": 0.25,
-    "baptizer": 0.3333333333333333,
-    "borner": 0.3333333333333333,
-    "burier": 0.2,
-    "concerner": 0.25,
-    "connecter": 0.25,
-    "cremater": 1,
-    "disabler": 1,
-    "driver": 0.2,
-    "educater": 1,
-    "watcher": 0.25,
-    "executer": 0.25,
-    "exterminater": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "hurter": 0.3333333333333333,
-    "inspirer": 0.2,
-    "judger": 0.3333333333333333,
-    "killer": 0.25,
-    "murderer": 1,
-    "payer": 0.25,
-    "persuader more often": 0.2,
-    "pleaser": 0.25,
-    "saver": 0.3333333333333333,
-    "walker": 0.2,
-    "sender": 0.2,
-    "stimulater": 0.25,
-    "stinger": 0.3333333333333333
-  },
   "people having high income": {
     "taxer heavily": 0.25
   },
