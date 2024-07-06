@@ -5171,9 +5171,6 @@
   "tap": {
     "finder": 0.2
   },
-  "tape dispenser": {
-    "finder": 0.3333333333333333
-  },
   "tapestries": {
     "weaver": 1
   },
