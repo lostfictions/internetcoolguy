@@ -2288,9 +2288,6 @@
     "maker": 0.2,
     "seller": 0.2
   },
-  "hand gun": {
-    "firer": 0.25
-  },
   "hand luggage": {
     "storer": 0.25
   },
