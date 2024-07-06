@@ -5270,9 +5270,6 @@
   "sticky tape": {
     "peeller off": 0.5
   },
-  "stocks": {
-    "issuer": 1
-  },
   "stone": {
     "crusher": 1,
     "maker": 0.25,
