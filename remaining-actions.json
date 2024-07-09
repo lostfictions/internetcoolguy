@@ -5219,9 +5219,6 @@
     "givener": 0.25,
     "seller": 0.25
   },
-  "tilalpia": {
-    "grower": 0.3333333333333333
-  },
   "time": {
     "measurer": 0.3333333333333333,
     "spender": 1
