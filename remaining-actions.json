@@ -2241,9 +2241,6 @@
     "acquirer": 0.2,
     "eater": 0.2
   },
-  "heart disease": {
-    "causer": 0.3333333333333333
-  },
   "heat": {
     "generator": 0.3333333333333333,
     "measurer": 0.3333333333333333,
