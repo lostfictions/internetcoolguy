@@ -4682,9 +4682,6 @@
   "soil": {
     "needer": 0.2
   },
-  "soldiers": {
-    "teacher": 0.25
-  },
   "solid things": {
     "counter": 1
   },
