@@ -206,10 +206,6 @@
   "aquarius": {
     "representer": 0.25
   },
-  "arabic": {
-    "speaker": 0.25,
-    "writer": 0.2
-  },
   "area": {
     "liver": 0.5
   },
