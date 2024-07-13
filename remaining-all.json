@@ -860,9 +860,6 @@
     "roller": 0.5,
     "seller": 0.25
   },
-  "carrot": {
-    "eater": 1
-  },
   "carrots": {
     "cooker": 1
   },
