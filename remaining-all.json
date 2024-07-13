@@ -2971,9 +2971,6 @@
     "pourer": 1,
     "spiller": 1
   },
-  "liquor": {
-    "storer": 0.25
-  },
   "literary prizes": {
     "judger": 0.3333333333333333
   },
