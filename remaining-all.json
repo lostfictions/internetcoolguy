@@ -2739,9 +2739,6 @@
     "asker": 0.2,
     "selecter": 0.2
   },
-  "jurys": {
-    "maker up": 0.25
-  },
   "justice": {
     "server": 0.2
   },
