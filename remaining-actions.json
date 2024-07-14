@@ -883,9 +883,6 @@
   "certain drinks": {
     "server": 0.25
   },
-  "chair": {
-    "fixer": 1
-  },
   "chairs": {
     "coverer": 0.3333333333333333,
     "maker out": 0.25,
