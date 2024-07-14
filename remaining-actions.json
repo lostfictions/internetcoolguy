@@ -980,10 +980,6 @@
     "producer": 0.25,
     "seller": 0.3333333333333333
   },
-  "cigaretts": {
-    "roller": 0.3333333333333333,
-    "smoker": 1
-  },
   "circus": {
     "holder somewhere": 0.5
   },
