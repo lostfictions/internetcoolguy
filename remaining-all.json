@@ -4472,9 +4472,6 @@
   "responsible people": {
     "depender": 0.2
   },
-  "restaurant": {
-    "considerer": 0.25
-  },
   "restaurants": {
     "closer": 1
   },
