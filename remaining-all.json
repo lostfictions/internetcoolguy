@@ -1641,7 +1641,6 @@
   },
   "door": {
     "closer": 1,
-    "finder": 0.3333333333333333,
     "locker": 1
   },
   "doormat": {
