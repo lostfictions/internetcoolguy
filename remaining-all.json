@@ -3262,9 +3262,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "memories": {
-    "storer": 0.3333333333333333
-  },
   "mental skills": {
     "developer": 1
   },
