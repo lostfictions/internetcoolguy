@@ -1170,9 +1170,6 @@
   "connection": {
     "loser": 1
   },
-  "container": {
-    "maker out": 0.25
-  },
   "containers": {
     "maker": 0.25,
     "maker out": 0.25,
