@@ -37,9 +37,6 @@
   "acoustic ceiling": {
     "designer": 0.25
   },
-  "action": {
-    "performer": 1
-  },
   "actors": {
     "payer": 0.3333333333333333
   },
