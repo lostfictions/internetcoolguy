@@ -736,14 +736,6 @@
   "capitalist society": {
     "maker up": 0.25
   },
-  "car": {
-    "buyer": 0.25,
-    "driver": 0.3333333333333333,
-    "meaner": 0.25,
-    "replacer": 0.25,
-    "seller": 0.25,
-    "storer": 0.3333333333333333
-  },
   "cardboard": {
     "maker": 0.3333333333333333,
     "recycler": 1
