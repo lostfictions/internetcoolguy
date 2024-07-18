@@ -4368,10 +4368,6 @@
   "shampo": {
     "user": 0.3333333333333333
   },
-  "shampoo": {
-    "purchaser": 0.25,
-    "user": 0.25
-  },
   "shark": {
     "eater": 1
   },
