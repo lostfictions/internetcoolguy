@@ -2277,9 +2277,6 @@
   "human's physical condition": {
     "improver": 0.3333333333333333
   },
-  "human blockade": {
-    "maker up": 0.2
-  },
   "human body": {
     "builder": 0.2,
     "coverer": 0.3333333333333333
