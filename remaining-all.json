@@ -5361,9 +5361,6 @@
   "torn seam": {
     "stitcher": 0.3333333333333333
   },
-  "torn tent": {
-    "repairer": 1
-  },
   "tortillas": {
     "cooker": 0.25,
     "roller": 0.25
