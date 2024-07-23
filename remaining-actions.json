@@ -4448,14 +4448,6 @@
   "soul": {
     "considerer": 0.3333333333333333
   },
-  "sound": {
-    "carrier": 0.3333333333333333,
-    "causer": 0.2,
-    "generator": 0.25,
-    "hearer": 1,
-    "measurer": 0.3333333333333333,
-    "recorder": 0.25
-  },
   "sound stage": {
     "elevater": 1
   },
