@@ -5367,7 +5367,6 @@
   "trash": {
     "collector": 0.5,
     "collector once": 0.3333333333333333,
-    "picker up": 0.25,
     "caner": 0.25,
     "recycler": 1,
     "storer": 1
