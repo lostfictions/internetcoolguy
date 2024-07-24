@@ -684,9 +684,6 @@
     "firer": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "buoy": {
-    "anchorer": 1
-  },
   "bureaucracy": {
     "knower": 0.25
   },
