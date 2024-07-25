@@ -5112,10 +5112,6 @@
   "walking": {
     "requirer": 0.25
   },
-  "wallpaper": {
-    "applier perpendicularly": 0.25,
-    "maker": 0.3333333333333333
-  },
   "war": {
     "causer": 0.3333333333333333,
     "describer": 0.3333333333333333
