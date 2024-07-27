@@ -5069,10 +5069,6 @@
   "walking": {
     "requirer": 0.25
   },
-  "war": {
-    "causer": 0.3333333333333333,
-    "describer": 0.3333333333333333
-  },
   "wasps": {
     "relater": 0.2
   },
