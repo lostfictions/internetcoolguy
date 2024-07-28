@@ -4988,10 +4988,6 @@
   "very cold weather": {
     "describer": 0.3333333333333333
   },
-  "very little": {
-    "gainer unless": 0.25,
-    "knower": 0.3333333333333333
-  },
   "very tiny things": {
     "seener": 0.3333333333333333
   },
