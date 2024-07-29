@@ -3947,8 +3947,7 @@
   },
   "plane ticket": {
     "printer": 0.3333333333333333,
-    "purchaser": 0.3333333333333333,
-    "requirer": 0.25
+    "purchaser": 0.3333333333333333
   },
   "planet earth": {
     "matterer": 0.3333333333333333,

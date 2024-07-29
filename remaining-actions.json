@@ -3608,11 +3608,6 @@
   "plaintains": {
     "considerer": 0.5
   },
-  "plane ticket": {
-    "printer": 0.3333333333333333,
-    "purchaser": 0.3333333333333333,
-    "requirer": 0.25
-  },
   "planet earth": {
     "matterer": 0.3333333333333333,
     "maker mostly": 0.25
