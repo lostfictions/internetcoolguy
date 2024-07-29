@@ -4622,9 +4622,6 @@
   "slang": {
     "avoider": 0.25
   },
-  "slave": {
-    "forcer": 0.2
-  },
   "sleep patterns": {
     "learner": 1
   },
