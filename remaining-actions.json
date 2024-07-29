@@ -266,9 +266,6 @@
   "backgammon": {
     "player": 0.25
   },
-  "backyard": {
-    "surrounder": 0.3333333333333333
-  },
   "bacteria": {
     "killer": 1
   },
