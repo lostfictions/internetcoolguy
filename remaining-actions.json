@@ -2424,9 +2424,6 @@
   "landing": {
     "locater": 0.2
   },
-  "landmark": {
-    "finder": 0.3333333333333333
-  },
   "lantern": {
     "user": 0.5
   },

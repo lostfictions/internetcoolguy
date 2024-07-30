@@ -2664,9 +2664,6 @@
   "landing": {
     "locater": 0.2
   },
-  "landmark": {
-    "finder": 0.3333333333333333
-  },
   "language": {
     "expresser": 0.25,
     "user": 0.3333333333333333
