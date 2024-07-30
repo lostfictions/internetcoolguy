@@ -4609,9 +4609,6 @@
     "lister alphabetically": 0.2,
     "unlister": 1
   },
-  "telephones": {
-    "operator": 0.2
-  },
   "television programs": {
     "maker": 0.25
   },
