@@ -4270,10 +4270,6 @@
   "somthing": {
     "raiser": 0.25
   },
-  "songs": {
-    "meaner": 0.25,
-    "player": 0.2
-  },
   "sonnets": {
     "writer": 0.25
   },
