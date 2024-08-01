@@ -4661,9 +4661,6 @@
     "measurer": 0.3333333333333333,
     "recorder": 0.25
   },
-  "sound stage": {
-    "elevater": 1
-  },
   "sounds": {
     "causer": 0.2,
     "producer": 0.3333333333333333
