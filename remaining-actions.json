@@ -4529,9 +4529,6 @@
   "tar": {
     "container": 0.3333333333333333
   },
-  "taurus": {
-    "representer": 0.3333333333333333
-  },
   "teacher": {
     "requirer": 0.2
   },
