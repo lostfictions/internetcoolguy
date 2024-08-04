@@ -2238,9 +2238,6 @@
   "hiking": {
     "considerer": 0.5
   },
-  "history": {
-    "writer": 0.2
-  },
   "hives": {
     "causer": 0.3333333333333333
   },
