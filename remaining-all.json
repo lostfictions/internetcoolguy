@@ -2241,9 +2241,6 @@
   "hobart": {
     "surrounder": 0.25
   },
-  "hockey": {
-    "player": 0.2
-  },
   "hockey puck": {
     "maker out": 0.25,
     "user": 0.2
