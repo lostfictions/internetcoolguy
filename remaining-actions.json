@@ -1705,10 +1705,6 @@
     "carpeter": 1,
     "coverer": 0.3333333333333333
   },
-  "flower": {
-    "describer": 0.25,
-    "picker": 1
-  },
   "flowers": {
     "buyer": 0.3333333333333333,
     "grower": 0.5,
