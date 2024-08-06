@@ -1848,9 +1848,6 @@
     "finder": 0.5,
     "marinater": 1
   },
-  "fish hook": {
-    "attacher": 0.25
-  },
   "fishing": {
     "streamer": 0.3333333333333333
   },
