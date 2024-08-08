@@ -1025,9 +1025,6 @@
     "washer": 0.25,
     "worker": 0.3333333333333333
   },
-  "clothes dryers": {
-    "seller": 0.3333333333333333
-  },
   "clothing": {
     "hanger": 0.25,
     "maker": 0.3333333333333333,
