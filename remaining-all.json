@@ -4135,9 +4135,6 @@
   "rock music": {
     "listener": 0.25
   },
-  "rockets": {
-    "launcher": 0.25
-  },
   "rocks": {
     "cracker": 1,
     "finder": 0.3333333333333333,
