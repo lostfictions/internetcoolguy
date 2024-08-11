@@ -1999,10 +1999,6 @@
   "hope picture": {
     "ender": 0.5
   },
-  "horse": {
-    "finder": 0.3333333333333333,
-    "rider": 1
-  },
   "horses": {
     "breeder": 0.3333333333333333,
     "putter": 0.2,
