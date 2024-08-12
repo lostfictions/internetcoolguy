@@ -4143,8 +4143,7 @@
     "player": 0.3333333333333333
   },
   "saddle": {
-    "finder": 0.3333333333333333,
-    "needer": 0.2
+    "finder": 0.3333333333333333
   },
   "safety measures": {
     "taker": 0.25
