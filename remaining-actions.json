@@ -1120,12 +1120,6 @@
   "criminal defendant": {
     "finder": 0.2
   },
-  "criminals": {
-    "bringer": 0.2,
-    "holder": 0.3333333333333333,
-    "judger": 0.3333333333333333,
-    "sender": 0.2
-  },
   "crops": {
     "grower": 0.3333333333333333,
     "faller": 0.3333333333333333
