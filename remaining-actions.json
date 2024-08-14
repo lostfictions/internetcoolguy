@@ -1546,9 +1546,6 @@
   "fee": {
     "charger": 0.25
   },
-  "feet": {
-    "requirer": 0.25
-  },
   "ferrous metals": {
     "attracter": 0.3333333333333333
   },
