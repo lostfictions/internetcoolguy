@@ -78,9 +78,6 @@
   "alarm clocks": {
     "setter": 0.2
   },
-  "alchohol": {
-    "producer": 0.3333333333333333
-  },
   "alcohol": {
     "buyer": 0.3333333333333333,
     "igniter easily": 0.5,
