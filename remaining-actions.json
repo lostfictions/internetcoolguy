@@ -4195,10 +4195,6 @@
   "telephone call": {
     "maker": 0.25
   },
-  "telephone numbers": {
-    "lister alphabetically": 0.2,
-    "unlister": 1
-  },
   "television programs": {
     "maker": 0.25
   },
