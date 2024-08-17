@@ -1471,10 +1471,6 @@
   "eyes": {
     "locater": 0.3333333333333333
   },
-  "fabric": {
-    "maker up": 0.25,
-    "seller": 0.3333333333333333
-  },
   "face": {
     "definer": 0.25,
     "toucher": 1
