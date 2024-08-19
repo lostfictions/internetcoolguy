@@ -1358,9 +1358,6 @@
   "dirty dishes": {
     "generator": 0.3333333333333333
   },
-  "disease": {
-    "spreader": 0.25
-  },
   "diseases": {
     "causer": 0.3333333333333333
   },
