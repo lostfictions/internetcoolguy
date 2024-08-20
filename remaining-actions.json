@@ -3900,9 +3900,6 @@
   "squash courts": {
     "locater": 0.5
   },
-  "stable": {
-    "finder": 0.3333333333333333
-  },
   "stage curtain": {
     "user": 0.3333333333333333
   },
