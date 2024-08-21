@@ -1393,8 +1393,7 @@
     "maker entirely": 0.25
   },
   "dolphins": {
-    "trainer": 1,
-    "fisher": 0.25
+    "trainer": 1
   },
   "domestic cattle": {
     "descender": 0.3333333333333333
