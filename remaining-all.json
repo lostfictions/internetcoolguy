@@ -2761,9 +2761,6 @@
   "many sounds": {
     "maker": 0.2
   },
-  "many structures": {
-    "measurer": 0.25
-  },
   "many things": {
     "maker": 0.25,
     "relater": 0.25
