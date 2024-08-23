@@ -1442,8 +1442,7 @@
     "user": 0.25
   },
   "duck": {
-    "cooker": 1,
-    "eater": 1
+    "cooker": 1
   },
   "duffel bag": {
     "user": 0.3333333333333333
