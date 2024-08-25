@@ -4448,9 +4448,6 @@
   "subject person": {
     "learner": 0.25
   },
-  "submarines": {
-    "builder": 0.2
-  },
   "subway map": {
     "user": 0.3333333333333333
   },
