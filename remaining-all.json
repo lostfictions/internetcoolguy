@@ -3363,9 +3363,6 @@
   "paper page": {
     "writer": 0.5
   },
-  "paper trays": {
-    "stacker": 1
-  },
   "papers": {
     "reader": 1,
     "recycler": 1,
