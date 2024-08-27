@@ -1648,9 +1648,6 @@
   "fiocchi ammunition": {
     "maker": 0.3333333333333333
   },
-  "fire": {
-    "needer": 0.2
-  },
   "fire hydrant": {
     "user": 0.25
   },
