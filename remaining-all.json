@@ -4923,8 +4923,7 @@
     "pourer": 1,
     "pusher": 0.3333333333333333,
     "requirer": 0.3333333333333333,
-    "splasher": 1,
-    "user": 0.2
+    "splasher": 1
   },
   "waterbeds": {
     "filler": 0.3333333333333333
