@@ -2397,9 +2397,6 @@
   "medical specialty": {
     "concerner": 0.2
   },
-  "medication": {
-    "introducer intravenously": 0.5
-  },
   "mental skills": {
     "developer": 1
   },

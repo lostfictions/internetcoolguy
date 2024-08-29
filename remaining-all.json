@@ -2739,9 +2739,6 @@
   "medical specialty": {
     "concerner": 0.2
   },
-  "medication": {
-    "introducer intravenously": 0.5
-  },
   "medicine": {
     "taker orally": 0.5
   },
