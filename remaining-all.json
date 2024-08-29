@@ -2161,9 +2161,6 @@
   "implication": {
     "user frequently": 0.25
   },
-  "impossible figures": {
-    "animater": 1
-  },
   "index cards": {
     "storer": 0.25
   },
