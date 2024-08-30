@@ -2484,9 +2484,6 @@
   "most city roads": {
     "paver": 1
   },
-  "most clothes": {
-    "maker": 0.3333333333333333
-  },
   "most cosmic ray particles": {
     "producer": 0.25
   },
