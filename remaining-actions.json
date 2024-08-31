@@ -1166,9 +1166,6 @@
   "domestic cattle": {
     "descender": 0.3333333333333333
   },
-  "domestic horses": {
-    "raiser": 0.3333333333333333
-  },
   "domesticated animal": {
     "keeper": 0.3333333333333333
   },
