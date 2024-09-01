@@ -2604,9 +2604,6 @@
     "decorator": 0.2,
     "tickler": 1
   },
-  "many plants": {
-    "cultivater": 0.2
-  },
   "many roadways": {
     "paver": 1
   },
