@@ -3745,9 +3745,6 @@
   "stringed instrument": {
     "tuner": 1
   },
-  "student": {
-    "supposer": 0.3333333333333333
-  },
   "students": {
     "grader": 0.3333333333333333,
     "teacher": 0.25
