@@ -1928,9 +1928,6 @@
   "hand luggage": {
     "storer": 0.25
   },
-  "happiness": {
-    "causer": 0.25
-  },
   "harness": {
     "finder": 0.3333333333333333
   },
