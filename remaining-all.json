@@ -3291,9 +3291,6 @@
   "pay": {
     "measurer": 0.3333333333333333
   },
-  "paying taxes": {
-    "requirer": 0.25
-  },
   "payments": {
     "maker": 0.3333333333333333
   },
