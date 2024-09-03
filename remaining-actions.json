@@ -742,10 +742,6 @@
   "circus": {
     "holder somewhere": 0.5
   },
-  "cities": {
-    "builder": 0.3333333333333333,
-    "finder": 0.3333333333333333
-  },
   "city rijeka": {
     "locater": 0.3333333333333333
   },
