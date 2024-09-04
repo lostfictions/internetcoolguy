@@ -4809,9 +4809,6 @@
   "wildfires": {
     "starter": 0.25
   },
-  "wills": {
-    "maker": 0.25
-  },
   "wind": {
     "blower": 0.3333333333333333,
     "converter": 0.3333333333333333,
