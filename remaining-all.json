@@ -1330,9 +1330,6 @@
   "dolphins": {
     "trainer": 1
   },
-  "domestic cattle": {
-    "descender": 0.3333333333333333
-  },
   "domesticated animal": {
     "keeper": 0.3333333333333333
   },
