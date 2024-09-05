@@ -3653,10 +3653,6 @@
   "stringed instrument": {
     "tuner": 1
   },
-  "students": {
-    "grader": 0.3333333333333333,
-    "teacher": 0.25
-  },
   "stuff clothes": {
     "maker": 0.5
   },
