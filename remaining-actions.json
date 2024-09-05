@@ -3854,9 +3854,6 @@
   "tones": {
     "tuner": 1
   },
-  "too many people": {
-    "stresser": 0.25
-  },
   "tools": {
     "holder": 0.25,
     "storer": 0.3333333333333333,
