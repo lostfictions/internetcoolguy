@@ -292,8 +292,7 @@
   },
   "balloons": {
     "filler": 0.3333333333333333,
-    "inflater": 1,
-    "releaser": 0.25
+    "inflater": 1
   },
   "banana": {
     "eater": 1

@@ -248,11 +248,6 @@
     "blower up": 0.5,
     "popper": 1
   },
-  "balloons": {
-    "filler": 0.3333333333333333,
-    "inflater": 1,
-    "releaser": 0.25
-  },
   "banana": {
     "eater": 1
   },
