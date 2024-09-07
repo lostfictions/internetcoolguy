@@ -3081,11 +3081,6 @@
   "rap music": {
     "seller": 0.3333333333333333
   },
-  "recipes": {
-    "passer": 0.2,
-    "teacher": 1,
-    "writer": 0.25
-  },
   "red wine": {
     "server": 0.25
   },
