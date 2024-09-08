@@ -3647,9 +3647,6 @@
     "coverer": 0.25,
     "user": 0.2
   },
-  "robots": {
-    "user": 0.25
-  },
   "rock": {
     "maker up": 0.25
   },
