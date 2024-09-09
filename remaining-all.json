@@ -2088,9 +2088,6 @@
   "indoor object": {
     "protecter": 0.3333333333333333
   },
-  "infection": {
-    "causer": 0.2
-  },
   "information": {
     "valuer": 0.5,
     "enterer": 0.3333333333333333,
