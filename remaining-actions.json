@@ -718,9 +718,6 @@
     "producer": 0.25,
     "seller": 0.3333333333333333
   },
-  "circus": {
-    "holder somewhere": 0.5
-  },
   "city rijeka": {
     "locater": 0.3333333333333333
   },
