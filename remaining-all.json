@@ -1367,9 +1367,6 @@
     "maker up": 0.2,
     "surrounder": 0.2
   },
-  "earthquakes": {
-    "causer": 0.25
-  },
   "eating": {
     "performer": 0.3333333333333333
   },
