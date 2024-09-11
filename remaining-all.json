@@ -3488,9 +3488,6 @@
   "public transports": {
     "puller": 0.3333333333333333
   },
-  "publications": {
-    "seller": 0.3333333333333333
-  },
   "puck": {
     "maker": 0.25
   },

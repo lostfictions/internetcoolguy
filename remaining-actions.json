@@ -2963,9 +2963,6 @@
   "public transports": {
     "puller": 0.3333333333333333
   },
-  "publications": {
-    "seller": 0.3333333333333333
-  },
   "pumpkins": {
     "decorator": 0.3333333333333333,
     "eater": 1
