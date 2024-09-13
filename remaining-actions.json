@@ -575,11 +575,6 @@
   "cases": {
     "hearer": 0.2
   },
-  "cash": {
-    "denominater": 0.3333333333333333,
-    "earner": 1,
-    "measurer": 0.2
-  },
   "castanets": {
     "binder": 0.2,
     "user": 0.2
