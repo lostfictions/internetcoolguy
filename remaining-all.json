@@ -4474,9 +4474,6 @@
     "locater": 0.3333333333333333,
     "surrounder": 0.3333333333333333
   },
-  "vampires": {
-    "considerer": 0.3333333333333333
-  },
   "vegetables": {
     "cooker": 1,
     "eater": 0.3333333333333333,
