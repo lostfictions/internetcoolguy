@@ -2109,9 +2109,6 @@
   "mayor": {
     "chooser": 0.2
   },
-  "mealybug": {
-    "finder": 0.3333333333333333
-  },
   "meat": {
     "cooker": 0.2,
     "putter": 0.25,
