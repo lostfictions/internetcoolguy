@@ -2036,11 +2036,6 @@
   "many old things": {
     "storer": 0.3333333333333333
   },
-  "many people": {
-    "catcher": 0.2,
-    "decorator": 0.2,
-    "tickler": 1
-  },
   "many roadways": {
     "paver": 1
   },
