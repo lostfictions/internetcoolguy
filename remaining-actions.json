@@ -1743,9 +1743,6 @@
     "believer": 0.2,
     "surrounder": 0.25
   },
-  "justice": {
-    "server": 0.2
-  },
   "kettle": {
     "buyer": 0.3333333333333333
   },
