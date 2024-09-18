@@ -911,9 +911,6 @@
   "crime": {
     "reducer": 0.2
   },
-  "criminal": {
-    "givener": 0.5
-  },
   "criminal defendant": {
     "finder": 0.2
   },
