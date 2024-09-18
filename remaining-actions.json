@@ -1200,9 +1200,6 @@
   "eyeglasses": {
     "improver": 0.25
   },
-  "eyes": {
-    "locater": 0.3333333333333333
-  },
   "face": {
     "definer": 0.25,
     "toucher": 1
