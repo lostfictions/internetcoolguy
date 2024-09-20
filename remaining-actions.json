@@ -2712,9 +2712,6 @@
   "porches": {
     "connecter": 0.3333333333333333
   },
-  "post offices": {
-    "closer": 0.25
-  },
   "postage stamp": {
     "requirer": 0.25
   },
