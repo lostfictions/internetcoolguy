@@ -189,10 +189,6 @@
   "automobiles": {
     "constructer": 0.25
   },
-  "backdrop": {
-    "finder": 0.3333333333333333,
-    "user": 0.3333333333333333
-  },
   "backdrops": {
     "user": 0.3333333333333333
   },
