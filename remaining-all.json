@@ -1190,9 +1190,6 @@
   "diseases": {
     "causer": 0.3333333333333333
   },
-  "dish": {
-    "server": 1
-  },
   "distance": {
     "measurer": 0.2
   },
