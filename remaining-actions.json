@@ -1774,10 +1774,6 @@
   "lichen": {
     "seperater": 0.2
   },
-  "life": {
-    "creater": 1,
-    "ender": 0.5
-  },
   "lifeboats": {
     "finder": 0.25
   },

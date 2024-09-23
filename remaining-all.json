@@ -2173,8 +2173,7 @@
     "seperater": 0.2
   },
   "life": {
-    "creater": 1,
-    "ender": 0.5
+    "creater": 1
   },
   "lifeboats": {
     "finder": 0.25
