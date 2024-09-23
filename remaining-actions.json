@@ -806,9 +806,6 @@
   "contracts": {
     "evaluater": 1
   },
-  "control fire": {
-    "setter": 0.3333333333333333
-  },
   "convicted criminal": {
     "hander": 0.25
   },
