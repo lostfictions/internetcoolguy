@@ -448,9 +448,6 @@
   "bus": {
     "driver": 1
   },
-  "businesses": {
-    "supposer": 0.25
-  },
   "butterflies": {
     "attracter": 0.3333333333333333
   },
