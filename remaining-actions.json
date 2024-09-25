@@ -2209,9 +2209,6 @@
     "buyer": 0.25,
     "driver": 0.3333333333333333
   },
-  "name katey": {
-    "speller": 0.25
-  },
   "nameservers": {
     "orderer": 0.3333333333333333
   },
