@@ -114,9 +114,6 @@
   "antenna": {
     "needer": 0.2
   },
-  "antibiotics": {
-    "user": 0.25
-  },
   "antibody": {
     "producer": 0.25
   },
