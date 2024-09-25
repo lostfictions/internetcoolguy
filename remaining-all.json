@@ -3654,9 +3654,6 @@
   "snow": {
     "blower": 0.25
   },
-  "snowball": {
-    "maker": 0.25
-  },
   "snowflake": {
     "former": 0.3333333333333333
   },
