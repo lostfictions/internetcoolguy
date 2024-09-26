@@ -2643,9 +2643,6 @@
   "prize": {
     "winner": 0.2
   },
-  "process": {
-    "stepper": 0.25
-  },
   "products": {
     "recycler": 1
   },
