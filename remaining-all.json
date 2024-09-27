@@ -4284,9 +4284,6 @@
   "waterbeds": {
     "filler": 0.3333333333333333
   },
-  "wavelengths": {
-    "measurer": 0.3333333333333333
-  },
   "waves": {
     "former": 0.3333333333333333,
     "finder": 0.2
