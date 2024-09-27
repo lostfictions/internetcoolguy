@@ -765,9 +765,6 @@
   "condoms": {
     "maker": 0.2
   },
-  "confidence": {
-    "sharer": 1
-  },
   "containers": {
     "maker": 0.25,
     "maker out": 0.25,
