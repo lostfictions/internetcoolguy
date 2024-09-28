@@ -1658,9 +1658,6 @@
   "lambs": {
     "eater": 1
   },
-  "landing": {
-    "locater": 0.2
-  },
   "lasers": {
     "user": 0.2
   },
