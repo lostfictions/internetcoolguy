@@ -754,7 +754,6 @@
   },
   "chocolate": {
     "eater": 1,
-    "maker": 0.25,
     "melter": 1
   },
   "chokers": {

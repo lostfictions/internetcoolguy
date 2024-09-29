@@ -605,11 +605,6 @@
   "chloraphyl": {
     "needer": 0.2
   },
-  "chocolate": {
-    "eater": 1,
-    "maker": 0.25,
-    "melter": 1
-  },
   "chokers": {
     "maker": 0.25
   },
