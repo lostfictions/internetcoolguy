@@ -3408,9 +3408,6 @@
   "wasps": {
     "relater": 0.2
   },
-  "waste": {
-    "recycler": 0.3333333333333333
-  },
   "watch": {
     "decorator": 0.2,
     "finder": 0.3333333333333333,
