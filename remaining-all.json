@@ -2109,9 +2109,6 @@
     "requirer": 0.25,
     "user": 0.3333333333333333
   },
-  "light energy": {
-    "converter": 0.25
-  },
   "lightning": {
     "causer": 0.2
   },
