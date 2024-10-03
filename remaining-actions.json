@@ -386,9 +386,6 @@
   "briefcase": {
     "carrier": 0.25
   },
-  "broken telephone": {
-    "repairer": 1
-  },
   "brush": {
     "loader": 0.25
   },
