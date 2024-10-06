@@ -1546,9 +1546,6 @@
   "glasses": {
     "filler": 0.3333333333333333
   },
-  "glucose": {
-    "deriver": 0.3333333333333333
-  },
   "glue stick": {
     "user": 0.25
   },

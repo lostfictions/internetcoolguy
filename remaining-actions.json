@@ -1226,9 +1226,6 @@
     "shatterer": 1,
     "temperer": 1
   },
-  "glucose": {
-    "deriver": 0.3333333333333333
-  },
   "glycerol": {
     "deriver": 0.3333333333333333
   },
