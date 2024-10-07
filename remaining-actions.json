@@ -1175,9 +1175,6 @@
     "mover": 0.25,
     "user": 0.25
   },
-  "fuel": {
-    "needer": 0.3333333333333333
-  },
   "funny events": {
     "seener": 1
   },
