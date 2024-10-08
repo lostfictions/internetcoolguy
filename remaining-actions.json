@@ -2363,11 +2363,6 @@
   "pop cans": {
     "maker out": 0.25
   },
-  "popcorn": {
-    "buyer": 0.3333333333333333,
-    "eater": 1,
-    "popper": 0.3333333333333333
-  },
   "popular opinion": {
     "measurer": 0.3333333333333333,
     "studyer": 0.3333333333333333
