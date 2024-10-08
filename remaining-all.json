@@ -2268,9 +2268,6 @@
   "merchandise": {
     "seller": 0.25
   },
-  "message": {
-    "poster": 0.3333333333333333
-  },
   "metal": {
     "cutter": 1,
     "former": 1,
