@@ -1286,9 +1286,6 @@
   "fact electricity powers computers": {
     "illustrater": 0.25
   },
-  "fan": {
-    "user": 0.3333333333333333
-  },
   "fatty acids": {
     "deriver": 0.3333333333333333
   },
