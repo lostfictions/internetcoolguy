@@ -936,9 +936,6 @@
   "country code top level domains": {
     "administerer": 0.25
   },
-  "county": {
-    "container": 0.3333333333333333
-  },
   "courses": {
     "givener": 0.3333333333333333,
     "offerer": 0.3333333333333333
