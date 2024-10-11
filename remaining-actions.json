@@ -3240,10 +3240,6 @@
   "wounds": {
     "dresser": 1
   },
-  "xylophone": {
-    "player": 0.2,
-    "striker": 0.3333333333333333
-  },
   "yoga": {
     "baser": 0.25
   },
