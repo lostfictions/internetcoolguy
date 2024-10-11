@@ -769,11 +769,6 @@
   "cucumber beetle": {
     "finder": 0.3333333333333333
   },
-  "cups": {
-    "dropper": 1,
-    "maker": 0.3333333333333333,
-    "storer": 0.3333333333333333
-  },
   "curry": {
     "eater": 0.25,
     "server": 0.25
