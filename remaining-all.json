@@ -3041,8 +3041,7 @@
     "admirer": 1
   },
   "rivers": {
-    "feeder": 0.3333333333333333,
-    "maker up": 0.25
+    "feeder": 0.3333333333333333
   },
   "road": {
     "paver": 1
