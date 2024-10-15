@@ -644,9 +644,6 @@
   "cereal": {
     "buyer": 0.3333333333333333
   },
-  "certain drinks": {
-    "server": 0.25
-  },
   "chairs": {
     "coverer": 0.3333333333333333,
     "maker out": 0.25,
