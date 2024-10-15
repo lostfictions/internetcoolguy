@@ -1539,9 +1539,6 @@
   "grocer shop": {
     "knower": 0.25
   },
-  "groceries": {
-    "purchaser": 0.25
-  },
   "grow": {
     "structurer": 1
   },
