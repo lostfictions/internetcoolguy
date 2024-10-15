@@ -2824,9 +2824,6 @@
     "rememberer": 1,
     "user": 0.2
   },
-  "thirst": {
-    "unquencher": 1
-  },
   "tickets": {
     "buyer": 1,
     "givener": 0.25,

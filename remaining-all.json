@@ -3615,9 +3615,6 @@
     "storer": 0.3333333333333333,
     "washer": 0.3333333333333333
   },
-  "thirst": {
-    "unquencher": 1
-  },
   "tickets": {
     "buyer": 1,
     "givener": 0.25,
