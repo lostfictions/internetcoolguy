@@ -1274,9 +1274,6 @@
   "fibers": {
     "spinner": 0.3333333333333333
   },
-  "files": {
-    "printer": 0.25
-  },
   "film developing chemicals": {
     "overuser": 1
   },
