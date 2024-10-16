@@ -1996,8 +1996,7 @@
     "earner": 1
   },
   "machines": {
-    "builder": 1,
-    "operator": 0.25
+    "builder": 1
   },
   "magazines": {
     "buyer": 0.3333333333333333,
