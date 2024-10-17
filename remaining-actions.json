@@ -429,10 +429,6 @@
   "care package": {
     "sender": 0.3333333333333333
   },
-  "carpet": {
-    "finder": 0.3333333333333333,
-    "user": 0.25
-  },
   "carrots": {
     "cooker": 1
   },
