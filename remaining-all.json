@@ -3881,9 +3881,6 @@
   "white house": {
     "locater": 0.25
   },
-  "wildfires": {
-    "starter": 0.25
-  },
   "wind": {
     "blower": 0.3333333333333333,
     "converter": 0.3333333333333333,
