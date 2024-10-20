@@ -2186,9 +2186,6 @@
   "monument": {
     "builder": 0.25
   },
-  "morphine": {
-    "administerer": 0.25
-  },
   "mortar": {
     "user": 0.3333333333333333
   },
