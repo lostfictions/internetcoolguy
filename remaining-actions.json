@@ -586,13 +586,6 @@
   "color black": {
     "considerer": 0.3333333333333333
   },
-  "coloring": {
-    "ader": 0.25,
-    "painter": 0.2,
-    "colorer": 0.25,
-    "speaker": 0.3333333333333333,
-    "writer": 0.3333333333333333
-  },
   "colors": {
     "producer": 0.2
   },
