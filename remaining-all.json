@@ -2553,9 +2553,6 @@
   "peas": {
     "server": 0.3333333333333333
   },
-  "penalties": {
-    "ignorer": 0.25
-  },
   "penalty": {
     "administerer": 0.2
   },
