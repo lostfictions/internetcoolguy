@@ -1948,10 +1948,6 @@
   "passageway": {
     "hider": 1
   },
-  "pasta": {
-    "maker": 0.3333333333333333,
-    "producer": 0.2
-  },
   "patterns": {
     "user": 0.3333333333333333
   },
