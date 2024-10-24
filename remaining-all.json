@@ -424,9 +424,6 @@
   "briefcase": {
     "carrier": 0.25
   },
-  "brush": {
-    "loader": 0.25
-  },
   "bubbles": {
     "causer": 0.3333333333333333
   },
