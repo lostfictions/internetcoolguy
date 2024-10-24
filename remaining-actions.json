@@ -1780,12 +1780,6 @@
   "new things": {
     "buyer": 1
   },
-  "news": {
-    "broadcaster": 0.3333333333333333,
-    "hearer often": 0.25,
-    "printer": 0.3333333333333333,
-    "provider": 0.3333333333333333
-  },
   "newspaper article": {
     "writer": 0.3333333333333333
   },
