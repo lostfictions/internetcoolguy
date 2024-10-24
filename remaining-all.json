@@ -972,9 +972,6 @@
   "deer": {
     "killer": 1
   },
-  "dental chair": {
-    "mover up": 0.2
-  },
   "dentist": {
     "payer": 0.25
   },
