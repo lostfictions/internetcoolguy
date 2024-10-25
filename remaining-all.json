@@ -812,9 +812,6 @@
   "condom": {
     "putter": 0.25
   },
-  "condoms": {
-    "maker": 0.2
-  },
   "containers": {
     "maker": 0.25,
     "recycler": 1
