@@ -706,9 +706,6 @@
   "deductible": {
     "expresser": 0.3333333333333333
   },
-  "deer": {
-    "killer": 1
-  },
   "dentist": {
     "payer": 0.25
   },
