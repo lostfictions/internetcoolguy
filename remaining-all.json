@@ -3427,7 +3427,6 @@
   },
   "tickets": {
     "buyer": 1,
-    "givener": 0.25,
     "seller": 0.25
   },
   "time": {

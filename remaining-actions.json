@@ -2572,11 +2572,6 @@
     "rememberer": 1,
     "user": 0.2
   },
-  "tickets": {
-    "buyer": 1,
-    "givener": 0.25,
-    "seller": 0.25
-  },
   "time": {
     "measurer": 0.3333333333333333,
     "spender": 1
