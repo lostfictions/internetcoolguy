@@ -1400,9 +1400,6 @@
     "melter": 1,
     "pounder": 0.25
   },
-  "gong": {
-    "banger": 1
-  },
   "goods": {
     "manufacturer": 0.5,
     "recycler": 1,
