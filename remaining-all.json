@@ -517,9 +517,6 @@
   "cardboard": {
     "recycler": 1
   },
-  "care package": {
-    "sender": 0.3333333333333333
-  },
   "cargo": {
     "carrier on": 0.3333333333333333,
     "dropper": 0.3333333333333333
