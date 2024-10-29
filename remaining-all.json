@@ -1099,9 +1099,6 @@
   "electrons": {
     "deflecter": 0.25
   },
-  "ellis island": {
-    "locater": 0.2
-  },
   "emacs": {
     "closer": 1
   },
