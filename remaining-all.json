@@ -2071,9 +2071,6 @@
   "most buildings": {
     "builder": 0.25
   },
-  "most business": {
-    "former": 0.25
-  },
   "most city roads": {
     "paver": 1
   },
