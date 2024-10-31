@@ -1542,9 +1542,6 @@
   "most buildings": {
     "builder": 0.25
   },
-  "most city roads": {
-    "paver": 1
-  },
   "most cosmic ray particles": {
     "producer": 0.25
   },
