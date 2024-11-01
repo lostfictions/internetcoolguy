@@ -1712,9 +1712,6 @@
   "leaf": {
     "user": 0.2
   },
-  "leftovers": {
-    "user": 0.25
-  },
   "letter": {
     "putter": 0.25
   },
