@@ -3573,9 +3573,6 @@
     "maker": 0.25,
     "needer": 0.25
   },
-  "wearing seatbelt": {
-    "requirer": 0.3333333333333333
-  },
   "wedding reception": {
     "capturer": 0.3333333333333333
   },
