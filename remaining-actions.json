@@ -836,10 +836,6 @@
   "finger bones": {
     "coverer": 0.3333333333333333
   },
-  "fingernails": {
-    "locater": 0.3333333333333333,
-    "painter": 1
-  },
   "fiocchi ammunition": {
     "maker": 0.3333333333333333
   },
