@@ -2012,11 +2012,6 @@
   "road": {
     "paver": 1
   },
-  "roads": {
-    "builder": 0.3333333333333333,
-    "coverer": 0.25,
-    "user": 0.2
-  },
   "rock": {
     "maker up": 0.25
   },
