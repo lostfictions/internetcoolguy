@@ -1072,13 +1072,6 @@
   "hyperbole": {
     "user": 0.2
   },
-  "ice": {
-    "former": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "melter": 1,
-    "putter": 0.2,
-    "sculpturer": 1
-  },
   "icrc": {
     "binder": 0.3333333333333333
   },
