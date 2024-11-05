@@ -2479,7 +2479,6 @@
   "plastic": {
     "deriver": 0.3333333333333333,
     "maker": 0.3333333333333333,
-    "maker out": 0.25,
     "melter": 1,
     "painter": 1
   },
