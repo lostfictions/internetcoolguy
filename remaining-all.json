@@ -1129,9 +1129,6 @@
   "fiocchi ammunition": {
     "maker": 0.3333333333333333
   },
-  "fire hydrant": {
-    "user": 0.25
-  },
   "fires": {
     "driver": 0.3333333333333333,
     "putter out": 0.25,
