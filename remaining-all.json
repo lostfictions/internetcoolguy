@@ -3480,9 +3480,6 @@
   "wedding reception": {
     "capturer": 0.3333333333333333
   },
-  "white house": {
-    "locater": 0.25
-  },
   "wind": {
     "blower": 0.3333333333333333,
     "converter": 0.3333333333333333,
