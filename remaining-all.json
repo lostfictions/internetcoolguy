@@ -3317,9 +3317,6 @@
   "trash cans": {
     "intender": 0.2
   },
-  "treated sewage": {
-    "user": 0.3333333333333333
-  },
   "trees": {
     "affecter": 0.3333333333333333,
     "coverer": 0.3333333333333333,
