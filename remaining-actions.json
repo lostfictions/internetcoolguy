@@ -302,11 +302,6 @@
   "bubonic plague": {
     "treater": 0.3333333333333333
   },
-  "buildings": {
-    "designer": 1,
-    "finder": 0.2,
-    "maker": 0.2
-  },
   "bullets": {
     "firer": 0.3333333333333333,
     "user": 0.3333333333333333
