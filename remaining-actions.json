@@ -463,9 +463,6 @@
   "clarinet": {
     "supporter": 0.25
   },
-  "clocks": {
-    "reader": 1
-  },
   "cloth": {
     "cutter": 1,
     "maker": 0.3333333333333333
