@@ -1753,9 +1753,6 @@
   "lunch": {
     "eater": 0.3333333333333333
   },
-  "luxury": {
-    "earner": 1
-  },
   "machines": {
     "builder": 1
   },
