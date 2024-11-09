@@ -1033,9 +1033,6 @@
   "electrons": {
     "deflecter": 0.25
   },
-  "emacs": {
-    "closer": 1
-  },
   "energy": {
     "needer": 0.25
   },
