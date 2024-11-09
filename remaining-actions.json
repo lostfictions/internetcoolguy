@@ -414,9 +414,6 @@
   "chess piece": {
     "user": 0.2
   },
-  "chicken dishes": {
-    "server": 0.3333333333333333
-  },
   "child": {
     "producer": 0.25,
     "putter": 0.3333333333333333,

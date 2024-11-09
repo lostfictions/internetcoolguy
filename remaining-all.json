@@ -585,9 +585,6 @@
     "cooker": 0.3333333333333333,
     "eater": 1
   },
-  "chicken dishes": {
-    "server": 0.3333333333333333
-  },
   "child": {
     "producer": 0.25,
     "putter": 0.3333333333333333,
