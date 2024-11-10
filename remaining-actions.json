@@ -2364,10 +2364,6 @@
   "waterbeds": {
     "filler": 0.3333333333333333
   },
-  "weapons": {
-    "maker": 0.25,
-    "needer": 0.25
-  },
   "wedding reception": {
     "capturer": 0.3333333333333333
   },
