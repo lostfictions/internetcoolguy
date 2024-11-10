@@ -174,9 +174,6 @@
   "bathroom": {
     "user": 0.2
   },
-  "bathroom stalls": {
-    "locater": 0.3333333333333333
-  },
   "bathrooms": {
     "locater": 0.3333333333333333
   },
