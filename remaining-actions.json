@@ -677,9 +677,6 @@
     "prohibiter": 1,
     "smoker": 1
   },
-  "drum": {
-    "player": 0.2
-  },
   "drywall": {
     "repairer": 0.3333333333333333,
     "user": 0.25
