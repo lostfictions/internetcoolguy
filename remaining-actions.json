@@ -842,9 +842,6 @@
   "glycerol": {
     "deriver": 0.3333333333333333
   },
-  "god": {
-    "baser": 0.3333333333333333
-  },
   "gold": {
     "melter": 1,
     "pounder": 0.25
