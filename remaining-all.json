@@ -2424,9 +2424,6 @@
     "worker": 0.25,
     "creater": 0.25
   },
-  "pounds": {
-    "designer": 0.25
-  },
   "predictions": {
     "needer": 0.25
   },
