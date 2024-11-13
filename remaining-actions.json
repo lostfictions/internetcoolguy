@@ -1076,9 +1076,6 @@
     "reacher": 0.2,
     "storer": 0.3333333333333333
   },
-  "lakes": {
-    "maker up": 0.25
-  },
   "lambs": {
     "eater": 1
   },
