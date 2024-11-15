@@ -2425,9 +2425,6 @@
   "prisoners": {
     "plunger": 0.3333333333333333
   },
-  "prisons": {
-    "holder": 0.3333333333333333
-  },
   "prize": {
     "winner": 0.2
   },
