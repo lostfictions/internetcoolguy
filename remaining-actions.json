@@ -1530,9 +1530,6 @@
   "peas": {
     "server": 0.3333333333333333
   },
-  "penalty": {
-    "administerer": 0.2
-  },
   "pencil": {
     "maker": 0.3333333333333333
   },
