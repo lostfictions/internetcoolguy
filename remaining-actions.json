@@ -1702,9 +1702,6 @@
   "red wine": {
     "server": 0.25
   },
-  "religion": {
-    "baser": 0.2
-  },
   "religious memes": {
     "spreader": 0.25
   },
