@@ -200,7 +200,6 @@
     "inflater": 1
   },
   "banks": {
-    "closer": 0.25,
     "regulater": 1,
     "runner": 0.3333333333333333
   },

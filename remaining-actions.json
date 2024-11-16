@@ -147,11 +147,6 @@
     "blower up": 0.5,
     "popper": 1
   },
-  "banks": {
-    "closer": 0.25,
-    "regulater": 1,
-    "runner": 0.3333333333333333
-  },
   "barber comb": {
     "user": 0.3333333333333333
   },
