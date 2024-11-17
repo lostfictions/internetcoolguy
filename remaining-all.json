@@ -2068,8 +2068,7 @@
     "packer": 0.3333333333333333
   },
   "ocean": {
-    "filler": 0.25,
-    "maker up": 0.2
+    "filler": 0.25
   },
   "oceans": {
     "former": 0.3333333333333333
