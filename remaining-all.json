@@ -931,7 +931,6 @@
   },
   "drugs": {
     "buyer": 0.3333333333333333,
-    "producer": 0.3333333333333333,
     "prohibiter": 1,
     "smoker": 1
   },
