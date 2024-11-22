@@ -1510,9 +1510,6 @@
     "worker": 0.25,
     "creater": 0.25
   },
-  "predictions": {
-    "needer": 0.25
-  },
   "presents": {
     "givener on": 0.3333333333333333
   },
