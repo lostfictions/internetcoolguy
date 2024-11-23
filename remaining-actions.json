@@ -600,9 +600,6 @@
   "egomaniac boss": {
     "surrounder": 0.3333333333333333
   },
-  "electrical energy": {
-    "converter": 0.25
-  },
   "electrical machinery": {
     "turner off": 0.5
   },
