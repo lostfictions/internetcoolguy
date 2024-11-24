@@ -1448,13 +1448,6 @@
   "pot": {
     "maker": 0.3333333333333333
   },
-  "potatoes": {
-    "boiler": 1,
-    "cooker": 0.3333333333333333,
-    "eater": 1,
-    "maker": 0.3333333333333333,
-    "user": 0.25
-  },
   "pottery": {
     "worker": 0.25,
     "creater": 0.25
