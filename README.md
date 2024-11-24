@@ -25,7 +25,7 @@ running `pnpm dev` will generate an image and save it to a file on your computer
 if you clone the repository you can run your own remixed version that posts to mastodon using github actions too! no need to edit the workflow file — you'll just need to set some environment variables in the github repository settings:
 
 - `MASTODON_TOKEN`: a Mastodon user API token (required)
-- `MASTODON_SERVER`: the instance to which API calls should be made (usually where the bot user lives.) (default: https://botsin.space/)
+- `MASTODON_SERVER`: the instance to which API calls should be made (usually where the bot user lives.) (default: https://mastodon.social)
 - `BSKY_USERNAME`: the bot's username on Bluesky
 - `BSKY_PASSWORD`: the app password for the bot's account on Bluesky
 
