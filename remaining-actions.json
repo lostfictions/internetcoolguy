@@ -1842,10 +1842,6 @@
     "expresser": 0.3333333333333333,
     "measurer": 0.2
   },
-  "tests": {
-    "baser": 0.25,
-    "givener": 0.2
-  },
   "textile": {
     "manufacturer": 1
   },
