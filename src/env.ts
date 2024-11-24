@@ -2,7 +2,6 @@ import { existsSync } from "fs";
 import { parseEnv, z } from "znv";
 import { config } from "dotenv";
 import * as Sentry from "@sentry/node";
-import { CaptureConsole } from "@sentry/integrations";
 
 config();
 
@@ -11,6 +10,8 @@ export const {
   DATA_DIR,
   MASTODON_SERVER,
   MASTODON_TOKEN,
+  BSKY_USERNAME,
+  BSKY_PASSWORD,
   SENTRY_DSN,
 } = parseEnv(
   // eslint-disable-next-line node/no-process-env
@@ -31,6 +32,18 @@ export const {
       schema: z.string().min(1),
       defaults: { production: undefined, _: "unused" },
     },
+    BSKY_USERNAME: {
+      schema: z.string().min(1),
+      defaults: {
+        development: "unused",
+      },
+    },
+    BSKY_PASSWORD: {
+      schema: z.string().min(1),
+      defaults: {
+        development: "unused",
+      },
+    },
     SENTRY_DSN: {
       schema: z.string().min(1),
       defaults: { production: undefined, _: "unused" },
@@ -47,7 +60,9 @@ if (NODE_ENV === "production") {
     dsn: SENTRY_DSN,
     environment: NODE_ENV,
     integrations: [
-      new CaptureConsole({ levels: ["warn", "error", "debug", "assert"] }),
+      Sentry.captureConsoleIntegration({
+        levels: ["warn", "error", "debug", "assert"],
+      }),
     ],
   });
 }

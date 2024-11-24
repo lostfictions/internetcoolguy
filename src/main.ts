@@ -1,7 +1,13 @@
 import fs from "fs";
 import path from "path";
 import { twoot } from "twoot";
-import { DATA_DIR, MASTODON_SERVER, MASTODON_TOKEN } from "./env";
+import {
+  BSKY_PASSWORD,
+  BSKY_USERNAME,
+  DATA_DIR,
+  MASTODON_SERVER,
+  MASTODON_TOKEN,
+} from "./env";
 
 type Data = { [word: string]: { [action: string]: number } };
 
@@ -70,15 +76,18 @@ async function doToot(): Promise<void> {
       server: MASTODON_SERVER,
       token: MASTODON_TOKEN,
     },
+    {
+      type: "bsky",
+      username: BSKY_USERNAME,
+      password: BSKY_PASSWORD,
+    },
   ]);
 
   for (const res of results) {
     if (res.type === "error") {
       console.error(`error while twooting:\n${res.message}\n`);
-    } else if (res.type === "twitter") {
-      console.log(
-        `tweeted at 'https://twitter.com/${res.status.user.name}/${res.status.id}'!`,
-      );
+    } else if (res.type === "bsky") {
+      console.log(`skeeted at '${res.status.uri}'!`);
     } else {
       console.log(`tooted at '${res.status.url}'!`);
     }
