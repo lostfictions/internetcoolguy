@@ -633,9 +633,6 @@
   "ferrous metals": {
     "attracter": 0.3333333333333333
   },
-  "finger bones": {
-    "coverer": 0.3333333333333333
-  },
   "fires": {
     "driver": 0.3333333333333333,
     "putter out": 0.25,
