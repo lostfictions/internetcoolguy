@@ -3110,8 +3110,7 @@
     "storer": 0.3333333333333333
   },
   "wines": {
-    "blender": 1,
-    "maker": 0.3333333333333333
+    "blender": 1
   },
   "wood": {
     "burner": 0.25,
