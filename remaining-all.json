@@ -1684,9 +1684,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "mental skills": {
-    "developer": 1
-  },
   "metal": {
     "cutter": 1,
     "former": 1,
