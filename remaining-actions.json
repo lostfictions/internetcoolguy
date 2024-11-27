@@ -656,9 +656,6 @@
   "funny events": {
     "seener": 1
   },
-  "game": {
-    "player": 0.3333333333333333
-  },
   "garbage": {
     "collector": 0.3333333333333333,
     "deliverer": 0.3333333333333333,
