@@ -116,10 +116,6 @@
   "bait": {
     "attacher": 0.25
   },
-  "balloon": {
-    "blower up": 0.5,
-    "popper": 1
-  },
   "barber comb": {
     "user": 0.3333333333333333
   },
