@@ -1706,9 +1706,6 @@
     "extender": 0.25,
     "scatterer": 0.2
   },
-  "taking drugs": {
-    "considerer": 0.2
-  },
   "tanning lotion": {
     "user": 0.25
   },
