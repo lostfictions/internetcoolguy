@@ -1282,9 +1282,6 @@
   "human ears normally": {
     "exposer": 0.3333333333333333
   },
-  "human perspective": {
-    "alterer": 0.3333333333333333
-  },
   "human voice": {
     "producer": 0.2
   },
