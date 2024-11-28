@@ -823,10 +823,6 @@
   "instrument": {
     "player": 1
   },
-  "instrument triangle": {
-    "maker out": 0.25,
-    "player": 0.2
-  },
   "insurance": {
     "definer": 0.3333333333333333
   },

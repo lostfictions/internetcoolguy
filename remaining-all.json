@@ -1331,8 +1331,7 @@
     "player": 1
   },
   "instrument triangle": {
-    "maker out": 0.25,
-    "player": 0.2
+    "maker out": 0.25
   },
   "insulin": {
     "givener": 0.3333333333333333
