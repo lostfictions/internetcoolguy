@@ -1836,11 +1836,6 @@
   "wasps": {
     "relater": 0.2
   },
-  "watch": {
-    "decorator": 0.2,
-    "finder": 0.3333333333333333,
-    "setter": 0.3333333333333333
-  },
   "waterbeds": {
     "filler": 0.3333333333333333
   },
