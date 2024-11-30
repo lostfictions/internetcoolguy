@@ -531,8 +531,7 @@
     "maker out": 0.25
   },
   "cigarette": {
-    "maker": 0.3333333333333333,
-    "smoker": 0.25
+    "maker": 0.3333333333333333
   },
   "cigarettes": {
     "seller": 0.3333333333333333
