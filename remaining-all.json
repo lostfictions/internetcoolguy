@@ -774,9 +774,6 @@
   "diseases": {
     "causer": 0.3333333333333333
   },
-  "distance": {
-    "measurer": 0.2
-  },
   "dna": {
     "needer": 0.3333333333333333
   },
