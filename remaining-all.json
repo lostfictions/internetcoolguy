@@ -2523,7 +2523,6 @@
     "needer": 0.2
   },
   "speed": {
-    "measurer": 0.2,
     "restricter": 0.25
   },
   "sperm": {
