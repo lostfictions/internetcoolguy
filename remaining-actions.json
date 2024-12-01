@@ -1789,9 +1789,6 @@
   "waiters": {
     "ender": 0.2
   },
-  "wasps": {
-    "relater": 0.2
-  },
   "waterbeds": {
     "filler": 0.3333333333333333
   },
