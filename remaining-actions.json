@@ -468,9 +468,6 @@
   "dirty clothes": {
     "washer": 0.25
   },
-  "diseases": {
-    "causer": 0.3333333333333333
-  },
   "dna": {
     "needer": 0.3333333333333333
   },
