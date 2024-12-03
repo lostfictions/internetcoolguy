@@ -1094,9 +1094,6 @@
     "seller": 0.25,
     "storer": 0.25
   },
-  "grain": {
-    "finder": 0.3333333333333333
-  },
   "granite": {
     "etcher": 1,
     "flamer": 1,
