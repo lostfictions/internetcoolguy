@@ -99,11 +99,6 @@
   "bagpipes": {
     "player": 0.2
   },
-  "bags": {
-    "maker": 0.3333333333333333,
-    "maker out": 0.25,
-    "recycler": 1
-  },
   "bait": {
     "attacher": 0.25
   },
