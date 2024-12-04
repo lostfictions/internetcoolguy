@@ -2395,9 +2395,6 @@
   "small": {
     "coverer": 0.25
   },
-  "small children": {
-    "carrier": 0.3333333333333333
-  },
   "small dog": {
     "kicker": 1
   },
