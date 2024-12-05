@@ -1744,9 +1744,6 @@
   "nerves": {
     "severer": 1
   },
-  "net": {
-    "maker": 0.2
-  },
   "neurons": {
     "surrounder": 0.3333333333333333
   },
