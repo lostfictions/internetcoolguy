@@ -883,9 +883,6 @@
     "reader": 0.3333333333333333,
     "writer": 0.3333333333333333
   },
-  "magnetic fields": {
-    "generator": 0.3333333333333333
-  },
   "mail": {
     "deliverer": 0.25,
     "finder": 0.5,
