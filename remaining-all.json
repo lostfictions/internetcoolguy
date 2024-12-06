@@ -2345,9 +2345,6 @@
   "sirens": {
     "finder": 0.3333333333333333
   },
-  "slacks": {
-    "describer": 0.3333333333333333
-  },
   "small": {
     "coverer": 0.25
   },
