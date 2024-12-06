@@ -936,15 +936,6 @@
   "mayor": {
     "chooser": 0.2
   },
-  "meat": {
-    "cooker": 0.2,
-    "putter": 0.25,
-    "server": 0.3333333333333333,
-    "seller": 0.3333333333333333,
-    "storer": 0.3333333333333333,
-    "taker": 0.2,
-    "user": 0.25
-  },
   "mechanical pencil": {
     "user": 0.3333333333333333
   },
