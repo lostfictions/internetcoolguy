@@ -1662,14 +1662,6 @@
   "wedding reception": {
     "capturer": 0.3333333333333333
   },
-  "wine": {
-    "ager": 0.3333333333333333,
-    "creater": 0.25,
-    "maker": 0.2,
-    "pourer": 0.3333333333333333,
-    "server": 0.25,
-    "storer": 0.3333333333333333
-  },
   "woods": {
     "user": 0.5
   },
