@@ -156,9 +156,6 @@
   "bird": {
     "eater": 1
   },
-  "birdhouses": {
-    "builder": 0.3333333333333333
-  },
   "birds": {
     "descender": 0.3333333333333333,
     "hunter": 0.3333333333333333
