@@ -806,9 +806,6 @@
     "holder": 0.2,
     "surrounder": 0.2
   },
-  "eating": {
-    "performer": 0.3333333333333333
-  },
   "education": {
     "carrier": 0.2,
     "obtainer": 0.2

@@ -455,9 +455,6 @@
   "dvd": {
     "player": 0.25
   },
-  "eating": {
-    "performer": 0.3333333333333333
-  },
   "education": {
     "carrier": 0.2,
     "obtainer": 0.2
