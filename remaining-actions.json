@@ -520,10 +520,6 @@
   "flags": {
     "hanger": 0.25
   },
-  "floors": {
-    "carpeter": 1,
-    "coverer": 0.3333333333333333
-  },
   "flowers": {
     "buyer": 0.3333333333333333,
     "grower": 0.5,
