@@ -819,14 +819,6 @@
   "lunch": {
     "eater": 0.3333333333333333
   },
-  "magazines": {
-    "buyer": 0.3333333333333333,
-    "distributor": 0.25,
-    "maker": 0.25,
-    "printer": 0.3333333333333333,
-    "reader": 0.3333333333333333,
-    "writer": 0.3333333333333333
-  },
   "mail": {
     "deliverer": 0.25,
     "finder": 0.5,
