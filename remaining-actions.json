@@ -395,9 +395,6 @@
   "deductible": {
     "expresser": 0.3333333333333333
   },
-  "dentist chair": {
-    "surrounder": 0.25
-  },
   "desert": {
     "describer": 0.3333333333333333,
     "offerer": 0.2
