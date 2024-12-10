@@ -48,9 +48,6 @@
   "almost all people": {
     "borner": 0.25
   },
-  "antenna": {
-    "needer": 0.2
-  },
   "antibody": {
     "producer": 0.25
   },
