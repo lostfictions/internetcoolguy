@@ -1468,9 +1468,6 @@
   "train tracks": {
     "user": 0.3333333333333333
   },
-  "training": {
-    "obtainer": 0.25
-  },
   "trash cans": {
     "intender": 0.2
   },
