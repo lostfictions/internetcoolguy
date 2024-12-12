@@ -325,8 +325,7 @@
     "cooker": 1
   },
   "calendars": {
-    "carrier": 0.3333333333333333,
-    "finder": 0.25
+    "carrier": 0.3333333333333333
   },
   "canada": {
     "knower": 0.2,
