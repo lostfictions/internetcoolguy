@@ -828,9 +828,6 @@
     "maker": 0.25,
     "relater": 0.25
   },
-  "map": {
-    "reader": 1
-  },
   "married people": {
     "divorcer": 1
   },
