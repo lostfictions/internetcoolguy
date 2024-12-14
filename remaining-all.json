@@ -33,9 +33,6 @@
   "air ticket": {
     "exchanger": 0.2
   },
-  "airplane seat": {
-    "user": 0.25
-  },
   "aisles": {
     "user": 0.25
   },
