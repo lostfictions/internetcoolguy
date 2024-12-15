@@ -442,10 +442,6 @@
     "putter out": 0.25,
     "starter accidently": 0.5
   },
-  "fireworks": {
-    "banner": 0.3333333333333333,
-    "user": 0.3333333333333333
-  },
   "flag": {
     "finder": 0.3333333333333333
   },
