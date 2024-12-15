@@ -72,9 +72,6 @@
   "backgammon": {
     "player": 0.25
   },
-  "bacteria": {
-    "killer": 1
-  },
   "bagpipes": {
     "player": 0.2
   },
