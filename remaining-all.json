@@ -2408,8 +2408,7 @@
     "producer": 0.3333333333333333
   },
   "thing": {
-    "rememberer": 1,
-    "user": 0.2
+    "rememberer": 1
   },
   "things": {
     "buyer": 0.3333333333333333,

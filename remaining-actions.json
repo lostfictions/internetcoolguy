@@ -1289,10 +1289,6 @@
     "maker": 0.25,
     "producer": 0.3333333333333333
   },
-  "thing": {
-    "rememberer": 1,
-    "user": 0.2
-  },
   "time": {
     "measurer": 0.3333333333333333,
     "spender": 1
