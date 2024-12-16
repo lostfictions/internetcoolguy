@@ -203,10 +203,6 @@
   "character dracula": {
     "baser": 0.25
   },
-  "checks": {
-    "turner": 0.2,
-    "writer": 1
-  },
   "cheese": {
     "buyer": 0.3333333333333333,
     "eater": 1,

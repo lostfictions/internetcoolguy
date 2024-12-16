@@ -415,7 +415,6 @@
     "printer": 0.3333333333333333
   },
   "checks": {
-    "turner": 0.2,
     "writer": 1
   },
   "cheese": {
