@@ -1470,7 +1470,6 @@
   "money": {
     "collector": 0.3333333333333333,
     "earner": 0.2,
-    "exchanger": 0.2,
     "launderer": 1,
     "loaner": 1,
     "needer": 0.25,
