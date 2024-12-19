@@ -343,9 +343,6 @@
   "domesticated animal": {
     "keeper": 0.3333333333333333
   },
-  "doormat": {
-    "finder": 0.3333333333333333
-  },
   "doormats": {
     "writer": 0.5
   },
