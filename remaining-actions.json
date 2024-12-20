@@ -717,9 +717,6 @@
   "many root vegetables": {
     "processer": 0.25
   },
-  "many shows": {
-    "showner": 0.3333333333333333
-  },
   "many things": {
     "maker": 0.25,
     "relater": 0.25
