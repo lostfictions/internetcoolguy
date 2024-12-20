@@ -1862,9 +1862,6 @@
   "president": {
     "electer": 1
   },
-  "price": {
-    "measurer": 0.3333333333333333
-  },
   "prices": {
     "denominater": 0.3333333333333333,
     "measurer": 0.3333333333333333
