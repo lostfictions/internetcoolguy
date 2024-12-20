@@ -1164,10 +1164,6 @@
   "television show": {
     "maker up": 0.25
   },
-  "television shows": {
-    "finder": 0.25,
-    "taper": 1
-  },
   "temperature": {
     "expresser": 0.3333333333333333,
     "measurer": 0.2
