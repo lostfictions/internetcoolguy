@@ -359,10 +359,6 @@
   "eyeglasses": {
     "improver": 0.25
   },
-  "face": {
-    "definer": 0.25,
-    "toucher": 1
-  },
   "fact": {
     "considerer": 0.3333333333333333
   },
