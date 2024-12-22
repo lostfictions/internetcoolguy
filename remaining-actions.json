@@ -916,9 +916,6 @@
   "prize": {
     "winner": 0.2
   },
-  "professional sports events": {
-    "broadcaster": 0.2
-  },
   "professional sportsperson": {
     "knower": 0.3333333333333333
   },
