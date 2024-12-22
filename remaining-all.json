@@ -588,8 +588,7 @@
   },
   "credit cards": {
     "accepter almost everywhere": 0.3333333333333333,
-    "charger": 0.3333333333333333,
-    "user": 0.25
+    "charger": 0.3333333333333333
   },
   "cricket": {
     "player": 0.2
