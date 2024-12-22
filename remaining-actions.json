@@ -310,9 +310,6 @@
   "doormats": {
     "writer": 0.5
   },
-  "double spacing": {
-    "meaner": 0.3333333333333333
-  },
   "drywall": {
     "repairer": 0.3333333333333333,
     "user": 0.25
