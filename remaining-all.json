@@ -2222,8 +2222,7 @@
   },
   "tables": {
     "constructer": 0.25,
-    "extender": 0.25,
-    "scatterer": 0.2
+    "extender": 0.25
   },
   "tanks": {
     "user": 0.3333333333333333
