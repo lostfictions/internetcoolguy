@@ -318,9 +318,6 @@
     "carrier": 0.2,
     "obtainer": 0.2
   },
-  "effort": {
-    "maker": 0.2
-  },
   "electrical machinery": {
     "turner off": 0.5
   },
