@@ -734,9 +734,6 @@
     "renter": 1,
     "showner": 0.3333333333333333
   },
-  "movie film": {
-    "keeper on": 0.3333333333333333
-  },
   "murderer": {
     "chaser": 0.3333333333333333,
     "finder": 0.25
