@@ -2262,9 +2262,6 @@
   "tests": {
     "baser": 0.25
   },
-  "textile": {
-    "manufacturer": 1
-  },
   "textiles": {
     "producer": 0.3333333333333333
   },

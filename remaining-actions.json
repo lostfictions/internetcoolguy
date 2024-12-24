@@ -1095,9 +1095,6 @@
     "expresser": 0.3333333333333333,
     "measurer": 0.2
   },
-  "textile": {
-    "manufacturer": 1
-  },
   "time": {
     "measurer": 0.3333333333333333,
     "spender": 1
