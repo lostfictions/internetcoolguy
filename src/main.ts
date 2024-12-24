@@ -55,7 +55,9 @@ function* getToot() {
       .map((e) => e[0]),
   );
 
-  yield `the ${thing} ${action} has logged on`;
+  yield Math.random() > 0.5
+    ? `the ${thing} ${action} has logged on`
+    : `the ${thing} ${action} has entered the chat`;
 
   // once we know we've posted successfully, we can write out the update files.
   delete actions[thing];
