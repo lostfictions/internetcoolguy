@@ -763,9 +763,6 @@
   "nighttime": {
     "causer": 0.25
   },
-  "nimh batteries": {
-    "recharger": 1
-  },
   "nose": {
     "finder": 0.25,
     "picker": 1

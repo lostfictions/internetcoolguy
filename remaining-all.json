@@ -1522,9 +1522,6 @@
   "nighttime": {
     "causer": 0.25
   },
-  "nimh batteries": {
-    "recharger": 1
-  },
   "nori": {
     "maker": 0.25
   },
