@@ -1510,9 +1510,6 @@
   "nickel metal hydride electric batteries": {
     "recharger": 1
   },
-  "nighttime": {
-    "causer": 0.25
-  },
   "nori": {
     "maker": 0.25
   },
