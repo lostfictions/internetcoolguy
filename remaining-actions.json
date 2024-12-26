@@ -528,11 +528,6 @@
   "leaf": {
     "user": 0.2
   },
-  "letters": {
-    "carrier": 0.2,
-    "sender": 0.3333333333333333,
-    "writer": 0.3333333333333333
-  },
   "license": {
     "requirer": 0.25
   },
