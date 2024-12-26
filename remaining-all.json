@@ -667,8 +667,7 @@
     "smoker": 1
   },
   "drywall": {
-    "repairer": 0.3333333333333333,
-    "user": 0.25
+    "repairer": 0.3333333333333333
   },
   "duck": {
     "cooker": 1
