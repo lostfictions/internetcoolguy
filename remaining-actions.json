@@ -590,9 +590,6 @@
   "many roadways": {
     "paver": 1
   },
-  "many root vegetables": {
-    "processer": 0.25
-  },
   "many things": {
     "maker": 0.25,
     "relater": 0.25
