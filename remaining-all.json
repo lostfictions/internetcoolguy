@@ -1488,9 +1488,6 @@
     "finder": 0.25,
     "picker": 1
   },
-  "noses": {
-    "involver": 0.3333333333333333
-  },
   "numbers": {
     "adder": 1,
     "adder up": 0.5,
