@@ -1182,9 +1182,6 @@
   "life": {
     "creater": 1
   },
-  "lifeboats": {
-    "finder": 0.25
-  },
   "light": {
     "affecter": 0.3333333333333333,
     "concentrater": 0.2,
