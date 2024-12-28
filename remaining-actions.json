@@ -231,10 +231,6 @@
   "correspondence classes": {
     "conducter": 0.3333333333333333
   },
-  "courses": {
-    "givener": 0.3333333333333333,
-    "offerer": 0.3333333333333333
-  },
   "crime": {
     "reducer": 0.2
   },
