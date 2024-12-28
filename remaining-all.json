@@ -772,8 +772,7 @@
     "grower": 0.5,
     "judger": 1,
     "gardener": 0.3333333333333333,
-    "receiver": 0.3333333333333333,
-    "seller": 0.25
+    "receiver": 0.3333333333333333
   },
   "food": {
     "buyer": 0.25,
