@@ -259,10 +259,6 @@
   "dog's weight": {
     "measurer": 0.3333333333333333
   },
-  "dollar": {
-    "backer": 0.3333333333333333,
-    "representer": 0.25
-  },
   "domesticated animal": {
     "keeper": 0.3333333333333333
   },
