@@ -1060,17 +1060,6 @@
   "world's money": {
     "keeper": 0.3333333333333333
   },
-  "world": {
-    "container": 0.3333333333333333,
-    "coverer": 0.2,
-    "divider": 0.2,
-    "filler": 0.2,
-    "maker up": 0.2,
-    "messer up": 0.5,
-    "overpopulater": 1,
-    "populater": 0.3333333333333333,
-    "representer": 0.3333333333333333
-  },
   "wounds": {
     "dresser": 1
   },
