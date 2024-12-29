@@ -639,9 +639,6 @@
   "dolphins": {
     "trainer": 1
   },
-  "domesticated animal": {
-    "keeper": 0.3333333333333333
-  },
   "door": {
     "closer": 1,
     "locker": 1
