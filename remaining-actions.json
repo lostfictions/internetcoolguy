@@ -846,12 +846,6 @@
     "cooker": 0.3333333333333333,
     "griller": 1
   },
-  "stone": {
-    "crusher": 1,
-    "maker": 0.25,
-    "painter": 1,
-    "user": 0.3333333333333333
-  },
   "stuffed animal": {
     "winner": 0.25
   },
