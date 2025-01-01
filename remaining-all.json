@@ -1171,8 +1171,7 @@
     "boiler": 1
   },
   "long hair": {
-    "gatherer": 0.25,
-    "brusher": 0.25
+    "gatherer": 0.25
   },
   "longitude": {
     "measurer": 0.25
