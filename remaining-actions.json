@@ -903,9 +903,6 @@
   "television programs": {
     "maker": 0.25
   },
-  "television show": {
-    "maker up": 0.25
-  },
   "temperature": {
     "expresser": 0.3333333333333333,
     "measurer": 0.2
