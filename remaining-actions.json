@@ -214,9 +214,6 @@
   "correspondence classes": {
     "conducter": 0.3333333333333333
   },
-  "crime": {
-    "reducer": 0.2
-  },
   "criminal defendant": {
     "finder": 0.2
   },
