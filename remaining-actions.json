@@ -222,10 +222,6 @@
   "dvd": {
     "player": 0.25
   },
-  "education": {
-    "carrier": 0.2,
-    "obtainer": 0.2
-  },
   "electrical power": {
     "lightener": 0.3333333333333333
   },
