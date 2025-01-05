@@ -1187,9 +1187,6 @@
     "decorator": 0.2,
     "tickler": 1
   },
-  "many roadways": {
-    "paver": 1
-  },
   "many things": {
     "maker": 0.25,
     "relater": 0.25

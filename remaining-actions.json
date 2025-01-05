@@ -458,9 +458,6 @@
   "many old things": {
     "storer": 0.3333333333333333
   },
-  "many roadways": {
-    "paver": 1
-  },
   "many things": {
     "maker": 0.25,
     "relater": 0.25
