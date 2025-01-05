@@ -588,9 +588,6 @@
   "doctor's lab coat": {
     "maker": 0.3333333333333333
   },
-  "dog's weight": {
-    "measurer": 0.3333333333333333
-  },
   "dog": {
     "feeder": 1,
     "kicker": 1,
