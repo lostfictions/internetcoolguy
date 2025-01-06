@@ -377,9 +377,6 @@
   "chess pawn": {
     "user": 0.2
   },
-  "chess piece": {
-    "user": 0.2
-  },
   "chicken": {
     "cooker": 0.3333333333333333,
     "eater": 1
