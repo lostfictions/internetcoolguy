@@ -1371,7 +1371,6 @@
     "maker": 0.25
   },
   "nose": {
-    "finder": 0.25,
     "picker": 1
   },
   "numbers": {
