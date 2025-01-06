@@ -1675,9 +1675,6 @@
   "research": {
     "requirer": 0.25
   },
-  "responsible people": {
-    "depender": 0.2
-  },
   "restaurants": {
     "closer": 1
   },
