@@ -1333,9 +1333,6 @@
   "neighbourhood": {
     "maker up": 0.25
   },
-  "nerves": {
-    "severer": 1
-  },
   "news": {
     "broadcaster": 0.3333333333333333,
     "printer": 0.3333333333333333,
