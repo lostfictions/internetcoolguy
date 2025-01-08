@@ -75,9 +75,6 @@
   "bird": {
     "eater": 1
   },
-  "body": {
-    "maker up": 0.2
-  },
   "bonfire": {
     "finder": 0.3333333333333333
   },
