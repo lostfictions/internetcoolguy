@@ -1091,8 +1091,7 @@
     "user": 0.25
   },
   "liquids": {
-    "pourer": 1,
-    "spiller": 1
+    "pourer": 1
   },
   "literature": {
     "printer": 0.3333333333333333
