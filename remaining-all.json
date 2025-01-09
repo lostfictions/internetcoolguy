@@ -226,9 +226,6 @@
   "bridges": {
     "walker": 0.5
   },
-  "bubbles": {
-    "causer": 0.3333333333333333
-  },
   "building": {
     "builder": 0.3333333333333333
   },
