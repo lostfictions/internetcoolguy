@@ -92,9 +92,6 @@
     "knower": 0.2,
     "maker up": 0.25
   },
-  "capital": {
-    "requirer": 0.2
-  },
   "carrots": {
     "cooker": 1
   },
