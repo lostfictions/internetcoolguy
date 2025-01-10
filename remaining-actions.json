@@ -32,9 +32,6 @@
   "attache case": {
     "carrier": 0.25
   },
-  "auction": {
-    "runner": 0.3333333333333333
-  },
   "backgammon": {
     "player": 0.25
   },

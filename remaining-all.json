@@ -80,9 +80,6 @@
   "attache case": {
     "carrier": 0.25
   },
-  "auction": {
-    "runner": 0.3333333333333333
-  },
   "babies": {
     "borner prematurely": 0.5,
     "dresser": 0.3333333333333333
