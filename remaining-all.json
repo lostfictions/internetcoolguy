@@ -1837,7 +1837,6 @@
   },
   "sugar": {
     "deriver": 0.25,
-    "extracter": 0.25,
     "melter": 1
   },
   "suits": {
