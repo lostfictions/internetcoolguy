@@ -112,9 +112,6 @@
     "putter": 0.3333333333333333,
     "surpriser": 1
   },
-  "civil actions": {
-    "winner": 0.3333333333333333
-  },
   "civil war": {
     "learner": 0.2
   },
