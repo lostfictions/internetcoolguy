@@ -806,9 +806,6 @@
   "greenhouses": {
     "maker mostly": 0.25
   },
-  "gun": {
-    "user": 0.3333333333333333
-  },
   "guns": {
     "firer": 0.3333333333333333,
     "firer safely": 0.25,
