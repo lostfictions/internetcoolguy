@@ -473,9 +473,6 @@
   "physical objects": {
     "matterer": 0.3333333333333333
   },
-  "plastic bags": {
-    "recycler": 1
-  },
   "play": {
     "performer": 0.25,
     "viewer": 0.3333333333333333
