@@ -406,10 +406,6 @@
     "renter": 1,
     "showner": 0.3333333333333333
   },
-  "mushrooms": {
-    "cooker": 0.2,
-    "server": 0.3333333333333333
-  },
   "neighbourhood": {
     "maker up": 0.25
   },
