@@ -1531,9 +1531,6 @@
     "teacher": 1,
     "writer": 0.25
   },
-  "red wine": {
-    "server": 0.25
-  },
   "research": {
     "requirer": 0.25
   },
