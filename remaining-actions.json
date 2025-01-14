@@ -620,9 +620,6 @@
   "waiters": {
     "ender": 0.2
   },
-  "woods": {
-    "user": 0.5
-  },
   "woodwind instrument": {
     "blower": 0.5,
     "player": 0.25
