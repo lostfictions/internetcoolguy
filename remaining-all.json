@@ -1227,9 +1227,6 @@
   "nails": {
     "driver": 0.3333333333333333
   },
-  "neighbourhood": {
-    "maker up": 0.25
-  },
   "news": {
     "broadcaster": 0.3333333333333333,
     "printer": 0.3333333333333333,
