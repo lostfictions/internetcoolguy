@@ -146,9 +146,6 @@
     "putter out": 0.25,
     "starter accidently": 0.5
   },
-  "flag": {
-    "finder": 0.3333333333333333
-  },
   "food recipes": {
     "recorder": 0.25
   },
