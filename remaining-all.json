@@ -339,7 +339,6 @@
     "eater": 1
   },
   "child": {
-    "producer": 0.25,
     "putter": 0.3333333333333333,
     "surpriser": 1
   },

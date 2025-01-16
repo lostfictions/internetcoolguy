@@ -94,11 +94,6 @@
   "chess pawn": {
     "user": 0.2
   },
-  "child": {
-    "producer": 0.25,
-    "putter": 0.3333333333333333,
-    "surpriser": 1
-  },
   "civil war": {
     "learner": 0.2
   },
