@@ -544,9 +544,6 @@
     "user": 0.25,
     "checker": 0.2
   },
-  "velvet": {
-    "crusher": 1
-  },
   "volcano": {
     "filler": 0.3333333333333333
   },
