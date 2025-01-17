@@ -899,9 +899,6 @@
   "insurance": {
     "definer": 0.3333333333333333
   },
-  "interest rates": {
-    "user": 0.3333333333333333
-  },
   "iron": {
     "attracter": 0.3333333333333333,
     "converter": 0.3333333333333333,
