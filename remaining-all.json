@@ -1714,9 +1714,6 @@
   "students": {
     "grader": 0.3333333333333333
   },
-  "stuffed animal": {
-    "winner": 0.25
-  },
   "sugar": {
     "deriver": 0.25,
     "melter": 1
