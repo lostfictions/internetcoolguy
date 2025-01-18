@@ -245,15 +245,6 @@
   "lichen": {
     "seperater": 0.2
   },
-  "light": {
-    "affecter": 0.3333333333333333,
-    "concentrater": 0.2,
-    "waver": 0.3333333333333333,
-    "maker up": 0.25,
-    "reflecter": 0.3333333333333333,
-    "requirer": 0.25,
-    "user": 0.3333333333333333
-  },
   "limes": {
     "user": 0.3333333333333333
   },
