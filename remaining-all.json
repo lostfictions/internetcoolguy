@@ -1539,9 +1539,6 @@
     "purchaser": 0.25,
     "turner": 1
   },
-  "self improvement book": {
-    "reader": 1
-  },
   "sentences": {
     "deliverer": 0.3333333333333333,
     "maker": 0.3333333333333333
