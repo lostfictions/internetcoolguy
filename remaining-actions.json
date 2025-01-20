@@ -327,9 +327,6 @@
     "performer": 0.25,
     "viewer": 0.3333333333333333
   },
-  "policy": {
-    "canceller": 1
-  },
   "porches": {
     "connecter": 0.3333333333333333
   },

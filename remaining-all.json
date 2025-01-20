@@ -1374,9 +1374,6 @@
   "poem": {
     "writer": 0.3333333333333333
   },
-  "policy": {
-    "canceller": 1
-  },
   "politicians": {
     "chooser": 0.3333333333333333,
     "electer": 0.25,
