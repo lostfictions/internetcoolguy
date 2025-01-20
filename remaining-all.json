@@ -1966,8 +1966,7 @@
     "stainer": 1
   },
   "woodwind instrument": {
-    "blower": 0.5,
-    "player": 0.25
+    "blower": 0.5
   },
   "word": {
     "misspeller": 0.5

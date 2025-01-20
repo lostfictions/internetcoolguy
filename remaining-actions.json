@@ -468,10 +468,6 @@
   "waiters": {
     "ender": 0.2
   },
-  "woodwind instrument": {
-    "blower": 0.5,
-    "player": 0.25
-  },
   "world's money": {
     "keeper": 0.3333333333333333
   },
