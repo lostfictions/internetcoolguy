@@ -750,9 +750,6 @@
   "grass": {
     "collector": 0.3333333333333333
   },
-  "greenhouses": {
-    "maker mostly": 0.25
-  },
   "guns": {
     "firer": 0.3333333333333333,
     "firer safely": 0.25,
