@@ -402,10 +402,6 @@
   "tar": {
     "container": 0.3333333333333333
   },
-  "temperature": {
-    "expresser": 0.3333333333333333,
-    "measurer": 0.2
-  },
   "times people": {
     "misspeller": 0.3333333333333333
   },
