@@ -1312,9 +1312,6 @@
   "perennials": {
     "user": 0.25
   },
-  "person's attention": {
-    "distracter": 1
-  },
   "person": {
     "burier": 0.3333333333333333,
     "caller": 0.2,
