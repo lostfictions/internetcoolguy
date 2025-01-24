@@ -1611,9 +1611,6 @@
     "deriver": 0.25,
     "melter": 1
   },
-  "suits": {
-    "maker out": 0.25
-  },
   "sulphur": {
     "extracter": 0.2
   },
