@@ -57,14 +57,6 @@
   "clubs": {
     "lister": 0.2
   },
-  "coffee": {
-    "buyer": 0.3333333333333333,
-    "enjoyedder": 0.2,
-    "brewer": 0.25,
-    "maker": 0.25,
-    "server": 0.25,
-    "seller": 0.3333333333333333
-  },
   "coins": {
     "maker": 0.3333333333333333,
     "maker out": 0.25,
