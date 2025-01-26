@@ -1529,9 +1529,6 @@
   "speed": {
     "restricter": 0.25
   },
-  "sport": {
-    "player": 0.25
-  },
   "sports": {
     "player": 0.3333333333333333
   },
