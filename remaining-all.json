@@ -780,8 +780,7 @@
     "putter": 0.2,
     "raiser": 0.3333333333333333,
     "relater": 0.3333333333333333,
-    "teacher": 0.2,
-    "trainer": 0.2
+    "teacher": 0.2
   },
   "hot dogs": {
     "seller": 0.25
