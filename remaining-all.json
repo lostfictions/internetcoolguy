@@ -672,9 +672,6 @@
     "deriver": 0.25,
     "purchaser": 0.25
   },
-  "genuine chocolate products": {
-    "deriver": 0.25
-  },
   "gift": {
     "givener": 0.25
   },
