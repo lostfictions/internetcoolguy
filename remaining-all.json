@@ -1031,9 +1031,6 @@
   "most buildings": {
     "builder": 0.25
   },
-  "most fabrics": {
-    "maker": 0.25
-  },
   "most societies": {
     "baser": 0.3333333333333333
   },
