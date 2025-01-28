@@ -72,11 +72,6 @@
   "fee": {
     "charger": 0.25
   },
-  "fires": {
-    "driver": 0.3333333333333333,
-    "putter out": 0.25,
-    "starter accidently": 0.5
-  },
   "food recipes": {
     "recorder": 0.25
   },
