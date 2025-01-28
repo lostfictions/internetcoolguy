@@ -69,9 +69,6 @@
   "fee": {
     "charger": 0.25
   },
-  "food recipes": {
-    "recorder": 0.25
-  },
   "frog": {
     "eater": 1
   },

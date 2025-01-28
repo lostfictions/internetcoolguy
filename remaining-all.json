@@ -608,9 +608,6 @@
     "seller": 0.25,
     "storer": 0.3333333333333333
   },
-  "food recipes": {
-    "recorder": 0.25
-  },
   "foods": {
     "eater": 1,
     "maker": 0.3333333333333333,
