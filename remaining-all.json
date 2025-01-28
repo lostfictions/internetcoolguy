@@ -951,9 +951,6 @@
   "many bush friendly alternative plants": {
     "grower instead": 0.2
   },
-  "many old things": {
-    "storer": 0.3333333333333333
-  },
   "many people": {
     "decorator": 0.2,
     "tickler": 1
