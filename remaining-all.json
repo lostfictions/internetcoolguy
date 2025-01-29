@@ -192,9 +192,6 @@
     "maker": 0.25,
     "server": 0.3333333333333333
   },
-  "butterflies": {
-    "attracter": 0.3333333333333333
-  },
   "cake": {
     "cutter": 1
   },
