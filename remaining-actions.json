@@ -129,9 +129,6 @@
   "people having high income": {
     "taxer heavily": 0.25
   },
-  "perennials": {
-    "user": 0.25
-  },
   "play": {
     "performer": 0.25,
     "viewer": 0.3333333333333333
