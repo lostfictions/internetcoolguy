@@ -483,9 +483,6 @@
     "closer": 1,
     "locker": 1
   },
-  "doormats": {
-    "writer": 0.5
-  },
   "drugs": {
     "buyer": 0.3333333333333333,
     "prohibiter": 1,
