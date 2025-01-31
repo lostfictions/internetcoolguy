@@ -760,9 +760,6 @@
   "human body": {
     "coverer": 0.3333333333333333
   },
-  "human ears normally": {
-    "exposer": 0.3333333333333333
-  },
   "humans": {
     "borner": 1,
     "teacher": 0.3333333333333333
