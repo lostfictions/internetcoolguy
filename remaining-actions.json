@@ -47,9 +47,5 @@
   },
   "sulphur": {
     "extracter": 0.2
-  },
-  "urine": {
-    "user": 0.25,
-    "checker": 0.2
   }
 }

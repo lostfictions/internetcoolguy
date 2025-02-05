@@ -1553,8 +1553,7 @@
     "player": 0.3333333333333333
   },
   "urine": {
-    "user": 0.25,
-    "checker": 0.2
+    "user": 0.25
   },
   "valley": {
     "surrounder": 0.3333333333333333
