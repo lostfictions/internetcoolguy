@@ -1368,9 +1368,6 @@
     "deriver": 0.25,
     "melter": 1
   },
-  "sulphur": {
-    "extracter": 0.2
-  },
   "sunlight": {
     "filterer": 0.3333333333333333
   },
