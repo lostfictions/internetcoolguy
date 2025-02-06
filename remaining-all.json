@@ -253,9 +253,6 @@
   "ceramics": {
     "manufacturer": 1
   },
-  "cereal": {
-    "buyer": 0.3333333333333333
-  },
   "chairs": {
     "coverer": 0.3333333333333333,
     "upholsterer": 0.3333333333333333
