@@ -4339,16 +4339,6 @@
   "movie film": {
     "keeper on": 0.3333333333333333
   },
-  "movies": {
-    "adapter": 0.3333333333333333,
-    "player": 0.25,
-    "recorder": 0.3333333333333333,
-    "renter": 0.25,
-    "showner": 0.25,
-    "storer": 0.3333333333333333,
-    "viewer": 0.3333333333333333,
-    "watcher": 0.3333333333333333
-  },
   "muhammad's revelation": {
     "knower": 0.3333333333333333
   },
