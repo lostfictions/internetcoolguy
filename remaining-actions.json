@@ -101,9 +101,6 @@
   "aisles": {
     "user": 0.25
   },
-  "alarm": {
-    "user": 0.25
-  },
   "alarm clocks": {
     "setter": 0.2
   },
