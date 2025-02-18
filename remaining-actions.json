@@ -3361,9 +3361,6 @@
   "large items": {
     "recycler": 0.25
   },
-  "lasagna": {
-    "eater": 1
-  },
   "lasers": {
     "user": 0.2
   },
