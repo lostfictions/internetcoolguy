@@ -4855,10 +4855,6 @@
   "photograph": {
     "cutter up": 0.5
   },
-  "photographs": {
-    "manipulater": 0.25,
-    "printer": 0.3333333333333333
-  },
   "photos": {
     "saver": 0.25
   },
