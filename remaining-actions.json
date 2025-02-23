@@ -5919,9 +5919,6 @@
   "step ladder": {
     "reacher": 0.2
   },
-  "steroids": {
-    "user": 0.2
-  },
   "stick": {
     "user": 0.3333333333333333
   },
