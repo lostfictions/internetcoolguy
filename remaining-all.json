@@ -3795,9 +3795,6 @@
   "math": {
     "teacher": 0.3333333333333333
   },
-  "matress": {
-    "finder": 0.3333333333333333
-  },
   "matter": {
     "affecter": 0.25,
     "converter": 0.3333333333333333
