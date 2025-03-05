@@ -329,9 +329,6 @@
   "backgammon": {
     "player": 0.25
   },
-  "backgammon boards": {
-    "maker": 0.25
-  },
   "background checks": {
     "requirer": 0.25
   },
