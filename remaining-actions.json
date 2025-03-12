@@ -6080,10 +6080,6 @@
   "turnstiles": {
     "locater": 0.3333333333333333
   },
-  "turntable": {
-    "player": 0.3333333333333333,
-    "user": 0.25
-  },
   "tv": {
     "watcher": 1
   },
