@@ -925,8 +925,7 @@
   },
   "carpets": {
     "buyer": 0.25,
-    "roller": 0.5,
-    "seller": 0.25
+    "roller": 0.5
   },
   "carrot": {
     "eater": 1
