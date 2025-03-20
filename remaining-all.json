@@ -5890,9 +5890,6 @@
   "thread": {
     "user": 0.25
   },
-  "thunder": {
-    "causer": 0.3333333333333333
-  },
   "tickets": {
     "buyer": 1,
     "givener": 0.25,
