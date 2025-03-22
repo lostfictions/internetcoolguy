@@ -5989,8 +5989,7 @@
     "causer": 0.2
   },
   "train seat": {
-    "finder": 0.3333333333333333,
-    "locater": 0.3333333333333333
+    "finder": 0.3333333333333333
   },
   "training": {
     "obtainer": 0.25
