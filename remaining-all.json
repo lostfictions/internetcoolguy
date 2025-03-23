@@ -5791,9 +5791,6 @@
   "tests": {
     "baser": 0.25
   },
-  "text": {
-    "reader": 1
-  },
   "textile": {
     "manufacturer": 1
   },
