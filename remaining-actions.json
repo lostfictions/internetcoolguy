@@ -5002,9 +5002,6 @@
   "slave": {
     "forcer": 0.2
   },
-  "sleep patterns": {
-    "learner": 1
-  },
   "small": {
     "coverer": 0.25
   },
