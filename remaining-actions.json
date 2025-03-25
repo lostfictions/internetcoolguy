@@ -2308,11 +2308,6 @@
   "grain": {
     "finder": 0.3333333333333333
   },
-  "granite": {
-    "etcher": 1,
-    "flamer": 1,
-    "user": 0.25
-  },
   "grant": {
     "burier": 0.25
   },

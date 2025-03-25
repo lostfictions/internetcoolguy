@@ -2440,8 +2440,7 @@
   },
   "granite": {
     "etcher": 1,
-    "flamer": 1,
-    "user": 0.25
+    "flamer": 1
   },
   "grant": {
     "burier": 0.25
