@@ -372,11 +372,6 @@
   "bank accounts": {
     "setter up": 0.25
   },
-  "banks": {
-    "closer": 0.25,
-    "regulater": 1,
-    "runner": 0.3333333333333333
-  },
   "barber comb": {
     "user": 0.3333333333333333
   },
