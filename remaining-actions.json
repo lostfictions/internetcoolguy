@@ -4197,10 +4197,6 @@
   "public transports": {
     "puller": 0.3333333333333333
   },
-  "puck": {
-    "maker": 0.25,
-    "user": 0.25
-  },
   "pueblos": {
     "builder": 0.25,
     "constructer": 0.2
