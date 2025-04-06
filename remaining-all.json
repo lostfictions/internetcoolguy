@@ -3075,7 +3075,6 @@
     "storer": 0.2
   },
   "liquids": {
-    "pourer": 1,
     "spiller": 1
   },
   "liquor": {
