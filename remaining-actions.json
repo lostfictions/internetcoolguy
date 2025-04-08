@@ -797,9 +797,6 @@
   "cardboard box": {
     "maker": 0.25
   },
-  "cardboard boxes": {
-    "recycler": 1
-  },
   "care": {
     "requirer": 0.2
   },
