@@ -3389,9 +3389,6 @@
   "most tasks": {
     "stepper": 0.25
   },
-  "most things": {
-    "divider": 0.25
-  },
   "most windows": {
     "coverer": 0.3333333333333333
   },
