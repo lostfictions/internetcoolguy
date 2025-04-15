@@ -5332,9 +5332,6 @@
   "tents": {
     "user": 0.25
   },
-  "term papers": {
-    "requirer": 0.2
-  },
   "test": {
     "taker": 1
   },
