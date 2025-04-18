@@ -2795,9 +2795,6 @@
   "large items": {
     "recycler": 0.25
   },
-  "lasers": {
-    "user": 0.2
-  },
   "latitude": {
     "measurer": 0.3333333333333333
   },
