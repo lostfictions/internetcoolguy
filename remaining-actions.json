@@ -3911,9 +3911,6 @@
   "psychotic disorders": {
     "relater": 0.25
   },
-  "public transports": {
-    "puller": 0.3333333333333333
-  },
   "pueblos": {
     "builder": 0.25,
     "constructer": 0.2
