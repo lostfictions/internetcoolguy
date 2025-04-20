@@ -1991,9 +1991,6 @@
   "food colourings": {
     "maker": 0.25
   },
-  "food recipes": {
-    "recorder": 0.25
-  },
   "foods": {
     "cooker": 0.25,
     "eater": 1,
