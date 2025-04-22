@@ -2108,9 +2108,6 @@
   "hand gun": {
     "firer": 0.25
   },
-  "hand luggage": {
-    "storer": 0.25
-  },
   "happiness": {
     "causer": 0.25
   },
