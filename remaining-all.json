@@ -506,9 +506,6 @@
   "bird's bodies": {
     "coverer": 0.3333333333333333
   },
-  "bird": {
-    "eater": 1
-  },
   "birdfeeders": {
     "builder": 0.25
   },
