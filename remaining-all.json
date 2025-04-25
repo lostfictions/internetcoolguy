@@ -4257,9 +4257,6 @@
   "reservations": {
     "requirer": 0.3333333333333333
   },
-  "restaraunt": {
-    "knower": 0.25
-  },
   "restaurant": {
     "considerer": 0.25
   },
