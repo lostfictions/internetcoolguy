@@ -2718,9 +2718,6 @@
   "lawyers": {
     "payer": 0.2
   },
-  "lcs monitors": {
-    "user": 0.3333333333333333
-  },
   "lead": {
     "melter": 1,
     "user": 0.3333333333333333
