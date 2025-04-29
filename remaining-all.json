@@ -2948,9 +2948,6 @@
   "malaria": {
     "carrier": 0.3333333333333333
   },
-  "malignant tumors": {
-    "curer": 1
-  },
   "mammal species": {
     "endangerer": 1
   },
