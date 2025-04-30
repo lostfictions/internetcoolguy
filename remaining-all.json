@@ -1898,9 +1898,6 @@
   "floors": {
     "carpeter": 1
   },
-  "flossing": {
-    "recommender": 1
-  },
   "flower": {
     "describer": 0.25,
     "picker": 1
