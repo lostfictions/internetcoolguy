@@ -3002,9 +3002,6 @@
     "decorator": 0.2,
     "tickler": 1
   },
-  "many plants": {
-    "cultivater": 0.2
-  },
   "many presidents": {
     "voter": 0.25
   },
