@@ -1250,9 +1250,6 @@
   "country code top level domains": {
     "administerer": 0.25
   },
-  "county": {
-    "container": 0.3333333333333333
-  },
   "county highway": {
     "maintainer": 0.25
   },
