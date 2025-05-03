@@ -3660,9 +3660,6 @@
   "paper towls": {
     "maker": 0.3333333333333333
   },
-  "paper trays": {
-    "stacker": 1
-  },
   "papers": {
     "user": 0.25,
     "reader": 1,
