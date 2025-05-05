@@ -4869,7 +4869,6 @@
     "riser proportionally": 0.25
   },
   "taxes": {
-    "calculator": 0.25,
     "payer": 0.25,
     "raiser": 0.3333333333333333
   },
