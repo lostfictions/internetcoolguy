@@ -4701,9 +4701,6 @@
   "streptomycin": {
     "user": 0.2
   },
-  "strike": {
-    "reporter": 0.3333333333333333
-  },
   "string": {
     "maker": 0.3333333333333333,
     "maker up": 0.25,
