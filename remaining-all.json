@@ -1179,9 +1179,6 @@
   "convict": {
     "judger": 0.3333333333333333
   },
-  "convicted criminal": {
-    "hander": 0.25
-  },
   "convicted criminals": {
     "requirer": 0.2
   },
