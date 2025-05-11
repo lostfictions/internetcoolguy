@@ -1484,9 +1484,6 @@
   "dough": {
     "maker": 0.25
   },
-  "drawer": {
-    "container": 0.2
-  },
   "drawers": {
     "puller outwards": 0.25
   },
