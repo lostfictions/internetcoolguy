@@ -1542,8 +1542,7 @@
     "writer": 0.25
   },
   "education": {
-    "carrier": 0.2,
-    "obtainer": 0.2
+    "carrier": 0.2
   },
   "effort": {
     "maker": 0.2
