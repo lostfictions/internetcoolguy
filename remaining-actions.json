@@ -3107,12 +3107,6 @@
     "experiencer": 0.2,
     "senser": 0.3333333333333333
   },
-  "paint": {
-    "applier": 0.25,
-    "describer": 0.3333333333333333,
-    "storer": 0.25,
-    "user": 0.3333333333333333
-  },
   "pantone colors": {
     "recognizer": 0.3333333333333333
   },
