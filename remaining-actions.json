@@ -3889,14 +3889,6 @@
   "sonnets": {
     "writer": 0.25
   },
-  "sound": {
-    "carrier": 0.3333333333333333,
-    "causer": 0.2,
-    "generator": 0.25,
-    "hearer": 1,
-    "measurer": 0.3333333333333333,
-    "recorder": 0.25
-  },
   "soya sauce": {
     "maker": 0.2
   },
