@@ -2105,9 +2105,6 @@
     "cooker": 0.3333333333333333,
     "maker": 0.2
   },
-  "hand gun": {
-    "firer": 0.25
-  },
   "happiness": {
     "causer": 0.25
   },
