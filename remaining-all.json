@@ -1584,9 +1584,6 @@
   "emotional drives": {
     "driver": 0.3333333333333333
   },
-  "empathy": {
-    "learner": 1
-  },
   "enemy": {
     "seener": 1
   },
