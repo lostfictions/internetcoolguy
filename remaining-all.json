@@ -1562,9 +1562,6 @@
   "electricity": {
     "turner on": 0.25
   },
-  "electromagetic radiation": {
-    "propagater": 0.2
-  },
   "electrons": {
     "affecter": 0.25,
     "deflecter": 0.25
