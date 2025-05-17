@@ -3438,9 +3438,6 @@
   "rings": {
     "exchanger": 0.25
   },
-  "road": {
-    "paver": 1
-  },
   "robots": {
     "user": 0.25
   },
