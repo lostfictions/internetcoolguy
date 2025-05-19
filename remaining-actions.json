@@ -3422,10 +3422,6 @@
   "rolodexes": {
     "lister": 0.25
   },
-  "roof": {
-    "coverer": 0.3333333333333333,
-    "finder": 0.2
-  },
   "roofing": {
     "maker": 0.2
   },
