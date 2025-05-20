@@ -2792,9 +2792,6 @@
   "net": {
     "maker": 0.2
   },
-  "networks": {
-    "constructer": 0.3333333333333333
-  },
   "neutrons": {
     "locater": 0.3333333333333333
   },
