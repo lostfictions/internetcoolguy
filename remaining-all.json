@@ -4157,9 +4157,6 @@
   "slang": {
     "avoider": 0.25
   },
-  "slave": {
-    "forcer": 0.2
-  },
   "small": {
     "coverer": 0.25
   },
