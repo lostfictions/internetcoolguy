@@ -2704,9 +2704,6 @@
   "many contagious diseases": {
     "spreader": 0.3333333333333333
   },
-  "many containers": {
-    "coverer": 0.3333333333333333
-  },
   "many different languages": {
     "speaker": 0.25
   },
