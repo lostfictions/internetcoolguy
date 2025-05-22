@@ -2875,9 +2875,6 @@
   "onions": {
     "cooker": 0.25
   },
-  "only dead timber": {
-    "user": 0.3333333333333333
-  },
   "optimists": {
     "focuser": 0.3333333333333333
   },
