@@ -593,9 +593,6 @@
   "buoy": {
     "anchorer": 1
   },
-  "bureaucracy": {
-    "knower": 0.25
-  },
   "bus": {
     "driver": 1
   },
