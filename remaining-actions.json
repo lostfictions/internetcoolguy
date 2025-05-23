@@ -3565,9 +3565,6 @@
   "sick animal": {
     "taker": 0.3333333333333333
   },
-  "sick people": {
-    "curer": 0.5
-  },
   "siding": {
     "finder": 0.3333333333333333
   },
