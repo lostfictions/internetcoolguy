@@ -1086,9 +1086,6 @@
   "convict": {
     "judger": 0.3333333333333333
   },
-  "convicted criminals": {
-    "requirer": 0.2
-  },
   "cooked food": {
     "eater": 1
   },
