@@ -3569,9 +3569,6 @@
     "eater": 1,
     "maker": 0.3333333333333333
   },
-  "pothole": {
-    "repairer": 1
-  },
   "pottery": {
     "worker": 0.25,
     "creater": 0.25
