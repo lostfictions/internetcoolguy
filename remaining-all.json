@@ -4636,9 +4636,6 @@
   "turntable": {
     "player": 0.3333333333333333
   },
-  "tv": {
-    "watcher": 1
-  },
   "tv show": {
     "showner on": 0.25
   },
