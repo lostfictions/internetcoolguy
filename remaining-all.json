@@ -1793,9 +1793,6 @@
   "giraffe's hoofs": {
     "spliter": 0.25
   },
-  "giraffe": {
-    "finder": 0.3333333333333333
-  },
   "glass": {
     "blower": 0.3333333333333333,
     "coater": 1,
