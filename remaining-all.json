@@ -4824,9 +4824,6 @@
   "wines": {
     "blender": 1
   },
-  "winve": {
-    "server": 0.25
-  },
   "wood": {
     "burner": 0.25,
     "cutter": 0.3333333333333333,
