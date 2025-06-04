@@ -1327,9 +1327,6 @@
   "finger bones": {
     "coverer": 0.3333333333333333
   },
-  "fingernail": {
-    "user": 0.3333333333333333
-  },
   "fingernails": {
     "locater": 0.3333333333333333,
     "painter": 1
