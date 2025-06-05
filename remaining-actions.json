@@ -1701,9 +1701,6 @@
   "holand": {
     "knower": 0.25
   },
-  "holidays": {
-    "baser": 0.25
-  },
   "home": {
     "returner": 0.5
   },
