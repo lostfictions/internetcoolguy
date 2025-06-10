@@ -901,10 +901,6 @@
   "country code top level domains": {
     "administerer": 0.25
   },
-  "courses": {
-    "givener": 0.3333333333333333,
-    "offerer": 0.3333333333333333
-  },
   "cow": {
     "eater": 1,
     "finder": 0.3333333333333333
