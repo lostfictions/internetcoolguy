@@ -3471,11 +3471,6 @@
     "lister alphabetically": 0.2,
     "unlister": 1
   },
-  "television": {
-    "divider": 0.3333333333333333,
-    "finder": 0.3333333333333333,
-    "user": 0.25
-  },
   "television studio": {
     "hanger": 0.2
   },
