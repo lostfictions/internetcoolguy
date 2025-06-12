@@ -1354,9 +1354,6 @@
   "education": {
     "carrier": 0.2
   },
-  "effort": {
-    "maker": 0.2
-  },
   "eggs": {
     "buyer": 0.3333333333333333,
     "cooker": 0.3333333333333333,
