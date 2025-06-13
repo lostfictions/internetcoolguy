@@ -655,9 +655,6 @@
     "maker": 0.25,
     "melter": 1
   },
-  "chokers": {
-    "maker": 0.25
-  },
   "cigarette": {
     "maker": 0.3333333333333333,
     "smoker": 0.25
