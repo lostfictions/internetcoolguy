@@ -2460,10 +2460,6 @@
   "ocean tides": {
     "influencer": 0.3333333333333333
   },
-  "oceans": {
-    "former": 0.3333333333333333,
-    "maker up": 0.2
-  },
   "officers": {
     "saluter": 1
   },
