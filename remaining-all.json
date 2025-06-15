@@ -4299,9 +4299,6 @@
   "traffic": {
     "maker up": 0.2
   },
-  "traffic jams": {
-    "causer": 0.2
-  },
   "train seat": {
     "finder": 0.3333333333333333
   },
