@@ -3272,9 +3272,6 @@
   "pool": {
     "player": 0.5
   },
-  "pop cans": {
-    "maker out": 0.25
-  },
   "popcorn": {
     "eater": 1,
     "popper": 0.3333333333333333
