@@ -3107,9 +3107,6 @@
   "soil": {
     "needer": 0.2
   },
-  "solder": {
-    "user": 0.25
-  },
   "somethimes broken thing": {
     "repairer": 1
   },
