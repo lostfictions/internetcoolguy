@@ -872,9 +872,6 @@
   "cricket": {
     "player": 0.2
   },
-  "crime": {
-    "reducer": 0.2
-  },
   "criminal": {
     "givener": 0.5
   },
