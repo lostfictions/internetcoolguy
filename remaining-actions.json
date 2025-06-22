@@ -3630,10 +3630,6 @@
   "worms": {
     "finder": 0.2
   },
-  "xylophone": {
-    "player": 0.2,
-    "striker": 0.3333333333333333
-  },
   "xylophones": {
     "maker out": 0.25
   },
