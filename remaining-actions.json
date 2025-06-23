@@ -916,9 +916,6 @@
   "dentist": {
     "payer": 0.25
   },
-  "dentist chair": {
-    "surrounder": 0.25
-  },
   "diamonds value": {
     "controller": 1
   },
