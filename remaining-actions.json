@@ -2041,9 +2041,6 @@
   "moistener": {
     "applier": 0.25
   },
-  "molecules": {
-    "maker out": 0.25
-  },
   "moments": {
     "appreciater": 0.3333333333333333,
     "measurer": 0.3333333333333333
