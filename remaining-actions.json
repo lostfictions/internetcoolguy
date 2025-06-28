@@ -2641,9 +2641,6 @@
     "enforcer": 0.3333333333333333,
     "setter": 0.2
   },
-  "russian": {
-    "writer": 0.2
-  },
   "russian roulette": {
     "player": 0.3333333333333333
   },
