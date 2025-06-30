@@ -2853,10 +2853,6 @@
   "spectacles": {
     "improver": 0.2
   },
-  "speed": {
-    "measurer": 0.2,
-    "restricter": 0.25
-  },
   "sports": {
     "divider": 0.3333333333333333,
     "player": 0.3333333333333333
