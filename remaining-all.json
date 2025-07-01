@@ -1104,9 +1104,6 @@
   "dirt": {
     "washer": 0.5
   },
-  "dirty clothes": {
-    "washer": 0.25
-  },
   "dirty dishes": {
     "washer": 0.3333333333333333
   },
