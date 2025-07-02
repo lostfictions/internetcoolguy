@@ -1721,8 +1721,7 @@
     "pusher": 0.2
   },
   "helium": {
-    "caller": 0.3333333333333333,
-    "extracter": 0.25
+    "caller": 0.3333333333333333
   },
   "helium gas": {
     "former": 0.2
