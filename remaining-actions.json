@@ -2278,9 +2278,6 @@
   "people's favourite cafes": {
     "knower": 0.25
   },
-  "people's lifespan": {
-    "extender": 0.25
-  },
   "people having high income": {
     "taxer heavily": 0.25
   },
