@@ -460,7 +460,6 @@
   },
   "buildings": {
     "designer": 1,
-    "finder": 0.2,
     "maker": 0.2
   },
   "bullet": {
