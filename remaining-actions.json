@@ -2477,9 +2477,6 @@
   "shade": {
     "causer": 0.2
   },
-  "shadows": {
-    "causer": 0.2
-  },
   "shampoo": {
     "purchaser": 0.25,
     "user": 0.25

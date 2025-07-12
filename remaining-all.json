@@ -3207,9 +3207,6 @@
   "shade": {
     "causer": 0.2
   },
-  "shadows": {
-    "causer": 0.2
-  },
   "shallow water": {
     "wader": 0.5
   },
