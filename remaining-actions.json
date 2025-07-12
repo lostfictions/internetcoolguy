@@ -501,11 +501,6 @@
   "chicago": {
     "locater": 0.25
   },
-  "chicken": {
-    "buyer": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "eater": 1
-  },
   "chloroform": {
     "user": 0.3333333333333333
   },
