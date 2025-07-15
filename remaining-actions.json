@@ -2198,9 +2198,6 @@
   "pss invalidity pension": {
     "reducer": 0.2
   },
-  "psychotic disorders": {
-    "relater": 0.25
-  },
   "pueblos": {
     "builder": 0.25,
     "constructer": 0.2
