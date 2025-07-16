@@ -1019,9 +1019,6 @@
   "disease": {
     "spreader": 0.25
   },
-  "dish containing meat": {
-    "cooker": 0.3333333333333333
-  },
   "dishes": {
     "setter": 0.3333333333333333
   },
