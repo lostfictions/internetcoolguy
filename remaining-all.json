@@ -1048,8 +1048,7 @@
     "trainer": 0.25
   },
   "dollar": {
-    "backer": 0.3333333333333333,
-    "representer": 0.25
+    "backer": 0.3333333333333333
   },
   "dollar bill": {
     "exchanger": 0.2,
