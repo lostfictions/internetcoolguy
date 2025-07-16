@@ -1354,10 +1354,6 @@
     "maker out": 0.25,
     "player": 0.2
   },
-  "insulin": {
-    "givener": 0.3333333333333333,
-    "producer": 0.3333333333333333
-  },
   "internet": {
     "finder": 0.3333333333333333
   },
