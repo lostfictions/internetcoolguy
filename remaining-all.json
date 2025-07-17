@@ -3397,9 +3397,6 @@
   "subway token": {
     "user": 0.2
   },
-  "success": {
-    "measurer": 0.2
-  },
   "sugar": {
     "extracter": 0.25,
     "melter": 1
