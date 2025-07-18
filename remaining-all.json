@@ -2577,8 +2577,7 @@
     "user": 0.25,
     "reader": 1,
     "recycler": 1,
-    "recycler easily": 0.5,
-    "storer": 0.25
+    "recycler easily": 0.5
   },
   "parking": {
     "speller": 0.3333333333333333
