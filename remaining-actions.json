@@ -2403,9 +2403,6 @@
   "sodas": {
     "obtainer": 0.25
   },
-  "soft drink orangina": {
-    "producer": 0.2
-  },
   "soil": {
     "needer": 0.2
   },
