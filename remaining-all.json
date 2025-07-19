@@ -101,9 +101,6 @@
   "antique furniture": {
     "seller": 0.2
   },
-  "anyone": {
-    "considerer": 0.5
-  },
   "apartments": {
     "builder": 0.25,
     "renter": 1
