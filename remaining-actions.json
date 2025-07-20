@@ -24,9 +24,6 @@
   "advertisements": {
     "designer": 0.25
   },
-  "air": {
-    "heater": 1
-  },
   "air ticket": {
     "exchanger": 0.2
   },
