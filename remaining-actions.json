@@ -2084,10 +2084,6 @@
   "pylorus": {
     "locater": 0.2
   },
-  "radio": {
-    "broadcaster": 0.25,
-    "hearer": 0.3333333333333333
-  },
   "rain": {
     "needer": 0.25
   },
