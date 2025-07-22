@@ -1241,9 +1241,6 @@
   "human tooth": {
     "maker": 0.25
   },
-  "human voice": {
-    "producer": 0.2
-  },
   "human waste": {
     "releaser": 0.3333333333333333
   },
