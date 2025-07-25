@@ -1473,12 +1473,6 @@
   "magician performances": {
     "seener": 0.3333333333333333
   },
-  "mail": {
-    "deliverer": 0.25,
-    "finder": 0.5,
-    "passer": 0.25,
-    "receiver": 0.3333333333333333
-  },
   "mail bags": {
     "maker out": 0.25
   },
