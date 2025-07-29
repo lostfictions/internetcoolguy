@@ -44,9 +44,6 @@
     "server": 0.3333333333333333,
     "storer": 0.25
   },
-  "all books": {
-    "writer": 0.3333333333333333
-  },
   "all conflicts": {
     "causer": 0.25
   },
