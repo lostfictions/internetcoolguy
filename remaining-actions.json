@@ -2475,15 +2475,6 @@
   "vatican": {
     "locater": 0.3333333333333333
   },
-  "vegetables": {
-    "cooker": 1,
-    "eater": 0.3333333333333333,
-    "grower": 0.2,
-    "marinater": 1,
-    "server at most": 0.25,
-    "server": 0.3333333333333333,
-    "steamer": 1
-  },
   "velvet": {
     "crusher": 1
   },
