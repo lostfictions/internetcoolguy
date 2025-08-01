@@ -1442,10 +1442,6 @@
   "many small pets": {
     "keeper": 0.3333333333333333
   },
-  "many things": {
-    "maker": 0.25,
-    "relater": 0.25
-  },
   "many tires": {
     "filler": 0.3333333333333333
   },
