@@ -613,9 +613,6 @@
   "dental chair": {
     "mover up": 0.2
   },
-  "diamonds value": {
-    "controller": 1
-  },
   "diaphragm": {
     "locater": 0.3333333333333333
   },
