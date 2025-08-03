@@ -1406,10 +1406,6 @@
   "mashed potatoes": {
     "maker": 0.2
   },
-  "materials": {
-    "recycler": 0.25,
-    "sender": 0.3333333333333333
-  },
   "matter": {
     "affecter": 0.25,
     "converter": 0.3333333333333333
