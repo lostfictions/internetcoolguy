@@ -2078,9 +2078,6 @@
   "starvations": {
     "preventer": 1
   },
-  "state funds": {
-    "raiser": 0.3333333333333333
-  },
   "steaks": {
     "cooker": 0.3333333333333333,
     "griller": 1
