@@ -548,10 +548,6 @@
   "cowboy": {
     "finder": 0.3333333333333333
   },
-  "credit": {
-    "applier": 0.5,
-    "obtainer": 0.3333333333333333
-  },
   "credit cards": {
     "accepter almost everywhere": 0.3333333333333333,
     "charger": 0.3333333333333333,
