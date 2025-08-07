@@ -2530,9 +2530,6 @@
   "prisoners": {
     "plunger": 0.3333333333333333
   },
-  "prize": {
-    "winner": 0.2
-  },
   "products": {
     "recycler": 1
   },
