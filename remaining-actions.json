@@ -2243,9 +2243,6 @@
   "trial": {
     "holder": 0.3333333333333333
   },
-  "triangle": {
-    "drawer": 0.25
-  },
   "truck": {
     "driver": 1,
     "runner": 0.25
