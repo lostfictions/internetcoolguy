@@ -1711,9 +1711,6 @@
   "life": {
     "creater": 1
   },
-  "life support": {
-    "intender": 0.2
-  },
   "light": {
     "affecter": 0.3333333333333333,
     "concentrater": 0.2,
