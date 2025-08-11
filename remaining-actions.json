@@ -1037,9 +1037,6 @@
   "infection": {
     "causer": 0.2
   },
-  "ingredients": {
-    "seller": 0.3333333333333333
-  },
   "injury": {
     "imaginer": 1
   },
