@@ -3162,8 +3162,7 @@
     "producer": 0.25
   },
   "towels": {
-    "maker mostly": 0.25,
-    "storer": 0.25
+    "maker mostly": 0.25
   },
   "tower": {
     "builder": 0.3333333333333333
