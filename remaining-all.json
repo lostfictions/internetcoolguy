@@ -81,7 +81,6 @@
     "seller": 0.2
   },
   "apartments": {
-    "builder": 0.25,
     "renter": 1
   },
   "apple juice": {
