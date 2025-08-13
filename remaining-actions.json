@@ -1017,9 +1017,6 @@
   "incomes": {
     "taxer": 1
   },
-  "infection": {
-    "causer": 0.2
-  },
   "injury": {
     "imaginer": 1
   },
