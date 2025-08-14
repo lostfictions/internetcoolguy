@@ -1338,10 +1338,6 @@
   "motor oil": {
     "obtainer": 0.25
   },
-  "mushrooms": {
-    "cooker": 0.2,
-    "server": 0.3333333333333333
-  },
   "musical instruments": {
     "player": 0.3333333333333333,
     "user": 0.3333333333333333
