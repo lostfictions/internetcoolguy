@@ -1980,9 +1980,6 @@
     "putter on": 0.2,
     "putter somewhere": 0.5
   },
-  "torn tent": {
-    "repairer": 1
-  },
   "tortillas": {
     "cooker": 0.25,
     "roller": 0.25
