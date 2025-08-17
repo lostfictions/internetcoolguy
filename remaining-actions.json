@@ -562,9 +562,6 @@
   "disneyland": {
     "namer": 0.25
   },
-  "distance": {
-    "measurer": 0.2
-  },
   "dock": {
     "finder": 0.3333333333333333
   },
