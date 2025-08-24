@@ -485,9 +485,6 @@
   "dirt": {
     "washer": 0.5
   },
-  "disease": {
-    "spreader": 0.25
-  },
   "disneyland": {
     "namer": 0.25
   },
