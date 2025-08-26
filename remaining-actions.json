@@ -695,9 +695,6 @@
   "generic drug": {
     "approver": 0.3333333333333333
   },
-  "genuine chocolate products": {
-    "deriver": 0.25
-  },
   "gifts": {
     "buyer": 0.25,
     "givener on": 0.3333333333333333
