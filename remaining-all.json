@@ -882,8 +882,7 @@
     "turner on": 0.25
   },
   "electrons": {
-    "affecter": 0.25,
-    "deflecter": 0.25
+    "affecter": 0.25
   },
   "ellis island": {
     "locater": 0.2
