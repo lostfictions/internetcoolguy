@@ -1635,9 +1635,6 @@
     "catcher": 0.2,
     "tickler": 1
   },
-  "many presidents": {
-    "voter": 0.25
-  },
   "many small pets": {
     "keeper": 0.3333333333333333
   },
