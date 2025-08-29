@@ -1380,9 +1380,6 @@
   "salt": {
     "user": 0.2
   },
-  "san francisco": {
-    "knower": 0.25
-  },
   "sauce": {
     "maker": 0.3333333333333333,
     "server": 0.3333333333333333
