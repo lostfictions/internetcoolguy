@@ -275,10 +275,6 @@
     "printer": 0.3333333333333333,
     "writer": 0.25
   },
-  "checks": {
-    "turner": 0.2,
-    "writer": 1
-  },
   "chess pawn": {
     "user": 0.2
   },
