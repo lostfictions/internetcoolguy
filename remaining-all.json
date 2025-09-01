@@ -844,9 +844,6 @@
   "electrical energy": {
     "converter": 0.25
   },
-  "electrical power": {
-    "lightener": 0.3333333333333333
-  },
   "electricity": {
     "turner on": 0.25
   },
