@@ -130,13 +130,6 @@
   "blockbuster movies": {
     "seener": 0.25
   },
-  "boats": {
-    "builder": 0.3333333333333333,
-    "designer": 0.3333333333333333,
-    "maker": 0.2,
-    "propeller": 0.3333333333333333,
-    "storer": 0.3333333333333333
-  },
   "bombs": {
     "user": 0.3333333333333333
   },
