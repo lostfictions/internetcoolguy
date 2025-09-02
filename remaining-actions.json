@@ -673,9 +673,6 @@
   "grow lamps": {
     "designer": 0.2
   },
-  "hair dryers": {
-    "user": 0.3333333333333333
-  },
   "happiness": {
     "causer": 0.25
   },
