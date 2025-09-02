@@ -1692,9 +1692,6 @@
   "most items": {
     "buyer": 0.5
   },
-  "most journeys": {
-    "maker": 0.3333333333333333
-  },
   "most paper": {
     "maker": 0.25
   },
