@@ -639,9 +639,6 @@
   "cortisone": {
     "user": 0.25
   },
-  "costs": {
-    "reducer": 0.3333333333333333
-  },
   "cotton": {
     "spinner": 0.3333333333333333
   },
