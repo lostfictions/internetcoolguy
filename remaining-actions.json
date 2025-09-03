@@ -1399,9 +1399,6 @@
   "step ladder": {
     "reacher": 0.2
   },
-  "sticky tape": {
-    "peeller off": 0.5
-  },
   "stocks": {
     "issuer": 1
   },
