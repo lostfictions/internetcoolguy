@@ -2620,9 +2620,6 @@
   "temperature": {
     "expresser": 0.3333333333333333
   },
-  "tennis": {
-    "player": 0.2
-  },
   "tennis ball": {
     "hitter": 0.25
   },
