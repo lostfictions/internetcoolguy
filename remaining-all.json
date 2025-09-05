@@ -2667,8 +2667,7 @@
     "treater": 0.3333333333333333
   },
   "tortillas": {
-    "cooker": 0.25,
-    "roller": 0.25
+    "cooker": 0.25
   },
   "total": {
     "producer": 0.25
