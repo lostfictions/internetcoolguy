@@ -486,9 +486,6 @@
   "fitting room": {
     "supposer": 0.3333333333333333
   },
-  "fizzy drinks": {
-    "storer": 0.3333333333333333
-  },
   "floor": {
     "coverer": 0.3333333333333333,
     "lier down": 0.5
