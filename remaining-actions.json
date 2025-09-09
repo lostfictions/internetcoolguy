@@ -1280,10 +1280,6 @@
   "starvations": {
     "preventer": 1
   },
-  "steaks": {
-    "cooker": 0.3333333333333333,
-    "griller": 1
-  },
   "step ladder": {
     "reacher": 0.2
   },
