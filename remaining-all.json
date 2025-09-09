@@ -2309,9 +2309,6 @@
   "soil": {
     "needer": 0.2
   },
-  "somethimes broken thing": {
-    "repairer": 1
-  },
   "song": {
     "writer": 0.3333333333333333
   },

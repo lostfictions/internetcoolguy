@@ -1250,9 +1250,6 @@
   "soil": {
     "needer": 0.2
   },
-  "somethimes broken thing": {
-    "repairer": 1
-  },
   "sonnets": {
     "writer": 0.25
   },
