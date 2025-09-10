@@ -1304,10 +1304,6 @@
     "conducter": 0.3333333333333333,
     "performer": 0.3333333333333333
   },
-  "teeth": {
-    "coverer": 0.3333333333333333,
-    "chewer": 0.25
-  },
   "telephone call": {
     "maker": 0.25
   },
