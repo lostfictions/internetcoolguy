@@ -802,9 +802,6 @@
   "electrical energy": {
     "converter": 0.25
   },
-  "electricity": {
-    "turner on": 0.25
-  },
   "electrons": {
     "affecter": 0.25
   },
