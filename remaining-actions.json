@@ -1360,11 +1360,6 @@
   "tulips": {
     "grower": 0.3333333333333333
   },
-  "turkey": {
-    "buyer": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "seller": 0.3333333333333333
-  },
   "two liter soda bottles": {
     "recycler": 1
   },
