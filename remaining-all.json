@@ -971,9 +971,6 @@
   "fruit juice": {
     "server": 0.3333333333333333
   },
-  "fruit tea": {
-    "maker": 0.2
-  },
   "furniture": {
     "buyer": 0.3333333333333333,
     "designer": 0.3333333333333333,
