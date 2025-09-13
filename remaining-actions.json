@@ -824,9 +824,6 @@
   "most industrial products": {
     "seller": 0.3333333333333333
   },
-  "most items": {
-    "buyer": 0.5
-  },
   "most paper": {
     "maker": 0.25
   },
