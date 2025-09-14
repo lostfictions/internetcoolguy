@@ -532,9 +532,6 @@
   "grain": {
     "finder": 0.3333333333333333
   },
-  "grant": {
-    "burier": 0.25
-  },
   "graveyards": {
     "manager": 0.25
   },
