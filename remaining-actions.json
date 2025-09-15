@@ -1038,9 +1038,6 @@
     "closer": 1,
     "locater": 0.3333333333333333
   },
-  "return policies": {
-    "setter": 0.3333333333333333
-  },
   "rock": {
     "maker up": 0.25
   },
