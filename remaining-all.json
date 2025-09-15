@@ -834,9 +834,6 @@
   "face": {
     "toucher": 1
   },
-  "falling": {
-    "causer": 0.25
-  },
   "fee": {
     "charger": 0.25
   },
