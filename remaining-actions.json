@@ -1241,15 +1241,6 @@
     "recycler": 1,
     "storer": 1
   },
-  "trees": {
-    "affecter": 0.3333333333333333,
-    "blower away": 0.2,
-    "coverer": 0.3333333333333333,
-    "cutter down": 0.2,
-    "cutter": 0.3333333333333333,
-    "maker": 0.25,
-    "raiser": 0.3333333333333333
-  },
   "triage": {
     "user": 0.25
   },
