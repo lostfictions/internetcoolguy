@@ -1205,9 +1205,6 @@
   "triage": {
     "user": 0.25
   },
-  "trial": {
-    "holder": 0.3333333333333333
-  },
   "truck": {
     "driver": 1,
     "runner": 0.25
