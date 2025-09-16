@@ -2262,9 +2262,6 @@
   "step ladder": {
     "reacher": 0.2
   },
-  "stocks": {
-    "issuer": 1
-  },
   "stone": {
     "crusher": 1,
     "painter": 1,

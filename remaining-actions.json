@@ -1122,9 +1122,6 @@
   "step ladder": {
     "reacher": 0.2
   },
-  "stocks": {
-    "issuer": 1
-  },
   "stores": {
     "closer": 0.3333333333333333
   },
