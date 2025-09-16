@@ -1714,8 +1714,7 @@
     "eater": 1
   },
   "orange": {
-    "eater": 1,
-    "holder": 0.25
+    "eater": 1
   },
   "orangina": {
     "distributor": 0.2
