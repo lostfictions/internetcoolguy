@@ -1444,9 +1444,6 @@
     "catcher": 0.2,
     "tickler": 1
   },
-  "many small pets": {
-    "keeper": 0.3333333333333333
-  },
   "many things": {
     "maker": 0.25
   },
