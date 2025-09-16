@@ -2006,8 +2006,7 @@
     "considerer": 0.25
   },
   "restaurants": {
-    "closer": 1,
-    "locater": 0.3333333333333333
+    "closer": 1
   },
   "ribbons": {
     "cutter": 0.3333333333333333

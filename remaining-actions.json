@@ -1002,10 +1002,6 @@
   "restaurant": {
     "considerer": 0.25
   },
-  "restaurants": {
-    "closer": 1,
-    "locater": 0.3333333333333333
-  },
   "rock": {
     "maker up": 0.25
   },
