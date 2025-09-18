@@ -554,9 +554,6 @@
     "maker": 0.2,
     "producer": 0.25
   },
-  "hose": {
-    "deflater": 1
-  },
   "hourglass": {
     "user": 0.3333333333333333
   },
