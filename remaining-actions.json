@@ -1168,10 +1168,6 @@
   "triage": {
     "user": 0.25
   },
-  "truck": {
-    "driver": 1,
-    "runner": 0.25
-  },
   "truck owners": {
     "concerner": 0.25
   },
