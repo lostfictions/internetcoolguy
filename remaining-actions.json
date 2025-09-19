@@ -1104,9 +1104,6 @@
     "rememberer": 1,
     "user": 0.2
   },
-  "thread": {
-    "user": 0.25
-  },
   "tickets": {
     "buyer": 1,
     "givener": 0.25,
