@@ -338,9 +338,6 @@
   "egyptian food": {
     "server": 0.3333333333333333
   },
-  "electric batteries": {
-    "recharger": 1
-  },
   "electrical energy": {
     "converter": 0.25
   },
