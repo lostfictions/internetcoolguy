@@ -671,9 +671,6 @@
   "disneyland": {
     "namer": 0.25
   },
-  "dog's weight": {
-    "measurer": 0.3333333333333333
-  },
   "dog": {
     "buyer": 0.25,
     "feeder": 1,
