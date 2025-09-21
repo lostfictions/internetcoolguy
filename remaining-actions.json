@@ -1098,9 +1098,6 @@
     "recycler": 1,
     "storer": 1
   },
-  "triage": {
-    "user": 0.25
-  },
   "truck owners": {
     "concerner": 0.25
   },
