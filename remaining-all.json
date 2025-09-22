@@ -1486,9 +1486,6 @@
   "most zinc production": {
     "baser": 0.25
   },
-  "motor oil": {
-    "obtainer": 0.25
-  },
   "movie": {
     "scener": 0.3333333333333333,
     "worker": 0.25,
