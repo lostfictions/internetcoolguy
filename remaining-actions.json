@@ -799,10 +799,6 @@
   "pencil": {
     "maker": 0.3333333333333333
   },
-  "penny": {
-    "finder": 0.3333333333333333,
-    "maker out": 0.25
-  },
   "people's favourite cafes": {
     "knower": 0.25
   },
