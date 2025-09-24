@@ -1873,9 +1873,6 @@
   "religious memes": {
     "spreader": 0.25
   },
-  "reservations": {
-    "requirer": 0.3333333333333333
-  },
   "restaurant": {
     "considerer": 0.25
   },
