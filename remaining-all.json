@@ -2434,9 +2434,6 @@
   "wearing seatbelt": {
     "requirer": 0.3333333333333333
   },
-  "wet things": {
-    "coverer": 0.3333333333333333
-  },
   "wig": {
     "buyer": 0.25
   },
