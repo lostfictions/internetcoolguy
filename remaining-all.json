@@ -728,9 +728,6 @@
   "ely ammunition": {
     "maker": 0.3333333333333333
   },
-  "enemy": {
-    "seener": 1
-  },
   "energy": {
     "needer": 0.25
   },
