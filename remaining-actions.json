@@ -758,9 +758,6 @@
     "electer": 1,
     "voter": 0.3333333333333333
   },
-  "price": {
-    "measurer": 0.3333333333333333
-  },
   "pss invalidity pension": {
     "reducer": 0.2
   },
