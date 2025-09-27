@@ -869,9 +869,6 @@
   "step ladder": {
     "reacher": 0.2
   },
-  "stores": {
-    "closer": 0.3333333333333333
-  },
   "stringed instrument": {
     "tuner": 1
   },
