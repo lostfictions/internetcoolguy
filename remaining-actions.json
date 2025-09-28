@@ -946,12 +946,6 @@
   "wasabi": {
     "server": 0.3333333333333333
   },
-  "wax": {
-    "boiler": 1,
-    "former": 0.3333333333333333,
-    "melter": 1,
-    "user": 0.3333333333333333
-  },
   "wearing seatbelt": {
     "requirer": 0.3333333333333333
   },
