@@ -1241,8 +1241,7 @@
     "gatherer": 0.25
   },
   "lot": {
-    "considerer": 0.5,
-    "sharer": 0.3333333333333333
+    "considerer": 0.5
   },
   "luxury": {
     "earner": 1
