@@ -2173,9 +2173,6 @@
     "givener": 0.25,
     "seller": 0.25
   },
-  "tides": {
-    "causer": 0.25
-  },
   "time": {
     "spender": 1
   },
