@@ -253,9 +253,6 @@
   "dirt": {
     "washer": 0.5
   },
-  "disneyland": {
-    "namer": 0.25
-  },
   "dog": {
     "buyer": 0.25,
     "feeder": 1,
