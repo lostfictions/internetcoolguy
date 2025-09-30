@@ -298,9 +298,6 @@
   "fee": {
     "charger": 0.25
   },
-  "feelings": {
-    "expresser": 0.3333333333333333
-  },
   "films": {
     "projecter": 0.3333333333333333,
     "shooter": 0.2
