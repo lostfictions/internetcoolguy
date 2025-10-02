@@ -816,10 +816,6 @@
   "tom": {
     "attracter": 0.3333333333333333
   },
-  "tomatoes": {
-    "putter on": 0.2,
-    "putter somewhere": 0.5
-  },
   "total": {
     "producer": 0.25
   },
