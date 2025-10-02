@@ -1961,9 +1961,6 @@
   "staples": {
     "storer": 0.3333333333333333
   },
-  "starvations": {
-    "preventer": 1
-  },
   "steak": {
     "cooker": 0.3333333333333333,
     "cutter": 1,
