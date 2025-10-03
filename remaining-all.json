@@ -1699,9 +1699,6 @@
   "pumpkins": {
     "eater": 1
   },
-  "pylorus": {
-    "locater": 0.2
-  },
   "rabbit": {
     "finder": 0.3333333333333333
   },

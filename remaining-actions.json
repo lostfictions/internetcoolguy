@@ -636,9 +636,6 @@
   "pumpkin": {
     "maker": 0.3333333333333333
   },
-  "pylorus": {
-    "locater": 0.2
-  },
   "rain": {
     "needer": 0.25
   },
