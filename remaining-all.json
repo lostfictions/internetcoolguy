@@ -1171,9 +1171,6 @@
   "lot": {
     "considerer": 0.5
   },
-  "luxury": {
-    "earner": 1
-  },
   "machines": {
     "builder": 1
   },
