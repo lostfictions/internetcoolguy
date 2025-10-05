@@ -523,10 +523,6 @@
     "maker": 0.25,
     "user": 0.2
   },
-  "nose": {
-    "finder": 0.25,
-    "picker": 1
-  },
   "officers": {
     "saluter": 1
   },
