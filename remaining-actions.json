@@ -35,9 +35,6 @@
   "background checks": {
     "requirer": 0.25
   },
-  "bad people": {
-    "sender": 0.2
-  },
   "balcony": {
     "raiser": 1
   },
