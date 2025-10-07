@@ -1902,9 +1902,6 @@
     "extracter": 0.25,
     "melter": 1
   },
-  "sulfa drugs": {
-    "deriver": 0.3333333333333333
-  },
   "sunlight": {
     "filterer": 0.3333333333333333
   },
