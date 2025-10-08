@@ -130,9 +130,6 @@
   "beans": {
     "user": 0.3333333333333333
   },
-  "beards": {
-    "remover": 0.3333333333333333
-  },
   "beef": {
     "griller": 1,
     "marinater": 1
