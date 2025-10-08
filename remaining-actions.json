@@ -680,14 +680,6 @@
   "traffic": {
     "maker up": 0.2
   },
-  "trash": {
-    "collector": 0.5,
-    "collector once": 0.3333333333333333,
-    "picker up": 0.25,
-    "caner": 0.25,
-    "recycler": 1,
-    "storer": 1
-  },
   "truck owners": {
     "concerner": 0.25
   },
