@@ -650,11 +650,6 @@
   "thermic lance tip": {
     "igniter": 0.25
   },
-  "tickets": {
-    "buyer": 1,
-    "givener": 0.25,
-    "seller": 0.25
-  },
   "tissue": {
     "finder": 0.25
   },
