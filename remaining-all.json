@@ -1499,8 +1499,7 @@
   },
   "pictures": {
     "hanger": 0.3333333333333333,
-    "storer": 0.25,
-    "user": 0.2
+    "storer": 0.25
   },
   "pill": {
     "designer": 0.2
