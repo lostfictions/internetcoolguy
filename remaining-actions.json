@@ -218,12 +218,6 @@
   "fish sauce": {
     "user": 0.25
   },
-  "foods": {
-    "cooker": 0.25,
-    "eater": 1,
-    "maker": 0.3333333333333333,
-    "server": 0.3333333333333333
-  },
   "football": {
     "player": 0.2
   },
