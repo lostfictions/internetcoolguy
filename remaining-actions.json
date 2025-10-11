@@ -195,9 +195,6 @@
   "egyptian food": {
     "server": 0.3333333333333333
   },
-  "electrical energy": {
-    "converter": 0.25
-  },
   "ellis island": {
     "locater": 0.2
   },

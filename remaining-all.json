@@ -625,9 +625,6 @@
   "egyptian food": {
     "server": 0.3333333333333333
   },
-  "electrical energy": {
-    "converter": 0.25
-  },
   "electrons": {
     "affecter": 0.25
   },
