@@ -404,9 +404,6 @@
   "most smiles": {
     "starter": 0.25
   },
-  "most zinc production": {
-    "baser": 0.25
-  },
   "musical instruments": {
     "player": 0.3333333333333333,
     "user": 0.3333333333333333
