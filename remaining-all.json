@@ -259,9 +259,6 @@
     "maker out": 0.25,
     "recycler": 1
   },
-  "capsicum": {
-    "user": 0.25
-  },
   "car": {
     "buyer": 0.25,
     "driver": 0.3333333333333333,
