@@ -49,9 +49,6 @@
   "apartments": {
     "renter": 1
   },
-  "apple juice": {
-    "maker": 0.25
-  },
   "apples": {
     "cooker": 1,
     "eater": 1,
