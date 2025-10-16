@@ -132,12 +132,6 @@
   "dirt": {
     "washer": 0.5
   },
-  "dog": {
-    "buyer": 0.25,
-    "feeder": 1,
-    "kicker": 1,
-    "lover": 1
-  },
   "dough": {
     "maker": 0.25
   },
