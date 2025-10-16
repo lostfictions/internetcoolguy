@@ -19,9 +19,6 @@
   "aeroplanes": {
     "propeller": 0.3333333333333333
   },
-  "air ticket": {
-    "exchanger": 0.2
-  },
   "alcohol": {
     "buyer": 0.3333333333333333,
     "igniter easily": 0.5,
