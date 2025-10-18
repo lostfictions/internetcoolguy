@@ -1699,9 +1699,6 @@
   "students": {
     "grader": 0.3333333333333333
   },
-  "subway token": {
-    "user": 0.2
-  },
   "sugar": {
     "extracter": 0.25,
     "melter": 1
