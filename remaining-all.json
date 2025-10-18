@@ -83,9 +83,6 @@
     "filler": 0.3333333333333333,
     "inflater": 1
   },
-  "balls": {
-    "designer": 0.3333333333333333
-  },
   "banks": {
     "regulater": 1,
     "runner": 0.3333333333333333
