@@ -54,10 +54,6 @@
     "coverer": 0.3333333333333333,
     "stroker": 1
   },
-  "check": {
-    "printer": 0.3333333333333333,
-    "writer": 0.25
-  },
   "chess pawn": {
     "user": 0.2
   },
