@@ -393,9 +393,6 @@
   "comedy": {
     "meaner": 0.25
   },
-  "comics": {
-    "intender": 0.2
-  },
   "computer": {
     "purchaser": 0.25,
     "teacher": 1,
