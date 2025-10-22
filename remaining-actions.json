@@ -47,10 +47,6 @@
     "finder": 0.3333333333333333,
     "user": 0.25
   },
-  "cats": {
-    "coverer": 0.3333333333333333,
-    "stroker": 1
-  },
   "chess pawn": {
     "user": 0.2
   },
