@@ -508,9 +508,6 @@
     "closer": 1,
     "locker": 1
   },
-  "dough": {
-    "maker": 0.25
-  },
   "drawers": {
     "puller outwards": 0.25
   },

@@ -79,9 +79,6 @@
   "dirt": {
     "washer": 0.5
   },
-  "dough": {
-    "maker": 0.25
-  },
   "drawers": {
     "puller outwards": 0.25
   },
