@@ -275,9 +275,6 @@
     "builder": 0.25,
     "constructer": 0.2
   },
-  "rain": {
-    "needer": 0.25
-  },
   "rainfall": {
     "measurer": 0.3333333333333333
   },
