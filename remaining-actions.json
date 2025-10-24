@@ -237,9 +237,6 @@
   "rainfall": {
     "measurer": 0.3333333333333333
   },
-  "restaurant": {
-    "considerer": 0.25
-  },
   "salsa": {
     "maker": 0.3333333333333333
   },
