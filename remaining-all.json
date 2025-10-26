@@ -377,9 +377,6 @@
     "speaker": 0.3333333333333333,
     "writer": 0.3333333333333333
   },
-  "comedy": {
-    "meaner": 0.25
-  },
   "computer": {
     "purchaser": 0.25,
     "teacher": 1,
