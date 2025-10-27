@@ -902,9 +902,6 @@
   "liquids": {
     "spiller": 1
   },
-  "liquor": {
-    "storer": 0.25
-  },
   "lobster": {
     "steamer": 1
   },
