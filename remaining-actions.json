@@ -95,11 +95,6 @@
   "instrument": {
     "player": 1
   },
-  "jelly": {
-    "childrener": 0.3333333333333333,
-    "maker": 0.3333333333333333,
-    "storer": 0.3333333333333333
-  },
   "levitation": {
     "demonstrater": 0.2
   },
