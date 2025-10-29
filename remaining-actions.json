@@ -112,9 +112,6 @@
   "most smiles": {
     "starter": 0.25
   },
-  "mutual funds": {
-    "holder": 0.25
-  },
   "nickel metal hydride electric batteries": {
     "recharger": 1
   },
