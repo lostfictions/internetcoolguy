@@ -142,9 +142,6 @@
     "builder": 0.25,
     "constructer": 0.2
   },
-  "rainfall": {
-    "measurer": 0.3333333333333333
-  },
   "sausage": {
     "eater": 1,
     "maker": 0.3333333333333333
