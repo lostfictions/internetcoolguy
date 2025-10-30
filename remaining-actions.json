@@ -5,9 +5,6 @@
   "beans": {
     "user": 0.3333333333333333
   },
-  "bill": {
-    "writer": 0.3333333333333333
-  },
   "biological machines": {
     "reproducer": 1
   },
