@@ -1085,9 +1085,6 @@
     "storer": 0.3333333333333333,
     "writer": 0.5
   },
-  "paper towls": {
-    "maker": 0.3333333333333333
-  },
   "papers": {
     "user": 0.25,
     "reader": 1,
