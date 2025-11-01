@@ -1160,9 +1160,6 @@
     "hanger": 0.3333333333333333,
     "storer": 0.25
   },
-  "pill": {
-    "designer": 0.2
-  },
   "plane ticket": {
     "printer": 0.3333333333333333,
     "purchaser": 0.3333333333333333
