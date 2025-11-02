@@ -1218,8 +1218,7 @@
     "maker": 0.25
   },
   "pueblos": {
-    "builder": 0.25,
-    "constructer": 0.2
+    "builder": 0.25
   },
   "pulp": {
     "maker": 0.3333333333333333

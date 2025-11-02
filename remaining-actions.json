@@ -65,10 +65,6 @@
   "ovens": {
     "designer": 0.2
   },
-  "pueblos": {
-    "builder": 0.25,
-    "constructer": 0.2
-  },
   "sausage": {
     "eater": 1,
     "maker": 0.3333333333333333
