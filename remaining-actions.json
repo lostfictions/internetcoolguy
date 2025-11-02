@@ -79,9 +79,6 @@
     "eater": 1,
     "maker": 0.3333333333333333
   },
-  "soil": {
-    "needer": 0.2
-  },
   "stringed instrument": {
     "tuner": 1
   },
