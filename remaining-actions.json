@@ -49,10 +49,6 @@
   "ovens": {
     "designer": 0.2
   },
-  "teaching": {
-    "conducter": 0.3333333333333333,
-    "performer": 0.3333333333333333
-  },
   "tissue": {
     "finder": 0.25
   }
