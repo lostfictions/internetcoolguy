@@ -5,10 +5,6 @@
   "biological machines": {
     "reproducer": 1
   },
-  "building": {
-    "builder": 0.3333333333333333,
-    "divider": 0.3333333333333333
-  },
   "calendars": {
     "carrier": 0.3333333333333333,
     "finder": 0.25
