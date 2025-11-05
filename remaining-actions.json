@@ -2,9 +2,6 @@
   "biological machines": {
     "reproducer": 1
   },
-  "fee": {
-    "charger": 0.25
-  },
   "nickel metal hydride electric batteries": {
     "recharger": 1
   }
