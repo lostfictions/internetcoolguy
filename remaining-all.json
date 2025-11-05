@@ -1448,9 +1448,6 @@
   "tires": {
     "filler": 0.3333333333333333
   },
-  "tissue": {
-    "finder": 0.25
-  },
   "toast": {
     "eater": 1
   },
