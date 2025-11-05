@@ -2,9 +2,6 @@
   "biological machines": {
     "reproducer": 1
   },
-  "chicago": {
-    "locater": 0.25
-  },
   "fee": {
     "charger": 0.25
   },

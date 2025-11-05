@@ -258,9 +258,6 @@
     "eater": 1,
     "maker": 0.3333333333333333
   },
-  "chicago": {
-    "locater": 0.25
-  },
   "chicken": {
     "cooker": 0.3333333333333333,
     "eater": 1
