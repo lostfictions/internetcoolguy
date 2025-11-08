@@ -5447,9 +5447,6 @@
   "restaraunt": {
     "knower": 0.25
   },
-  "restaurant": {
-    "considerer": 0.25
-  },
   "restaurant bill": {
     "writer": 0.3333333333333333
   },
