@@ -6207,10 +6207,6 @@
     "eater": 0.25,
     "server": 0.3333333333333333
   },
-  "steaks": {
-    "cooker": 0.3333333333333333,
-    "griller": 1
-  },
   "steel": {
     "maker": 0.25,
     "melter": 1,
