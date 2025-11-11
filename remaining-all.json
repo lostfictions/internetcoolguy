@@ -4890,9 +4890,6 @@
   "permits": {
     "requirer": 0.2
   },
-  "person's attention": {
-    "distracter": 1
-  },
   "person's emotions": {
     "trainer": 1
   },
