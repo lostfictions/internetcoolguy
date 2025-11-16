@@ -4129,9 +4129,6 @@
   "most copper production": {
     "baser": 0.25
   },
-  "most cosmic ray particles": {
-    "producer": 0.25
-  },
   "most dinners": {
     "cooker": 1
   },
