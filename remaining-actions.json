@@ -2879,9 +2879,6 @@
   "holidays": {
     "baser": 0.25
   },
-  "home": {
-    "returner": 0.5
-  },
   "home owners": {
     "concerner": 0.25
   },
