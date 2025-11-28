@@ -4087,9 +4087,6 @@
   "myrrh oil": {
     "extracter": 0.25
   },
-  "nail": {
-    "hitter": 0.3333333333333333
-  },
   "nails": {
     "buyer": 0.25,
     "driver": 0.3333333333333333
