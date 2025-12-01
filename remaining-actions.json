@@ -4973,9 +4973,6 @@
   "responsible people": {
     "depender": 0.2
   },
-  "restaraunt": {
-    "knower": 0.25
-  },
   "restaurant bill": {
     "writer": 0.3333333333333333
   },
