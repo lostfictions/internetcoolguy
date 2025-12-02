@@ -4532,9 +4532,6 @@
   "pelvic inflammatory disease": {
     "finder exclusively": 0.25
   },
-  "penalty": {
-    "administerer": 0.2
-  },
   "penis": {
     "nicknamer a'willy": 0.5
   },
