@@ -779,9 +779,6 @@
   "buoy": {
     "anchorer": 1
   },
-  "bureaucracy": {
-    "knower": 0.25
-  },
   "bureaus": {
     "runner": 0.3333333333333333
   },
