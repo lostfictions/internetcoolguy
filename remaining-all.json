@@ -5059,9 +5059,6 @@
   "rock": {
     "maker up": 0.25
   },
-  "rock music": {
-    "listener": 0.25
-  },
   "rockets": {
     "launcher": 0.25
   },
