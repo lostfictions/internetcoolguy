@@ -6448,9 +6448,6 @@
   "wooden siding": {
     "user": 0.3333333333333333
   },
-  "woods": {
-    "user": 0.5
-  },
   "woodwind instrument": {
     "blower": 0.5,
     "player": 0.25
