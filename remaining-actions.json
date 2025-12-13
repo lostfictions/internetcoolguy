@@ -353,9 +353,6 @@
     "maker out": 0.25,
     "recycler": 1
   },
-  "bait": {
-    "attacher": 0.25
-  },
   "balcony": {
     "raiser": 1
   },
