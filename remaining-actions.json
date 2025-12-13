@@ -3549,9 +3549,6 @@
   "military": {
     "divider": 0.3333333333333333
   },
-  "mind": {
-    "influencer": 0.3333333333333333
-  },
   "mines": {
     "closer": 1
   },
