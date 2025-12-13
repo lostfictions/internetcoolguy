@@ -5926,10 +5926,6 @@
     "givener": 0.3333333333333333,
     "keeper": 0.25
   },
-  "truck": {
-    "driver": 1,
-    "runner": 0.25
-  },
   "trumpet": {
     "player": 0.3333333333333333
   },

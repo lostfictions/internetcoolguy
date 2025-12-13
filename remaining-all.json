@@ -6117,8 +6117,7 @@
     "keeper": 0.25
   },
   "truck": {
-    "driver": 1,
-    "runner": 0.25
+    "driver": 1
   },
   "trumpet": {
     "player": 0.3333333333333333
