@@ -696,9 +696,6 @@
   "briefcase": {
     "carrier": 0.25
   },
-  "broken telephone": {
-    "repairer": 1
-  },
   "brooms": {
     "user": 0.2
   },
