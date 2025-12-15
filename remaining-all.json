@@ -3817,9 +3817,6 @@
   "most outdoor meetings": {
     "holder": 0.25
   },
-  "most plastics": {
-    "maker": 0.3333333333333333
-  },
   "most questions": {
     "answerer": 0.25
   },
