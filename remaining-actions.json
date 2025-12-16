@@ -5617,10 +5617,6 @@
   "thermic lance tip": {
     "igniter": 0.25
   },
-  "thing": {
-    "rememberer": 1,
-    "user": 0.2
-  },
   "things": {
     "buyer": 0.3333333333333333,
     "collector": 0.3333333333333333,
