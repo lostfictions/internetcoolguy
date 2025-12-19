@@ -3472,9 +3472,6 @@
   "mexico": {
     "locater": 0.25
   },
-  "military": {
-    "divider": 0.3333333333333333
-  },
   "mines": {
     "closer": 1
   },
