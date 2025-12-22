@@ -1800,9 +1800,6 @@
     "gainer quickly": 0.2,
     "needer": 0.25
   },
-  "engine": {
-    "replacer": 1
-  },
   "english": {
     "speaker": 1
   },
