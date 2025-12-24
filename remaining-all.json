@@ -193,9 +193,6 @@
   "antibiotics": {
     "user": 0.25
   },
-  "antibody": {
-    "producer": 0.25
-  },
   "ants": {
     "finder": 0.25
   },
