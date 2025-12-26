@@ -5490,9 +5490,6 @@
   "swiss males": {
     "requirer": 0.2
   },
-  "t shirt": {
-    "considerer": 0.3333333333333333
-  },
   "table centerpieces": {
     "taker": 0.25
   },
