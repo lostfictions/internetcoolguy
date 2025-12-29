@@ -3488,9 +3488,6 @@
   "motor oil": {
     "obtainer": 0.25
   },
-  "movie film": {
-    "keeper on": 0.3333333333333333
-  },
   "movies": {
     "adapter": 0.3333333333333333,
     "player": 0.25,
