@@ -2224,9 +2224,6 @@
   "general ledger": {
     "coverer": 0.3333333333333333
   },
-  "generic drug": {
-    "approver": 0.3333333333333333
-  },
   "genuine chocolate products": {
     "deriver": 0.25
   },
