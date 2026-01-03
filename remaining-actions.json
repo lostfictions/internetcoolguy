@@ -2838,9 +2838,6 @@
     "creater": 1,
     "ender": 0.5
   },
-  "lifeboats": {
-    "finder": 0.25
-  },
   "light energy": {
     "converter": 0.25
   },
