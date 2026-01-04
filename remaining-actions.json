@@ -2568,9 +2568,6 @@
     "melter": 1,
     "plugger": 0.25
   },
-  "is": {
-    "maker out": 0.25
-  },
   "island": {
     "surrounder": 0.3333333333333333
   },
