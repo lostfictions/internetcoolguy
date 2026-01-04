@@ -166,9 +166,6 @@
     "keeper": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "antenna": {
-    "needer": 0.2
-  },
   "antibiotic": {
     "deriver": 0.2
   },
