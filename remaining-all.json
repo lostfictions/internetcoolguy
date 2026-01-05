@@ -1290,8 +1290,7 @@
     "eater": 1
   },
   "copper": {
-    "melter": 1,
-    "user": 0.3333333333333333
+    "melter": 1
   },
   "cork": {
     "user": 0.25
