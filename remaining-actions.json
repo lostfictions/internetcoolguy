@@ -1577,9 +1577,6 @@
   "eating": {
     "performer": 0.3333333333333333
   },
-  "eating babies": {
-    "considerer": 0.25
-  },
   "echinacea": {
     "extracter": 0.25
   },
