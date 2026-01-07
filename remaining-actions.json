@@ -3540,9 +3540,6 @@
   "nuclear power": {
     "generator": 0.25
   },
-  "number seven": {
-    "considerer": 0.2
-  },
   "nutrients": {
     "requirer": 0.2,
     "storer": 0.3333333333333333
