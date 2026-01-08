@@ -3451,10 +3451,6 @@
   "new things": {
     "buyer": 1
   },
-  "newspaper": {
-    "reader": 0.3333333333333333,
-    "user": 0.2
-  },
   "newspaper articles": {
     "writer": 0.3333333333333333
   },
