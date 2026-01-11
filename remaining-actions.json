@@ -4057,10 +4057,6 @@
   "publications": {
     "seller": 0.3333333333333333
   },
-  "puck": {
-    "maker": 0.25,
-    "user": 0.25
-  },
   "pumpkin": {
     "maker": 0.3333333333333333
   },
