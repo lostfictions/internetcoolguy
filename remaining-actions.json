@@ -3006,9 +3006,6 @@
     "taker": 0.2,
     "user": 0.25
   },
-  "medical checkup": {
-    "intender": 0.2
-  },
   "medical specialty": {
     "concerner": 0.2
   },
