@@ -629,9 +629,6 @@
     "hanger": 0.25,
     "walker": 0.5
   },
-  "briefcase": {
-    "carrier": 0.25
-  },
   "brooms": {
     "user": 0.2
   },
