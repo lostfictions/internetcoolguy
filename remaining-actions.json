@@ -607,10 +607,6 @@
   "budget": {
     "cutter": 1
   },
-  "building": {
-    "builder": 0.3333333333333333,
-    "divider": 0.3333333333333333
-  },
   "buildings": {
     "designer": 1,
     "finder": 0.2,
