@@ -4809,11 +4809,6 @@
   "toes": {
     "attacher": 0.3333333333333333
   },
-  "toilet seat": {
-    "attacher": 0.3333333333333333,
-    "designer": 0.3333333333333333,
-    "lifter": 1
-  },
   "token slots": {
     "user": 0.2
   },
