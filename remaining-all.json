@@ -3681,7 +3681,6 @@
   "paint": {
     "applier": 0.25,
     "describer": 0.3333333333333333,
-    "storer": 0.25,
     "user": 0.3333333333333333
   },
   "paintings": {
