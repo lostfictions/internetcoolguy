@@ -3730,9 +3730,6 @@
   "pay": {
     "earner": 0.3333333333333333
   },
-  "paycheck": {
-    "exchanger": 0.2
-  },
   "payments": {
     "maker": 0.3333333333333333
   },
