@@ -1515,9 +1515,6 @@
     "prohibiter": 1,
     "smoker": 1
   },
-  "dry food": {
-    "storer": 0.3333333333333333
-  },
   "drywall": {
     "repairer": 0.3333333333333333,
     "user": 0.25
