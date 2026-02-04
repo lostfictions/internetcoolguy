@@ -4226,13 +4226,6 @@
   "strike": {
     "reporter": 0.3333333333333333
   },
-  "string": {
-    "cutter": 0.25,
-    "maker": 0.3333333333333333,
-    "maker up": 0.25,
-    "tier": 0.3333333333333333,
-    "winder up": 0.25
-  },
   "string bass": {
     "player": 0.3333333333333333,
     "user": 0.25
