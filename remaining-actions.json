@@ -2187,9 +2187,6 @@
   "items bought": {
     "seller": 1
   },
-  "items sold": {
-    "buyer": 1
-  },
   "jams": {
     "maker": 0.3333333333333333
   },
