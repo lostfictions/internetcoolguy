@@ -4559,9 +4559,6 @@
   "startups": {
     "funder": 0.25
   },
-  "starvations": {
-    "preventer": 1
-  },
   "state highway": {
     "maintainer": 0.25
   },
