@@ -76,9 +76,6 @@
   "alcoholic beverages": {
     "server": 0.3333333333333333
   },
-  "all books": {
-    "writer": 0.3333333333333333
-  },
   "all conflicts": {
     "causer": 0.25
   },
