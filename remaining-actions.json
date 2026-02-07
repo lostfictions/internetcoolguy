@@ -2863,9 +2863,6 @@
   "museum": {
     "locater": 0.3333333333333333
   },
-  "museum ticket": {
-    "purchaser": 0.3333333333333333
-  },
   "mushrooms": {
     "cooker": 0.2,
     "server": 0.3333333333333333
