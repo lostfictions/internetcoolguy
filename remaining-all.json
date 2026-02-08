@@ -1916,9 +1916,6 @@
     "maker": 0.25,
     "purchaser": 0.25
   },
-  "gate": {
-    "locker": 1
-  },
   "gaze": {
     "user": 0.2
   },
