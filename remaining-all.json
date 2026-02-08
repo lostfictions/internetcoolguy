@@ -4775,8 +4775,7 @@
     "taker": 1
   },
   "tests": {
-    "baser": 0.25,
-    "givener": 0.2
+    "baser": 0.25
   },
   "text": {
     "reader": 1
