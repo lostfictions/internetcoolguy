@@ -1907,7 +1907,6 @@
   },
   "gasoline": {
     "deriver": 0.25,
-    "maker": 0.25,
     "purchaser": 0.25
   },
   "gaze": {
