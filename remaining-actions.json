@@ -234,9 +234,6 @@
   "backgammon": {
     "player": 0.25
   },
-  "background checks": {
-    "requirer": 0.25
-  },
   "bacteria": {
     "killer": 1
   },
