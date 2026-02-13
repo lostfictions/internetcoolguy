@@ -3250,9 +3250,6 @@
   "notes": {
     "taker": 0.3333333333333333
   },
-  "nuclear power": {
-    "generator": 0.25
-  },
   "numbers": {
     "adder": 1,
     "adder up": 0.5,
