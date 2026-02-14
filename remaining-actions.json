@@ -3889,9 +3889,6 @@
   "sporting events": {
     "holder": 0.5
   },
-  "sports equipement": {
-    "user": 0.2
-  },
   "sports equipment": {
     "purchaser": 0.2,
     "user": 0.25
