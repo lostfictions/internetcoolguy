@@ -736,11 +736,6 @@
   "chicke": {
     "eater": 1
   },
-  "chicken": {
-    "buyer": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "eater": 1
-  },
   "child": {
     "producer": 0.25,
     "putter": 0.3333333333333333,
