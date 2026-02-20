@@ -2177,10 +2177,6 @@
   "liquid waste including caesium 137": {
     "storer": 0.2
   },
-  "liquids": {
-    "pourer": 1,
-    "spiller": 1
-  },
   "lists": {
     "generator": 1
   },

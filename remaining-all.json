@@ -2509,8 +2509,7 @@
     "storer": 0.2
   },
   "liquids": {
-    "pourer": 1,
-    "spiller": 1
+    "pourer": 1
   },
   "lists": {
     "generator": 1
