@@ -3857,9 +3857,6 @@
   "submarines": {
     "builder": 0.2
   },
-  "subway pass": {
-    "buyer": 0.2
-  },
   "subway token": {
     "user": 0.2
   },
