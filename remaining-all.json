@@ -2961,9 +2961,6 @@
   "most meals": {
     "cooker": 1
   },
-  "most outdoor meetings": {
-    "holder": 0.25
-  },
   "most questions": {
     "answerer": 0.25
   },
