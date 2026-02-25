@@ -1977,9 +1977,6 @@
   "hide bed": {
     "finder": 0.3333333333333333
   },
-  "high rise buildings": {
-    "builder": 0.25
-  },
   "high strength hydrogen peroxide": {
     "user": 0.25
   },
