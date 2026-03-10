@@ -892,9 +892,6 @@
   "credits cards": {
     "reader": 0.25
   },
-  "crime": {
-    "reducer": 0.2
-  },
   "criminal": {
     "givener": 0.5
   },
