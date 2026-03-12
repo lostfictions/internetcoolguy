@@ -3293,9 +3293,6 @@
   "poeple": {
     "breaker": 0.25
   },
-  "poles": {
-    "sticker vertically": 0.25
-  },
   "policy": {
     "canceller": 1
   },
