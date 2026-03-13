@@ -3484,10 +3484,6 @@
   "telephone directory": {
     "printer": 0.3333333333333333
   },
-  "telephone numbers": {
-    "lister alphabetically": 0.2,
-    "unlister": 1
-  },
   "television shows": {
     "finder": 0.25,
     "taper": 1
