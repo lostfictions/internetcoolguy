@@ -3432,9 +3432,6 @@
   "repairs": {
     "funder": 0.25
   },
-  "reservations": {
-    "requirer": 0.3333333333333333
-  },
   "responsible people": {
     "depender": 0.2
   },
