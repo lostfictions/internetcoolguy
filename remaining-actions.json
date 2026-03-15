@@ -979,9 +979,6 @@
   "disneyland": {
     "namer": 0.25
   },
-  "distance": {
-    "measurer": 0.2
-  },
   "distrusts": {
     "baser": 0.2
   },
