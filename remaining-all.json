@@ -3971,9 +3971,6 @@
     "extender": 0.25,
     "scatterer": 0.2
   },
-  "tablespoon": {
-    "user": 0.2
-  },
   "tack": {
     "pusher": 0.25
   },
