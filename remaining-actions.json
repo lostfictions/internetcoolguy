@@ -2221,9 +2221,6 @@
   "most journeys": {
     "maker": 0.3333333333333333
   },
-  "most meals": {
-    "cooker": 1
-  },
   "most questions": {
     "answerer": 0.25
   },
