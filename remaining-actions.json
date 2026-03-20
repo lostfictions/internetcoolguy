@@ -853,10 +853,6 @@
   "criminal": {
     "givener": 0.5
   },
-  "crops": {
-    "grower": 0.3333333333333333,
-    "faller": 0.3333333333333333
-  },
   "cucumber beetle": {
     "finder": 0.3333333333333333
   },
