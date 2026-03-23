@@ -112,10 +112,6 @@
   "anyone": {
     "considerer": 0.5
   },
-  "apartments": {
-    "builder": 0.25,
-    "renter": 1
-  },
   "appetite": {
     "appeaser": 0.3333333333333333
   },
