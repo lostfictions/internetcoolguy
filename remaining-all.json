@@ -4189,9 +4189,6 @@
   "voting": {
     "carrier": 0.25
   },
-  "waiters": {
-    "ender": 0.2
-  },
   "walking": {
     "requirer": 0.25
   },
