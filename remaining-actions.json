@@ -572,9 +572,6 @@
   "chese": {
     "maker": 0.3333333333333333
   },
-  "chess pawn": {
-    "user": 0.2
-  },
   "chess piece": {
     "user": 0.2
   },
