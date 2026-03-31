@@ -1304,9 +1304,6 @@
   "governments": {
     "charger": 0.2
   },
-  "grain": {
-    "finder": 0.3333333333333333
-  },
   "grant": {
     "burier": 0.25
   },
