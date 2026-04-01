@@ -342,9 +342,6 @@
   "bird's bodies": {
     "coverer": 0.3333333333333333
   },
-  "bird": {
-    "eater": 1
-  },
   "birds": {
     "descender": 0.3333333333333333,
     "hunter": 0.3333333333333333
