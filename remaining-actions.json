@@ -1210,10 +1210,6 @@
   "garlic": {
     "user": 0.2
   },
-  "gas": {
-    "converter": 0.2,
-    "user": 0.3333333333333333
-  },
   "general ledger": {
     "coverer": 0.3333333333333333
   },
