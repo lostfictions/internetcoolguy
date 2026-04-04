@@ -911,8 +911,7 @@
     "maintainer": 0.25
   },
   "courses": {
-    "givener": 0.3333333333333333,
-    "offerer": 0.3333333333333333
+    "givener": 0.3333333333333333
   },
   "court room jury": {
     "maker up": 0.25
