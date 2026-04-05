@@ -2081,9 +2081,6 @@
   "nighttime": {
     "causer": 0.25
   },
-  "nightwatchmen": {
-    "finder": 0.3333333333333333
-  },
   "nimh batteries": {
     "recharger": 1
   },
