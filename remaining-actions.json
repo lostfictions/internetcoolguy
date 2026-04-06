@@ -3088,9 +3088,6 @@
   "truth": {
     "baser": 0.25
   },
-  "tuba": {
-    "user": 0.2
-  },
   "turnstiles": {
     "locater": 0.3333333333333333
   },
