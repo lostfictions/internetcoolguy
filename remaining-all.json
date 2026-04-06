@@ -1298,9 +1298,6 @@
     "finder": 0.25,
     "spinner": 0.3333333333333333
   },
-  "film": {
-    "storer": 0.3333333333333333
-  },
   "film developing chemicals": {
     "overuser": 1
   },
