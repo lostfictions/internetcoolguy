@@ -287,8 +287,7 @@
   },
   "beef": {
     "griller": 1,
-    "marinater": 1,
-    "server": 0.25
+    "marinater": 1
   },
   "beer": {
     "haver": 0.3333333333333333,
