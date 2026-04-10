@@ -901,10 +901,6 @@
   "editorials": {
     "writer": 0.25
   },
-  "education": {
-    "carrier": 0.2,
-    "obtainer": 0.2
-  },
   "educational prgrams": {
     "sponsorer": 0.3333333333333333
   },
