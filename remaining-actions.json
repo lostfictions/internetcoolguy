@@ -1559,9 +1559,6 @@
     "creater": 1,
     "ender": 0.5
   },
-  "light energy": {
-    "converter": 0.25
-  },
   "lightning": {
     "causer": 0.2
   },
