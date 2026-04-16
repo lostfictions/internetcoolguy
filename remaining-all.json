@@ -2472,7 +2472,6 @@
     "multiplier": 1
   },
   "nutrients": {
-    "requirer": 0.2,
     "storer": 0.3333333333333333
   },
   "objects": {
