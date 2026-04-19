@@ -1223,10 +1223,6 @@
   "hobart": {
     "surrounder": 0.25
   },
-  "hockey puck": {
-    "maker out": 0.25,
-    "user": 0.2
-  },
   "hoe": {
     "user": 0.3333333333333333
   },
