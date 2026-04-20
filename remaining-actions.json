@@ -2098,10 +2098,6 @@
     "worker": 0.25,
     "creater": 0.25
   },
-  "president": {
-    "electer": 1,
-    "voter": 0.3333333333333333
-  },
   "presidential election": {
     "holder": 0.25
   },
