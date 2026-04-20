@@ -627,8 +627,7 @@
   "children": {
     "adopter": 1,
     "borner": 0.25,
-    "educater": 0.3333333333333333,
-    "teacher": 0.2
+    "educater": 0.3333333333333333
   },
   "chloroform": {
     "user": 0.3333333333333333
