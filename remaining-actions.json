@@ -2275,10 +2275,6 @@
   "shakespeare": {
     "considerer": 0.25
   },
-  "shallow water": {
-    "heater": 0.25,
-    "wader": 0.5
-  },
   "shampoo": {
     "purchaser": 0.25,
     "user": 0.25
