@@ -2060,9 +2060,6 @@
   "post offices": {
     "closer": 0.25
   },
-  "postage stamp": {
-    "requirer": 0.25
-  },
   "postage stamps": {
     "collector": 0.2
   },
