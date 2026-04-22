@@ -3125,9 +3125,6 @@
   "soccer": {
     "player": 0.2
   },
-  "soccer ball": {
-    "purchaser": 0.2
-  },
   "socket wrench": {
     "purchaser": 0.25
   },
