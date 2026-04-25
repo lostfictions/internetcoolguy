@@ -2285,9 +2285,6 @@
     "buyer": 0.25,
     "driver": 0.3333333333333333
   },
-  "nameservers": {
-    "orderer": 0.3333333333333333
-  },
   "national defense": {
     "payer": 0.25
   },
