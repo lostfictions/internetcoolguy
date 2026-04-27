@@ -1956,9 +1956,6 @@
   "poeple": {
     "breaker": 0.25
   },
-  "policy": {
-    "canceller": 1
-  },
   "pollution": {
     "causer": 0.3333333333333333
   },
