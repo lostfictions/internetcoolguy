@@ -890,10 +890,6 @@
   "feet": {
     "requirer": 0.25
   },
-  "fibers": {
-    "finder": 0.25,
-    "spinner": 0.3333333333333333
-  },
   "fingernail": {
     "user": 0.3333333333333333
   },
