@@ -1706,9 +1706,6 @@
   "nighttime": {
     "causer": 0.25
   },
-  "nimh batteries": {
-    "recharger": 1
-  },
   "non fiction books": {
     "reader": 0.3333333333333333
   },
