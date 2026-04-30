@@ -1919,9 +1919,6 @@
   "major illnesses": {
     "causer": 0.3333333333333333
   },
-  "malignant tumors": {
-    "curer": 1
-  },
   "mandarin oil": {
     "extracter": 0.25
   },
