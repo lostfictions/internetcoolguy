@@ -2412,9 +2412,6 @@
   "train tracks": {
     "user": 0.3333333333333333
   },
-  "tranport company": {
-    "payer": 0.25
-  },
   "trash": {
     "collector": 0.5,
     "collector once": 0.3333333333333333,
