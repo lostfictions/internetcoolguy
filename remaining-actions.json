@@ -2416,10 +2416,6 @@
   "triage": {
     "user": 0.25
   },
-  "trials": {
-    "conducter": 0.25,
-    "holder": 0.25
-  },
   "truth": {
     "baser": 0.25
   },
