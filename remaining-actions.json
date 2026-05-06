@@ -1775,9 +1775,6 @@
   "personal checks": {
     "orderer": 0.2
   },
-  "petrol": {
-    "putter": 0.3333333333333333
-  },
   "pets": {
     "breeder": 0.3333333333333333
   },
