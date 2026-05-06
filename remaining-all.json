@@ -3559,9 +3559,6 @@
   "woodwind instrument": {
     "blower": 0.5
   },
-  "woodwinds": {
-    "constructer": 0.3333333333333333
-  },
   "word": {
     "finder": 0.3333333333333333,
     "misspeller": 0.5
