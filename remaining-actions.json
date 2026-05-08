@@ -619,9 +619,6 @@
   "debit card": {
     "accounter": 0.2
   },
-  "dentist": {
-    "payer": 0.25
-  },
   "dentist chair": {
     "surrounder": 0.25
   },
