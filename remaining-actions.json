@@ -121,9 +121,6 @@
   "backfire": {
     "setter": 0.3333333333333333
   },
-  "bacteria": {
-    "killer": 1
-  },
   "bad people": {
     "sender": 0.2
   },
