@@ -2131,10 +2131,6 @@
   "telephone directory": {
     "printer": 0.3333333333333333
   },
-  "temperature": {
-    "expresser": 0.3333333333333333,
-    "measurer": 0.2
-  },
   "tennis game": {
     "player": 0.25
   },
