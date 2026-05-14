@@ -1362,14 +1362,6 @@
   "mental skills": {
     "developer": 1
   },
-  "metal": {
-    "cutter": 1,
-    "former": 1,
-    "melter": 1,
-    "painter": 1,
-    "riveter": 1,
-    "user": 0.3333333333333333
-  },
   "metamorphism": {
     "binder": 0.2
   },
