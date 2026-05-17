@@ -115,11 +115,6 @@
   "bad people": {
     "sender": 0.2
   },
-  "bags": {
-    "maker": 0.3333333333333333,
-    "maker out": 0.25,
-    "recycler": 1
-  },
   "ball": {
     "hitter": 0.3333333333333333,
     "kicker": 1,
