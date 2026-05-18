@@ -515,10 +515,6 @@
   "crakers": {
     "buyer": 0.3333333333333333
   },
-  "credit": {
-    "applier": 0.5,
-    "obtainer": 0.3333333333333333
-  },
   "credits cards": {
     "reader": 0.25
   },
