@@ -1587,9 +1587,6 @@
     "coverer": 0.3333333333333333,
     "maker up": 0.25
   },
-  "landing": {
-    "locater": 0.2
-  },
   "landmark": {
     "finder": 0.3333333333333333
   },
