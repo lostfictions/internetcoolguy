@@ -1752,9 +1752,6 @@
   "many drinking containers": {
     "recycler": 1
   },
-  "many facilities": {
-    "maker": 0.3333333333333333
-  },
   "many houses": {
     "situater": 0.3333333333333333
   },
