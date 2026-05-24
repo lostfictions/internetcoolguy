@@ -1311,9 +1311,6 @@
     "cooker": 0.3333333333333333,
     "seller": 0.2
   },
-  "hand luggage": {
-    "storer": 0.25
-  },
   "handguns": {
     "issuer": 0.3333333333333333
   },
