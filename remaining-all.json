@@ -981,9 +981,6 @@
   "empty bottle": {
     "recycler": 1
   },
-  "enemy": {
-    "seener": 1
-  },
   "energy": {
     "needer": 0.25
   },
