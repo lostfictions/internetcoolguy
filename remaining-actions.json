@@ -1795,9 +1795,6 @@
   "squash": {
     "player": 0.3333333333333333
   },
-  "stable": {
-    "finder": 0.3333333333333333
-  },
   "stairway": {
     "maker up": 0.2
   },
