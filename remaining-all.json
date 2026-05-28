@@ -1546,9 +1546,6 @@
     "coverer": 0.3333333333333333,
     "maker up": 0.25
   },
-  "landmark": {
-    "finder": 0.3333333333333333
-  },
   "language": {
     "expresser": 0.25,
     "user": 0.3333333333333333
