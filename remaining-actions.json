@@ -775,9 +775,6 @@
     "melter": 1,
     "pounder": 0.25
   },
-  "golf": {
-    "player": 0.5
-  },
   "gong": {
     "banger": 1
   },
