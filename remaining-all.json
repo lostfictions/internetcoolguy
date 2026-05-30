@@ -320,9 +320,6 @@
     "hanger": 0.25,
     "walker": 0.5
   },
-  "brooms": {
-    "user": 0.2
-  },
   "brush": {
     "loader": 0.25
   },
