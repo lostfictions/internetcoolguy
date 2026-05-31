@@ -1919,9 +1919,6 @@
   "visible light": {
     "spliter": 0.2
   },
-  "voting": {
-    "carrier": 0.25
-  },
   "walking": {
     "requirer": 0.25
   },
