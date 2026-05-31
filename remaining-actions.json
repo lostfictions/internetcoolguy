@@ -511,9 +511,6 @@
   "diseases": {
     "causer": 0.3333333333333333
   },
-  "disneyland": {
-    "namer": 0.25
-  },
   "distrusts": {
     "baser": 0.2
   },
