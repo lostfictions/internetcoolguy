@@ -1421,10 +1421,6 @@
   "postage stamps": {
     "collector": 0.2
   },
-  "pottery": {
-    "worker": 0.25,
-    "creater": 0.25
-  },
   "prisoner's penalty": {
     "reinstater": 1
   },
