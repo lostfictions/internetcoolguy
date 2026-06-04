@@ -1185,9 +1185,6 @@
   "most tasks": {
     "stepper": 0.25
   },
-  "most zinc production": {
-    "baser": 0.25
-  },
   "muscles": {
     "builder": 0.3333333333333333
   },
