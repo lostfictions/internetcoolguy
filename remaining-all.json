@@ -1624,9 +1624,6 @@
     "passer": 0.25,
     "receiver": 0.3333333333333333
   },
-  "mailbox": {
-    "finder": 0.3333333333333333
-  },
   "mandarin oil": {
     "extracter": 0.25
   },
