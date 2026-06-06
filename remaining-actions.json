@@ -1738,9 +1738,6 @@
   "train tracks": {
     "user": 0.3333333333333333
   },
-  "treated sewage": {
-    "user": 0.3333333333333333
-  },
   "trees": {
     "affecter": 0.3333333333333333,
     "blower away": 0.2,
