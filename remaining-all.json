@@ -909,9 +909,6 @@
   "emotional drives": {
     "driver": 0.3333333333333333
   },
-  "empty bottle": {
-    "recycler": 1
-  },
   "energy": {
     "needer": 0.25
   },
