@@ -630,9 +630,6 @@
   "contract": {
     "rejecter": 1
   },
-  "contracts": {
-    "evaluater": 1
-  },
   "convicted criminals": {
     "requirer": 0.2
   },
