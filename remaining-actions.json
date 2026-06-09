@@ -614,12 +614,6 @@
   "flag": {
     "finder": 0.3333333333333333
   },
-  "foods": {
-    "cooker": 0.25,
-    "eater": 1,
-    "maker": 0.3333333333333333,
-    "server": 0.3333333333333333
-  },
   "football game": {
     "player somewhere": 0.5
   },
