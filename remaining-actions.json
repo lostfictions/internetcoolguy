@@ -1445,9 +1445,6 @@
   "sexuality": {
     "relater": 0.3333333333333333
   },
-  "shakespeare": {
-    "considerer": 0.25
-  },
   "shampoo": {
     "purchaser": 0.25,
     "user": 0.25
