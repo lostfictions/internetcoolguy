@@ -286,9 +286,6 @@
     "eater": 0.3333333333333333,
     "maker": 0.3333333333333333
   },
-  "bridge": {
-    "supporter": 0.25
-  },
   "bridges": {
     "hanger": 0.25,
     "walker": 0.5
