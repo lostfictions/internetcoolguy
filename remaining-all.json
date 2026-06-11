@@ -601,9 +601,6 @@
   "condoms": {
     "maker": 0.2
   },
-  "connection": {
-    "loser": 1
-  },
   "containers": {
     "maker": 0.25,
     "recycler": 1
