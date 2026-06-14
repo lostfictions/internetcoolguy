@@ -1948,9 +1948,6 @@
     "storer": 0.3333333333333333,
     "writer": 0.5
   },
-  "paper towels": {
-    "maker": 0.3333333333333333
-  },
   "paper trays": {
     "stacker": 1
   },
