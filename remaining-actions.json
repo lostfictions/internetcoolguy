@@ -1043,9 +1043,6 @@
   "most tasks": {
     "stepper": 0.25
   },
-  "muscles": {
-    "builder": 0.3333333333333333
-  },
   "museum": {
     "locater": 0.3333333333333333
   },
