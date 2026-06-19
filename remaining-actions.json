@@ -214,11 +214,6 @@
     "carrier on": 0.3333333333333333,
     "dropper": 0.3333333333333333
   },
-  "carpets": {
-    "buyer": 0.25,
-    "roller": 0.5,
-    "seller": 0.25
-  },
   "carrot": {
     "eater": 1
   },
