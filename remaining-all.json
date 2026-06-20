@@ -1437,9 +1437,6 @@
   "linoleum": {
     "maker": 0.25
   },
-  "liquid waste including caesium 137": {
-    "storer": 0.2
-  },
   "liquids": {
     "pourer": 1
   },
