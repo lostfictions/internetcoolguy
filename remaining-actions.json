@@ -636,10 +636,6 @@
   "happiness": {
     "causer": 0.25
   },
-  "health": {
-    "acquirer": 0.2,
-    "eater": 0.2
-  },
   "heat": {
     "generator": 0.3333333333333333,
     "measurer": 0.3333333333333333,
