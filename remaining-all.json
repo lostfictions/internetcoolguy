@@ -1576,9 +1576,6 @@
   "medicine": {
     "taker orally": 0.5
   },
-  "men hairdressers": {
-    "thinker": 0.25
-  },
   "metal": {
     "cutter": 1,
     "former": 1,
