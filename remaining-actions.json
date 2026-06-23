@@ -737,9 +737,6 @@
     "needer": 0.25,
     "requirer": 0.25
   },
-  "killer": {
-    "convicter": 0.3333333333333333
-  },
   "knight": {
     "addresser": 0.3333333333333333
   },
