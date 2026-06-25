@@ -868,10 +868,6 @@
   "match": {
     "meaner": 0.25
   },
-  "matter": {
-    "affecter": 0.25,
-    "converter": 0.3333333333333333
-  },
   "mayor": {
     "chooser": 0.2
   },
