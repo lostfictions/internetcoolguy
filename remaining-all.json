@@ -1719,9 +1719,6 @@
   "nighttime": {
     "causer": 0.25
   },
-  "non fiction books": {
-    "reader": 0.3333333333333333
-  },
   "nori": {
     "maker": 0.25,
     "user": 0.2
