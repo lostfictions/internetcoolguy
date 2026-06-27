@@ -1390,9 +1390,6 @@
   "liquids": {
     "pourer": 1
   },
-  "lists": {
-    "generator": 1
-  },
   "literature": {
     "printer": 0.3333333333333333
   },
