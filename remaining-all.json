@@ -2009,9 +2009,6 @@
   "prisoners": {
     "plunger": 0.3333333333333333
   },
-  "prize": {
-    "winner": 0.2
-  },
   "process": {
     "stepper": 0.25
   },

@@ -1062,9 +1062,6 @@
   "prisoner's penalty": {
     "reinstater": 1
   },
-  "prize": {
-    "winner": 0.2
-  },
   "process": {
     "stepper": 0.25
   },
