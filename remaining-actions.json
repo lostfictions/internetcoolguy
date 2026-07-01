@@ -1028,9 +1028,6 @@
   "process": {
     "stepper": 0.25
   },
-  "punishments": {
-    "repeater": 1
-  },
   "pylorus": {
     "locater": 0.2
   },
