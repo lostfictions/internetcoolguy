@@ -671,9 +671,6 @@
   "dirty dishes": {
     "generator": 0.3333333333333333
   },
-  "diseases": {
-    "causer": 0.3333333333333333
-  },
   "distrusts": {
     "baser": 0.2
   },
