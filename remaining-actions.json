@@ -871,9 +871,6 @@
     "eater": 1,
     "presser": 0.2
   },
-  "omelettes": {
-    "maker out": 0.25
-  },
   "onions": {
     "cooker": 0.25
   },
