@@ -899,9 +899,6 @@
   "pattern": {
     "embroiderer": 0.2
   },
-  "payments": {
-    "maker": 0.3333333333333333
-  },
   "peas": {
     "server": 0.3333333333333333
   },
