@@ -753,9 +753,6 @@
   "match": {
     "meaner": 0.25
   },
-  "mayor": {
-    "chooser": 0.2
-  },
   "medical specialty": {
     "concerner": 0.2
   },
