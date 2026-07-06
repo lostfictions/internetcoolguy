@@ -41,9 +41,6 @@
   "anyone": {
     "considerer": 0.5
   },
-  "apple juice": {
-    "maker": 0.25
-  },
   "arabic": {
     "speaker": 0.25,
     "writer": 0.2
