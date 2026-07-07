@@ -38,9 +38,6 @@
     "keeper": 0.3333333333333333,
     "user": 0.3333333333333333
   },
-  "anyone": {
-    "considerer": 0.5
-  },
   "arabic": {
     "speaker": 0.25,
     "writer": 0.2
