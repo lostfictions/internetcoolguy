@@ -1905,9 +1905,6 @@
     "teacher": 1,
     "writer": 0.25
   },
-  "repairs": {
-    "funder": 0.25
-  },
   "restaurants": {
     "closer": 1
   },

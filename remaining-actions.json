@@ -924,9 +924,6 @@
   "recepies": {
     "teacher": 1
   },
-  "repairs": {
-    "funder": 0.25
-  },
   "rock": {
     "maker up": 0.25
   },
