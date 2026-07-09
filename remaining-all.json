@@ -2183,9 +2183,6 @@
   "subject person": {
     "learner": 0.25
   },
-  "subway token": {
-    "user": 0.2
-  },
   "sugar": {
     "deriver": 0.25,
     "extracter": 0.25,
