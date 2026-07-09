@@ -841,9 +841,6 @@
   "permits": {
     "requirer": 0.2
   },
-  "personal checks": {
-    "orderer": 0.2
-  },
   "pets": {
     "breeder": 0.3333333333333333
   },
