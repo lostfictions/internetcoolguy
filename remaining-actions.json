@@ -420,11 +420,6 @@
   "fresh fish": {
     "buyer": 0.25
   },
-  "frogs": {
-    "eater": 0.3333333333333333,
-    "mover": 0.25,
-    "user": 0.25
-  },
   "garlic": {
     "user": 0.2
   },
