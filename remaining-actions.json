@@ -974,10 +974,6 @@
   "sickness": {
     "causer": 0.2
   },
-  "sight": {
-    "considerer": 0.25,
-    "seener": 1
-  },
   "silk worms": {
     "cultivater": 1
   },
