@@ -140,9 +140,6 @@
     "server": 0.3333333333333333,
     "user": 0.2
   },
-  "cabinets": {
-    "locker": 1
-  },
   "cake": {
     "cutter": 1,
     "eater": 0.3333333333333333
