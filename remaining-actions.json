@@ -919,10 +919,6 @@
     "meaner": 0.25,
     "trainer": 0.25
   },
-  "shopping basket": {
-    "holder": 0.25,
-    "user": 0.3333333333333333
-  },
   "sickness": {
     "causer": 0.2
   },
