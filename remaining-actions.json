@@ -857,9 +857,6 @@
   "postage stamps": {
     "collector": 0.2
   },
-  "prisoner's penalty": {
-    "reinstater": 1
-  },
   "process": {
     "stepper": 0.25
   },
