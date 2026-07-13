@@ -516,9 +516,6 @@
   "contract": {
     "rejecter": 1
   },
-  "convicted criminals": {
-    "requirer": 0.2
-  },
   "copper": {
     "melter": 1
   },
