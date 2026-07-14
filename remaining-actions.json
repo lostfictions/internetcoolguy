@@ -969,9 +969,6 @@
   "term papers": {
     "requirer": 0.2
   },
-  "test": {
-    "taker": 1
-  },
   "text": {
     "reader": 1
   },
