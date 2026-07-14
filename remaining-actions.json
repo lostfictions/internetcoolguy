@@ -29,12 +29,6 @@
   "aluminium": {
     "recycler": 1
   },
-  "animals": {
-    "converter": 0.3333333333333333,
-    "cooker": 0.3333333333333333,
-    "keeper": 0.3333333333333333,
-    "user": 0.3333333333333333
-  },
   "architecture": {
     "engraver": 0.25
   },
