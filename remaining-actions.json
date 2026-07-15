@@ -1046,9 +1046,6 @@
   "visible light": {
     "spliter": 0.2
   },
-  "walking": {
-    "requirer": 0.25
-  },
   "wasps": {
     "relater": 0.2
   },

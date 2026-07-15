@@ -2360,9 +2360,6 @@
   "visible light": {
     "spliter": 0.2
   },
-  "walking": {
-    "requirer": 0.25
-  },
   "wallpaper": {
     "maker": 0.3333333333333333
   },
