@@ -683,10 +683,6 @@
   "old coins": {
     "treasurer": 0.5
   },
-  "olives": {
-    "eater": 1,
-    "presser": 0.2
-  },
   "onions": {
     "cooker": 0.25
   },
