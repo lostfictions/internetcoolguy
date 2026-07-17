@@ -955,9 +955,6 @@
     "cooker": 0.3333333333333333,
     "seller": 0.2
   },
-  "handguns": {
-    "issuer": 0.3333333333333333
-  },
   "happiness": {
     "causer": 0.25
   },

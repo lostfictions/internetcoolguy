@@ -413,9 +413,6 @@
   "guilty sentence": {
     "hander down": 0.5
   },
-  "handguns": {
-    "issuer": 0.3333333333333333
-  },
   "happiness": {
     "causer": 0.25
   },
