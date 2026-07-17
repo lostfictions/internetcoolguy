@@ -587,9 +587,6 @@
   "marble": {
     "etcher": 1
   },
-  "medical specialty": {
-    "concerner": 0.2
-  },
   "minor injuries": {
     "treater": 0.25
   },

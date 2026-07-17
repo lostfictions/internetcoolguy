@@ -1316,9 +1316,6 @@
     "taker": 0.2,
     "user": 0.25
   },
-  "medical specialty": {
-    "concerner": 0.2
-  },
   "medicine": {
     "taker orally": 0.5
   },
