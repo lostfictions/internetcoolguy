@@ -701,10 +701,6 @@
   "pets": {
     "breeder": 0.3333333333333333
   },
-  "photographs": {
-    "manipulater": 0.25,
-    "printer": 0.3333333333333333
-  },
   "physical objects": {
     "matterer": 0.3333333333333333
   },
