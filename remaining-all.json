@@ -916,9 +916,6 @@
   "goverment business": {
     "carrier on": 0.2
   },
-  "governments": {
-    "charger": 0.2
-  },
   "granite": {
     "etcher": 1,
     "flamer": 1
