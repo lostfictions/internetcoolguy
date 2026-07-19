@@ -1731,9 +1731,6 @@
   "prisoners": {
     "plunger": 0.3333333333333333
   },
-  "process": {
-    "stepper": 0.25
-  },
   "puck": {
     "user": 0.25
   },
