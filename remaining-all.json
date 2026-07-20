@@ -114,9 +114,6 @@
     "filler": 0.3333333333333333,
     "inflater": 1
   },
-  "bananas": {
-    "eater": 1
-  },
   "banks": {
     "regulater": 1,
     "runner": 0.3333333333333333
