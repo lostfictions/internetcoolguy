@@ -258,10 +258,6 @@
     "prohibiter": 1,
     "smoker": 1
   },
-  "drywall": {
-    "repairer": 0.3333333333333333,
-    "user": 0.25
-  },
   "duffel bag": {
     "user": 0.3333333333333333
   },
