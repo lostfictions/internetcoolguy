@@ -353,9 +353,6 @@
   "guilty sentence": {
     "hander down": 0.5
   },
-  "happiness": {
-    "causer": 0.25
-  },
   "heat": {
     "generator": 0.3333333333333333,
     "measurer": 0.3333333333333333,
