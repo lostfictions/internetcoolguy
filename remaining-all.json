@@ -216,9 +216,6 @@
     "hanger": 0.25,
     "walker": 0.5
   },
-  "brush": {
-    "loader": 0.25
-  },
   "building": {
     "divider": 0.3333333333333333
   },
