@@ -197,12 +197,6 @@
   "dock": {
     "finder": 0.3333333333333333
   },
-  "dog": {
-    "buyer": 0.25,
-    "feeder": 1,
-    "kicker": 1,
-    "lover": 1
-  },
   "domestic horses": {
     "raiser": 0.3333333333333333
   },
