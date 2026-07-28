@@ -32,9 +32,6 @@
   "aussteyr": {
     "issuer": 0.25
   },
-  "bad people": {
-    "sender": 0.2
-  },
   "ball": {
     "hitter": 0.3333333333333333,
     "kicker": 1,
