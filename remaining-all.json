@@ -637,9 +637,6 @@
   "energy": {
     "needer": 0.25
   },
-  "epees": {
-    "user": 0.2
-  },
   "esoteric things": {
     "hider": 1
   },
