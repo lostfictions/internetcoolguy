@@ -155,11 +155,6 @@
   "computer viruses": {
     "writer": 0.25
   },
-  "corn": {
-    "eater": 1,
-    "maker": 0.3333333333333333,
-    "marketer": 0.3333333333333333
-  },
   "corn kernals": {
     "protecter": 0.2
   },
