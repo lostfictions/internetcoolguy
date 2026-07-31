@@ -1780,9 +1780,6 @@
     "preparer": 0.3333333333333333,
     "server": 0.3333333333333333
   },
-  "spaghetti": {
-    "cooker": 1
-  },
   "speed": {
     "restricter": 0.25
   },
