@@ -75,10 +75,6 @@
     "finder": 0.2,
     "maker": 0.2
   },
-  "cake": {
-    "cutter": 1,
-    "eater": 0.3333333333333333
-  },
   "calculus": {
     "user": 0.25
   },
