@@ -1060,9 +1060,6 @@
   "liquids": {
     "pourer": 1
   },
-  "literature": {
-    "printer": 0.3333333333333333
-  },
   "lobster": {
     "boiler": 1
   },
