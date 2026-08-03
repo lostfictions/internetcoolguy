@@ -322,9 +322,6 @@
   "chese": {
     "maker": 0.3333333333333333
   },
-  "chicke": {
-    "eater": 1
-  },
   "chicken": {
     "buyer": 0.3333333333333333,
     "eater": 1
