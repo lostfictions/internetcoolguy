@@ -81,10 +81,6 @@
   "cards": {
     "sender": 0.3333333333333333
   },
-  "catfish": {
-    "catcher": 0.3333333333333333,
-    "catcher on": 0.3333333333333333
-  },
   "certain drinks": {
     "server": 0.25
   },
