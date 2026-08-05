@@ -590,10 +590,6 @@
   "wig": {
     "buyer": 0.25
   },
-  "window": {
-    "closer": 1,
-    "finder": 0.3333333333333333
-  },
   "window cleaner": {
     "seller": 0.25
   },
