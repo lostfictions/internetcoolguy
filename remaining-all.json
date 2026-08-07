@@ -1161,9 +1161,6 @@
   "most industrial products": {
     "seller": 0.3333333333333333
   },
-  "most questions": {
-    "answerer": 0.25
-  },
   "most restaurant menus": {
     "coverer": 0.3333333333333333
   },
