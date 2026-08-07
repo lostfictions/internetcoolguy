@@ -1507,9 +1507,6 @@
   "rain": {
     "needer": 0.25
   },
-  "real estate agents": {
-    "concerner": 0.3333333333333333
-  },
   "recipes": {
     "teacher": 1,
     "writer": 0.25
