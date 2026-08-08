@@ -1348,9 +1348,6 @@
     "stimulater": 0.25,
     "stinger": 0.3333333333333333
   },
-  "peristalsis": {
-    "affecter": 0.3333333333333333
-  },
   "person": {
     "burier": 0.3333333333333333,
     "caller": 0.2,
