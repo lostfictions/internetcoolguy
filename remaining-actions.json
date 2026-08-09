@@ -465,10 +465,6 @@
   "tom": {
     "attracter": 0.3333333333333333
   },
-  "tooth decay": {
-    "preventer": 0.25,
-    "treater": 0.3333333333333333
-  },
   "toothpaste": {
     "user": 0.25
   },
