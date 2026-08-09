@@ -310,9 +310,6 @@
   "most restaurant menus": {
     "coverer": 0.3333333333333333
   },
-  "most tasks": {
-    "stepper": 0.25
-  },
   "museum": {
     "locater": 0.3333333333333333
   },
