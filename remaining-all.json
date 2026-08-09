@@ -245,9 +245,6 @@
   "cardboard": {
     "recycler": 1
   },
-  "cards": {
-    "sender": 0.3333333333333333
-  },
   "cargo": {
     "carrier": 0.3333333333333333,
     "carrier on": 0.3333333333333333
