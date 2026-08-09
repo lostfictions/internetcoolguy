@@ -1311,9 +1311,6 @@
   "pay": {
     "earner": 0.3333333333333333
   },
-  "pelvic inflammatory disease": {
-    "finder exclusively": 0.25
-  },
   "penny": {
     "finder": 0.3333333333333333
   },
