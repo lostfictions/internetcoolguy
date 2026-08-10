@@ -436,9 +436,6 @@
   "train tracks": {
     "user": 0.3333333333333333
   },
-  "truth": {
-    "baser": 0.25
-  },
   "turnstiles": {
     "locater": 0.3333333333333333
   },
