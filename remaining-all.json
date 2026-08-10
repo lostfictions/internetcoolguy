@@ -538,9 +538,6 @@
     "closer": 1,
     "locker": 1
   },
-  "drawers": {
-    "puller outwards": 0.25
-  },
   "drugs": {
     "producer": 0.3333333333333333,
     "prohibiter": 1,
