@@ -1658,9 +1658,6 @@
     "deriver": 0.25,
     "melter": 1
   },
-  "suits": {
-    "maker out": 0.25
-  },
   "sunlight": {
     "filterer": 0.3333333333333333
   },
