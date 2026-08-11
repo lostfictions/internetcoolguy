@@ -313,11 +313,6 @@
   "placebos": {
     "user": 0.2
   },
-  "plane ticket": {
-    "printer": 0.3333333333333333,
-    "purchaser": 0.3333333333333333,
-    "requirer": 0.25
-  },
   "plastic": {
     "deriver": 0.3333333333333333,
     "maker": 0.3333333333333333,
