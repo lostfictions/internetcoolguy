@@ -202,10 +202,6 @@
   "jellyfish": {
     "finder": 0.3333333333333333
   },
-  "joint": {
-    "roller": 1,
-    "smoker": 1
-  },
   "ketchup": {
     "eater": 0.25
   },
