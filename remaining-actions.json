@@ -289,9 +289,6 @@
   "pylorus": {
     "locater": 0.2
   },
-  "rain": {
-    "needer": 0.25
-  },
   "roofing": {
     "maker": 0.2
   },
