@@ -41,9 +41,6 @@
   "certain drinks": {
     "server": 0.25
   },
-  "chese": {
-    "maker": 0.3333333333333333
-  },
   "chocolate": {
     "eater": 1,
     "maker": 0.25,
