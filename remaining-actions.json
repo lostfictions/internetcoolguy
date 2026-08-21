@@ -128,9 +128,6 @@
   "organic foods": {
     "grower": 0.25
   },
-  "pickle": {
-    "eater": 1
-  },
   "placebos": {
     "user": 0.2
   },
