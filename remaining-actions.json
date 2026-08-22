@@ -111,10 +111,6 @@
   "most industrial products": {
     "seller": 0.3333333333333333
   },
-  "nori": {
-    "maker": 0.25,
-    "user": 0.2
-  },
   "organic foods": {
     "grower": 0.25
   },
