@@ -1300,9 +1300,6 @@
   "roof": {
     "coverer": 0.3333333333333333
   },
-  "roofing": {
-    "maker": 0.2
-  },
   "rubber stamp": {
     "maker": 1
   },
