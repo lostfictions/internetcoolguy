@@ -127,9 +127,6 @@
   "train tracks": {
     "user": 0.3333333333333333
   },
-  "turnstiles": {
-    "locater": 0.3333333333333333
-  },
   "wasps": {
     "relater": 0.2
   },
