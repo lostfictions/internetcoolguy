@@ -8,9 +8,6 @@
   "actors": {
     "payer": 0.3333333333333333
   },
-  "all substances": {
-    "maker up": 0.25
-  },
   "ball": {
     "hitter": 0.3333333333333333,
     "kicker": 1,
