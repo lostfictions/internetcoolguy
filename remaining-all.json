@@ -848,9 +848,6 @@
     "requirer": 0.25,
     "user": 0.3333333333333333
   },
-  "lime oil": {
-    "extracter": 0.25
-  },
   "liquids": {
     "pourer": 1
   },
