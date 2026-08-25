@@ -41,11 +41,6 @@
   "guilty sentence": {
     "hander down": 0.5
   },
-  "heat": {
-    "generator": 0.3333333333333333,
-    "measurer": 0.3333333333333333,
-    "producer": 0.2
-  },
   "korea": {
     "locater entirely": 0.25
   },
