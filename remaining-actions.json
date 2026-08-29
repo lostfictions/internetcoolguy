@@ -2,9 +2,6 @@
   "action": {
     "performer": 1
   },
-  "card": {
-    "user": 0.3333333333333333
-  },
   "county highway": {
     "maintainer": 0.25
   },
