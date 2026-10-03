@@ -487,9 +487,6 @@
   "bathrooms": {
     "locater": 0.3333333333333333
   },
-  "bats": {
-    "requirer": 0.25
-  },
   "battery": {
     "charger": 0.2,
     "maker": 0.3333333333333333
