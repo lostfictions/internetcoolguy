@@ -2552,9 +2552,6 @@
   "grilled pancakes": {
     "eater": 0.3333333333333333
   },
-  "grocer shop": {
-    "knower": 0.25
-  },
   "groceries": {
     "purchaser": 0.25
   },
