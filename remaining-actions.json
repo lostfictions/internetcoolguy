@@ -3477,9 +3477,6 @@
   "many presidents": {
     "voter": 0.25
   },
-  "many roadways": {
-    "paver": 1
-  },
   "many shows": {
     "showner": 0.3333333333333333
   },
