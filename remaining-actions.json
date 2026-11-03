@@ -5998,9 +5998,6 @@
     "recycler": 1,
     "storer": 1
   },
-  "trash cans": {
-    "intender": 0.2
-  },
   "trees": {
     "affecter": 0.3333333333333333,
     "blower away": 0.2,
