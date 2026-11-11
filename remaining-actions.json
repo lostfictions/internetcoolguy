@@ -555,9 +555,6 @@
   "biology": {
     "baser": 0.25
   },
-  "biopsy": {
-    "user especially": 0.25
-  },
   "biopsy material": {
     "gatherer": 0.25
   },
