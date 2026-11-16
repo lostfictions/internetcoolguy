@@ -5679,9 +5679,6 @@
   "tents": {
     "user": 0.25
   },
-  "test": {
-    "taker": 1
-  },
   "tests": {
     "baser": 0.25,
     "givener": 0.2
