@@ -4998,10 +4998,6 @@
   "sheep": {
     "considerer": 0.2
   },
-  "sheet": {
-    "finder": 0.3333333333333333,
-    "washer": 0.25
-  },
   "shells": {
     "finder": 0.3333333333333333
   },
