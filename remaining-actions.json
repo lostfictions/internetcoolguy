@@ -5148,9 +5148,6 @@
   "soil": {
     "needer": 0.2
   },
-  "soldiers": {
-    "teacher": 0.25
-  },
   "somebody": {
     "shooter": 1
   },
